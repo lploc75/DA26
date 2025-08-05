@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl2_Walk_full_0: 8119955084076507259
+      Swordsman_lvl2_Walk_full_1: 3814491210597136761
+      Swordsman_lvl2_Walk_full_10: 6520870135573534203
+      Swordsman_lvl2_Walk_full_11: 5287593202046674638
+      Swordsman_lvl2_Walk_full_12: 5602323523340767906
+      Swordsman_lvl2_Walk_full_13: 1540178961854724723
+      Swordsman_lvl2_Walk_full_14: -2706621060178579126
+      Swordsman_lvl2_Walk_full_15: -5404734474579537454
+      Swordsman_lvl2_Walk_full_16: 2658822759613478387
+      Swordsman_lvl2_Walk_full_17: -4102146409001878223
+      Swordsman_lvl2_Walk_full_18: -7586607552536544786
+      Swordsman_lvl2_Walk_full_19: 5027807486681699834
+      Swordsman_lvl2_Walk_full_2: 4867557690825493166
+      Swordsman_lvl2_Walk_full_20: 9058375976628507113
+      Swordsman_lvl2_Walk_full_21: -7090183730169784184
+      Swordsman_lvl2_Walk_full_22: 3414490845525321765
+      Swordsman_lvl2_Walk_full_23: 6126939276290925822
+      Swordsman_lvl2_Walk_full_3: -8900424451249678115
+      Swordsman_lvl2_Walk_full_4: -8285629903083219235
+      Swordsman_lvl2_Walk_full_5: -3229221586251391002
+      Swordsman_lvl2_Walk_full_6: -5141779582045482260
+      Swordsman_lvl2_Walk_full_7: -3345921019539410930
+      Swordsman_lvl2_Walk_full_8: 5034602509620060012
+      Swordsman_lvl2_Walk_full_9: -3488392828121929724
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

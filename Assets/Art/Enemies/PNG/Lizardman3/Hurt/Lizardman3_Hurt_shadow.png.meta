@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 20ebf9633f826d447b207e48513089ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6835796052335445273
+    second: Lizardman3_Hurt_shadow_0
+  - first:
+      213: 1610330655522291341
+    second: Lizardman3_Hurt_shadow_1
+  - first:
+      213: -8879066332732327784
+    second: Lizardman3_Hurt_shadow_2
+  - first:
+      213: 5376613798641859991
+    second: Lizardman3_Hurt_shadow_3
+  - first:
+      213: 2002785891735126948
+    second: Lizardman3_Hurt_shadow_4
+  - first:
+      213: 8686581348072543565
+    second: Lizardman3_Hurt_shadow_5
+  - first:
+      213: -5032885944900795470
+    second: Lizardman3_Hurt_shadow_6
+  - first:
+      213: -6453757361221822540
+    second: Lizardman3_Hurt_shadow_7
+  - first:
+      213: -5877504392326314651
+    second: Lizardman3_Hurt_shadow_8
+  - first:
+      213: 4528625276412592724
+    second: Lizardman3_Hurt_shadow_9
+  - first:
+      213: -1164250626819360360
+    second: Lizardman3_Hurt_shadow_10
+  - first:
+      213: 8453676297911154245
+    second: Lizardman3_Hurt_shadow_11
+  - first:
+      213: -2530094663922085204
+    second: Lizardman3_Hurt_shadow_12
+  - first:
+      213: 2597881544527526497
+    second: Lizardman3_Hurt_shadow_13
+  - first:
+      213: 5349372097753022322
+    second: Lizardman3_Hurt_shadow_14
+  - first:
+      213: 2822057052196626334
+    second: Lizardman3_Hurt_shadow_15
+  - first:
+      213: -2931552818124439925
+    second: Lizardman3_Hurt_shadow_16
+  - first:
+      213: 3707261390088280076
+    second: Lizardman3_Hurt_shadow_17
+  - first:
+      213: 3188107617920857161
+    second: Lizardman3_Hurt_shadow_18
+  - first:
+      213: -7242122360806712435
+    second: Lizardman3_Hurt_shadow_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 209
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915c870ca40adde50800000000000000
+      internalID: 6835796052335445273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 209
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ef355033b095610800000000000000
+      internalID: 1610330655522291341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 209
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898fb54b63837c480800000000000000
+      internalID: -8879066332732327784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 209
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79df28a63c19d9a40800000000000000
+      internalID: 5376613798641859991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 209
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3490648235bcb10800000000000000
+      internalID: 2002785891735126948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 145
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45d56c66bfec8870800000000000000
+      internalID: 8686581348072543565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 145
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3c12306e8972ab0800000000000000
+      internalID: -5032885944900795470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 145
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b79fc99fd5af66a0800000000000000
+      internalID: -6453757361221822540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 145
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565879145e8ee6ea0800000000000000
+      internalID: -5877504392326314651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 145
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4528d69f1b8e8de30800000000000000
+      internalID: 4528625276412592724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 81
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899f7ee2930c7dfe0800000000000000
+      internalID: -1164250626819360360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 81
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546322fadcd715570800000000000000
+      internalID: 8453676297911154245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 81
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca210d4ee4c43ecd0800000000000000
+      internalID: -2530094663922085204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 81
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a3b1620878d0420800000000000000
+      internalID: 2597881544527526497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 81
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f74f9a499cc3a40800000000000000
+      internalID: 5349372097753022322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 17
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fd014efe5f92720800000000000000
+      internalID: 2822057052196626334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eb5637e380157d0800000000000000
+      internalID: -2931552818124439925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 17
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c089bb5a796d27330800000000000000
+      internalID: 3707261390088280076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 17
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944b3e7bcfe6e3c20800000000000000
+      internalID: 3188107617920857161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Hurt_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 17
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bd3305510de7b90800000000000000
+      internalID: -7242122360806712435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

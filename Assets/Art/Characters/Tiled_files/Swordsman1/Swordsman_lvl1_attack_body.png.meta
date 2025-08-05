@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl1_attack_body_0: -9135187755673584546
+      Swordsman_lvl1_attack_body_1: -1126437532551666359
+      Swordsman_lvl1_attack_body_10: 7146621644600508651
+      Swordsman_lvl1_attack_body_11: -5750174694563710152
+      Swordsman_lvl1_attack_body_12: 4897989567465128201
+      Swordsman_lvl1_attack_body_13: -2006677904564204392
+      Swordsman_lvl1_attack_body_14: -4788127602713816173
+      Swordsman_lvl1_attack_body_15: -912602236911205872
+      Swordsman_lvl1_attack_body_16: 6865399979480656225
+      Swordsman_lvl1_attack_body_17: -7029078810075909612
+      Swordsman_lvl1_attack_body_18: -647200008104059633
+      Swordsman_lvl1_attack_body_19: -3667377012540102679
+      Swordsman_lvl1_attack_body_2: 155074665352487446
+      Swordsman_lvl1_attack_body_20: -476988450619036160
+      Swordsman_lvl1_attack_body_21: 4995796534204045873
+      Swordsman_lvl1_attack_body_22: 8478402742752816240
+      Swordsman_lvl1_attack_body_23: 959444247077621626
+      Swordsman_lvl1_attack_body_24: -8976207990777520427
+      Swordsman_lvl1_attack_body_25: -9202644585685797896
+      Swordsman_lvl1_attack_body_26: -4158341359738872592
+      Swordsman_lvl1_attack_body_27: -5449553907883827193
+      Swordsman_lvl1_attack_body_28: -13780000631983125
+      Swordsman_lvl1_attack_body_29: 5485981468648281320
+      Swordsman_lvl1_attack_body_3: 981929001288873679
+      Swordsman_lvl1_attack_body_30: -8880961950509828583
+      Swordsman_lvl1_attack_body_31: 2141717239523203768
+      Swordsman_lvl1_attack_body_4: -5818597709799333169
+      Swordsman_lvl1_attack_body_5: 2532145929269180488
+      Swordsman_lvl1_attack_body_6: -4409286204401627562
+      Swordsman_lvl1_attack_body_7: -390931816872223855
+      Swordsman_lvl1_attack_body_8: -1200913661952145462
+      Swordsman_lvl1_attack_body_9: -5610699551067417176
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

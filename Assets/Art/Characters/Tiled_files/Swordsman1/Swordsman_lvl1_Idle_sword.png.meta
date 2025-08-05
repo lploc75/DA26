@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl1_Idle_sword_0: -3796262855647141906
+      Swordsman_lvl1_Idle_sword_1: 4548374554515206953
+      Swordsman_lvl1_Idle_sword_10: 5946510847021702071
+      Swordsman_lvl1_Idle_sword_11: -1963890346944858492
+      Swordsman_lvl1_Idle_sword_12: -4655336650114167704
+      Swordsman_lvl1_Idle_sword_13: 7248321070882808015
+      Swordsman_lvl1_Idle_sword_14: 845537199478996016
+      Swordsman_lvl1_Idle_sword_15: -1736582451261884535
+      Swordsman_lvl1_Idle_sword_16: -5620255565700517348
+      Swordsman_lvl1_Idle_sword_17: 2683039785781455836
+      Swordsman_lvl1_Idle_sword_18: 501462628729316063
+      Swordsman_lvl1_Idle_sword_19: 6427502577633520151
+      Swordsman_lvl1_Idle_sword_2: 3366418692363711542
+      Swordsman_lvl1_Idle_sword_20: 1935346319921949611
+      Swordsman_lvl1_Idle_sword_21: -1128611672824033363
+      Swordsman_lvl1_Idle_sword_22: -8218287988053266063
+      Swordsman_lvl1_Idle_sword_23: 2677609014836694249
+      Swordsman_lvl1_Idle_sword_3: -5411730822931273206
+      Swordsman_lvl1_Idle_sword_4: -1808859699007528365
+      Swordsman_lvl1_Idle_sword_5: 1153835404683223551
+      Swordsman_lvl1_Idle_sword_6: 3302172842855919971
+      Swordsman_lvl1_Idle_sword_7: 2132620169228409028
+      Swordsman_lvl1_Idle_sword_8: -631611126228578135
+      Swordsman_lvl1_Idle_sword_9: -5159641680474494655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

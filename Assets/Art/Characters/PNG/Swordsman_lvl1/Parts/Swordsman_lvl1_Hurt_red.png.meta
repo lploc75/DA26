@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl1_Hurt_red_0: 7300505176125361548
+      Swordsman_lvl1_Hurt_red_1: -8613283067308290359
+      Swordsman_lvl1_Hurt_red_10: 2379520469599045162
+      Swordsman_lvl1_Hurt_red_11: 6111733687345722850
+      Swordsman_lvl1_Hurt_red_2: 6194037405538415785
+      Swordsman_lvl1_Hurt_red_3: -3445242042374373080
+      Swordsman_lvl1_Hurt_red_4: 3448568570276490492
+      Swordsman_lvl1_Hurt_red_5: -3938337535799079013
+      Swordsman_lvl1_Hurt_red_6: 3417088590968777342
+      Swordsman_lvl1_Hurt_red_7: -8547120592896724236
+      Swordsman_lvl1_Hurt_red_8: 5382054352812989049
+      Swordsman_lvl1_Hurt_red_9: 1148663781899536994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

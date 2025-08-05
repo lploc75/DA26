@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl3_Walk_Attack_body_0: -2999594429320867562
+      Swordsman_lvl3_Walk_Attack_body_1: -3148583108787856882
+      Swordsman_lvl3_Walk_Attack_body_10: 5046672408340277577
+      Swordsman_lvl3_Walk_Attack_body_11: -5737656365511412430
+      Swordsman_lvl3_Walk_Attack_body_12: -497769865661041773
+      Swordsman_lvl3_Walk_Attack_body_13: 6206945537856716893
+      Swordsman_lvl3_Walk_Attack_body_14: 1514411919695654373
+      Swordsman_lvl3_Walk_Attack_body_15: -2692159721852865601
+      Swordsman_lvl3_Walk_Attack_body_16: 3393192257566517301
+      Swordsman_lvl3_Walk_Attack_body_17: -7272400953454473914
+      Swordsman_lvl3_Walk_Attack_body_18: 3329671664797126177
+      Swordsman_lvl3_Walk_Attack_body_19: 5759265710258953517
+      Swordsman_lvl3_Walk_Attack_body_2: 2513002396171433212
+      Swordsman_lvl3_Walk_Attack_body_20: 4447845447075306661
+      Swordsman_lvl3_Walk_Attack_body_21: 6190956712748544560
+      Swordsman_lvl3_Walk_Attack_body_22: 2421282365709928977
+      Swordsman_lvl3_Walk_Attack_body_23: 8205226121838616943
+      Swordsman_lvl3_Walk_Attack_body_3: -6848516338991303098
+      Swordsman_lvl3_Walk_Attack_body_4: 8010810351691077692
+      Swordsman_lvl3_Walk_Attack_body_5: -9097548393017936551
+      Swordsman_lvl3_Walk_Attack_body_6: 4141801020726279140
+      Swordsman_lvl3_Walk_Attack_body_7: -5423634844496471590
+      Swordsman_lvl3_Walk_Attack_body_8: 930538749387073861
+      Swordsman_lvl3_Walk_Attack_body_9: 5693088765585633479
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

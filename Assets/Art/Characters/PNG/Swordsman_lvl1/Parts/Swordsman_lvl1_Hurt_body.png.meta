@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl1_Hurt_body_0: 7666556089653177467
+      Swordsman_lvl1_Hurt_body_1: -3595814324683523693
+      Swordsman_lvl1_Hurt_body_10: -7918626489472558269
+      Swordsman_lvl1_Hurt_body_11: -3330247726683338510
+      Swordsman_lvl1_Hurt_body_12: 870903389848504452
+      Swordsman_lvl1_Hurt_body_13: -7614467924470263886
+      Swordsman_lvl1_Hurt_body_14: -6269824176563973993
+      Swordsman_lvl1_Hurt_body_15: -4965041853987415445
+      Swordsman_lvl1_Hurt_body_16: 4450846990571855442
+      Swordsman_lvl1_Hurt_body_17: 721201508218429652
+      Swordsman_lvl1_Hurt_body_18: -47566108966943739
+      Swordsman_lvl1_Hurt_body_19: -3604782334785532432
+      Swordsman_lvl1_Hurt_body_2: 3428002299145208621
+      Swordsman_lvl1_Hurt_body_3: -2847472645020449323
+      Swordsman_lvl1_Hurt_body_4: 6291878655610436808
+      Swordsman_lvl1_Hurt_body_5: 1501626868439808450
+      Swordsman_lvl1_Hurt_body_6: -7275563006618123538
+      Swordsman_lvl1_Hurt_body_7: 1230963498502395345
+      Swordsman_lvl1_Hurt_body_8: -8619476448176496973
+      Swordsman_lvl1_Hurt_body_9: -8252666688253777157
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

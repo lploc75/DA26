@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl2_Death_sword_back_0: -4735843881847816315
+      Swordsman_lvl2_Death_sword_back_1: 3079978931478580330
+      Swordsman_lvl2_Death_sword_back_2: -2133989827893494023
+      Swordsman_lvl2_Death_sword_back_3: 1976239857951909154
+      Swordsman_lvl2_Death_sword_back_4: 7168451840389222378
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

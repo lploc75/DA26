@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: 2c9835fdfc8e55649b09263e4d6deeef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7137827752460690158
+    second: Lizardman3_Death_body_0
+  - first:
+      213: -4541434625075014424
+    second: Lizardman3_Death_body_1
+  - first:
+      213: -4519084609736616642
+    second: Lizardman3_Death_body_2
+  - first:
+      213: 8843045947468632677
+    second: Lizardman3_Death_body_3
+  - first:
+      213: 6199331804404977724
+    second: Lizardman3_Death_body_4
+  - first:
+      213: -9133997094149669236
+    second: Lizardman3_Death_body_5
+  - first:
+      213: -9191392888358128425
+    second: Lizardman3_Death_body_6
+  - first:
+      213: -647117267342048865
+    second: Lizardman3_Death_body_7
+  - first:
+      213: -5516792083457042550
+    second: Lizardman3_Death_body_8
+  - first:
+      213: 1451928424613559385
+    second: Lizardman3_Death_body_9
+  - first:
+      213: -499506861674981729
+    second: Lizardman3_Death_body_10
+  - first:
+      213: -3158187940748441467
+    second: Lizardman3_Death_body_11
+  - first:
+      213: -7997650052075842272
+    second: Lizardman3_Death_body_12
+  - first:
+      213: 43958163882339249
+    second: Lizardman3_Death_body_13
+  - first:
+      213: -2544217089438330038
+    second: Lizardman3_Death_body_14
+  - first:
+      213: -5314178209327404105
+    second: Lizardman3_Death_body_15
+  - first:
+      213: -3275309885104317911
+    second: Lizardman3_Death_body_16
+  - first:
+      213: 9166811639627542688
+    second: Lizardman3_Death_body_17
+  - first:
+      213: 7706332505123523775
+    second: Lizardman3_Death_body_18
+  - first:
+      213: 934481753944407229
+    second: Lizardman3_Death_body_19
+  - first:
+      213: -6515368765075444454
+    second: Lizardman3_Death_body_20
+  - first:
+      213: 8341888414595065999
+    second: Lizardman3_Death_body_21
+  - first:
+      213: -8262499823955475031
+    second: Lizardman3_Death_body_22
+  - first:
+      213: 525244471817059987
+    second: Lizardman3_Death_body_23
+  - first:
+      213: 120664672720497713
+    second: Lizardman3_Death_body_24
+  - first:
+      213: -4253549501312157119
+    second: Lizardman3_Death_body_25
+  - first:
+      213: -3087284335356503013
+    second: Lizardman3_Death_body_26
+  - first:
+      213: 6749210202516980319
+    second: Lizardman3_Death_body_27
+  - first:
+      213: 4036566987560634149
+    second: Lizardman3_Death_body_28
+  - first:
+      213: 8363007080838080726
+    second: Lizardman3_Death_body_29
+  - first:
+      213: 5052443895262786880
+    second: Lizardman3_Death_body_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 212
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dd7aa1a7751fc90800000000000000
+      internalID: -7137827752460690158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 212
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e49eb1254599f0c0800000000000000
+      internalID: -4541434625075014424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 212
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35d6b69d7cf841c0800000000000000
+      internalID: -4519084609736616642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 213
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562535fcf6fc8ba70800000000000000
+      internalID: 8843045947468632677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 210
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30175e3e63780650800000000000000
+      internalID: 6199331804404977724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 210
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e32cf69068d3180800000000000000
+      internalID: -9133997094149669236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 208
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4bc5abddc917080800000000000000
+      internalID: -9191392888358128425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 208
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f914e00264af407f0800000000000000
+      internalID: -647117267342048865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 208
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a871bdd44da6073b0800000000000000
+      internalID: -5516792083457042550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 208
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c3264a539462410800000000000000
+      internalID: 1451928424613559385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 148
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f961ef2e7256119f0800000000000000
+      internalID: -499506861674981729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 148
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58844c9fcccdb24d0800000000000000
+      internalID: -3158187940748441467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 148
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0259228a6a3a20190800000000000000
+      internalID: -7997650052075842272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 148
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb6f2797bb2c9000800000000000000
+      internalID: 43958163882339249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 147
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43dc88790021bcd0800000000000000
+      internalID: -2544217089438330038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 146
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb2be7031f3046b0800000000000000
+      internalID: -5314178209327404105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 145
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a18094303cb82d0800000000000000
+      internalID: -3275309885104317911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 84
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a07aee4e9e073f70800000000000000
+      internalID: 9166811639627542688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 84
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc0fe0659462fa60800000000000000
+      internalID: 7706332505123523775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 84
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcb0f04432f7fc00800000000000000
+      internalID: 934481753944407229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 84
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1da009c0a2c495a0800000000000000
+      internalID: -6515368765075444454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 84
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88a2ebd05754c370800000000000000
+      internalID: 8341888414595065999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 80
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5086ccf24b55d80800000000000000
+      internalID: -8262499823955475031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_23
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 80
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eb4e2701b0a4700800000000000000
+      internalID: 525244471817059987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ca17a61efaca100800000000000000
+      internalID: 120664672720497713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 20
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14abfbbc34b58f4c0800000000000000
+      internalID: -4253549501312157119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 20
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c927e0143c725d0800000000000000
+      internalID: -3087284335356503013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 20
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52877b9be20aad50800000000000000
+      internalID: 6749210202516980319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 20
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527ce9dd944c40830800000000000000
+      internalID: 4036566987560634149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d82e6381ae5f0470800000000000000
+      internalID: 8363007080838080726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Death_body_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045bab824f2ed1640800000000000000
+      internalID: 5052443895262786880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

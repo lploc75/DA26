@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl3_Run_Attack_sword_0: -6314472403946954507
+      Swordsman_lvl3_Run_Attack_sword_1: 8804217840639438137
+      Swordsman_lvl3_Run_Attack_sword_10: -1738075717255239505
+      Swordsman_lvl3_Run_Attack_sword_11: -1965546835392794284
+      Swordsman_lvl3_Run_Attack_sword_12: 8929027440667292481
+      Swordsman_lvl3_Run_Attack_sword_13: 5283955767502492695
+      Swordsman_lvl3_Run_Attack_sword_14: -7421641339694129531
+      Swordsman_lvl3_Run_Attack_sword_15: 6039430905013573286
+      Swordsman_lvl3_Run_Attack_sword_2: -5926041744560118094
+      Swordsman_lvl3_Run_Attack_sword_3: -4512293179443745821
+      Swordsman_lvl3_Run_Attack_sword_4: -2255044860806563436
+      Swordsman_lvl3_Run_Attack_sword_5: 2551140341761556734
+      Swordsman_lvl3_Run_Attack_sword_6: 2848945294189870429
+      Swordsman_lvl3_Run_Attack_sword_7: -4523799509402350555
+      Swordsman_lvl3_Run_Attack_sword_8: -7878285525510009449
+      Swordsman_lvl3_Run_Attack_sword_9: 123996991281119190
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

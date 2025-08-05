@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl3_Walk_Attack_0: -1409034133858233692
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
