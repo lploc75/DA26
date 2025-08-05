@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: cab07c8dfc0f76c459ddc47e8aa1c3b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5337242707207734028
+    second: Lizardman3_Attack_swing_0
+  - first:
+      213: 9036081796843006992
+    second: Lizardman3_Attack_swing_1
+  - first:
+      213: 9100148093687623846
+    second: Lizardman3_Attack_swing_2
+  - first:
+      213: -3879398357160632902
+    second: Lizardman3_Attack_swing_3
+  - first:
+      213: 241358491068411088
+    second: Lizardman3_Attack_swing_4
+  - first:
+      213: -5507585239201679959
+    second: Lizardman3_Attack_swing_5
+  - first:
+      213: -3343482215663446377
+    second: Lizardman3_Attack_swing_6
+  - first:
+      213: 5921728600381753286
+    second: Lizardman3_Attack_swing_7
+  - first:
+      213: 2357461622630815335
+    second: Lizardman3_Attack_swing_8
+  - first:
+      213: -1959543800746762417
+    second: Lizardman3_Attack_swing_9
+  - first:
+      213: 5695767956252166181
+    second: Lizardman3_Attack_swing_10
+  - first:
+      213: 7553509698425566672
+    second: Lizardman3_Attack_swing_11
+  - first:
+      213: -475696085937905950
+    second: Lizardman3_Attack_swing_12
+  - first:
+      213: -4055793698711416173
+    second: Lizardman3_Attack_swing_13
+  - first:
+      213: 4351769825249415256
+    second: Lizardman3_Attack_swing_14
+  - first:
+      213: -875086974699430637
+    second: Lizardman3_Attack_swing_15
+  - first:
+      213: -4331448956079801912
+    second: Lizardman3_Attack_swing_16
+  - first:
+      213: 4860812284907012222
+    second: Lizardman3_Attack_swing_17
+  - first:
+      213: 7535277528780074986
+    second: Lizardman3_Attack_swing_18
+  - first:
+      213: -891386678599400108
+    second: Lizardman3_Attack_swing_19
+  - first:
+      213: -3072391867846606
+    second: Lizardman3_Attack_swing_20
+  - first:
+      213: -4884832474908331992
+    second: Lizardman3_Attack_swing_21
+  - first:
+      213: 2154454826001696117
+    second: Lizardman3_Attack_swing_22
+  - first:
+      213: -3611784449668438654
+    second: Lizardman3_Attack_swing_23
+  - first:
+      213: 7362878204195516989
+    second: Lizardman3_Attack_swing_24
+  - first:
+      213: 945546740155412554
+    second: Lizardman3_Attack_swing_25
+  - first:
+      213: -4782946557113535996
+    second: Lizardman3_Attack_swing_26
+  - first:
+      213: 6177193934712000741
+    second: Lizardman3_Attack_swing_27
+  - first:
+      213: -2987358314730646146
+    second: Lizardman3_Attack_swing_28
+  - first:
+      213: 5240403468154021411
+    second: Lizardman3_Attack_swing_29
+  - first:
+      213: -1107023398032966488
+    second: Lizardman3_Attack_swing_30
+  - first:
+      213: -4448691643749262932
+    second: Lizardman3_Attack_swing_31
+  - first:
+      213: -6699416741673886883
+    second: Lizardman3_Attack_swing_32
+  - first:
+      213: -5682805337298707995
+    second: Lizardman3_Attack_swing_33
+  - first:
+      213: 6977428384794460153
+    second: Lizardman3_Attack_swing_34
+  - first:
+      213: -2211229085506379414
+    second: Lizardman3_Attack_swing_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_0
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 198
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcb6d4290e4ee5b0800000000000000
+      internalID: -5337242707207734028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 191
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c633ed48c966d70800000000000000
+      internalID: 9036081796843006992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 191
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0f2bff9783a4e70800000000000000
+      internalID: 9100148093687623846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 200
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdd4338fbb992ac0800000000000000
+      internalID: -3879398357160632902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 195
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc28a3d44a795300800000000000000
+      internalID: 241358491068411088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 191
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5f237c7602193b0800000000000000
+      internalID: -5507585239201679959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7965b8ea3a09991d0800000000000000
+      internalID: -3343482215663446377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 202
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7860299c43e2250800000000000000
+      internalID: 5921728600381753286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 144
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766968cfad267b020800000000000000
+      internalID: 2357461622630815335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 152
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f9baa9b4d4ec4e0800000000000000
+      internalID: -1959543800746762417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 151
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528867b57ce6b0f40800000000000000
+      internalID: 5695767956252166181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 150
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5bf1eec0573d860800000000000000
+      internalID: 7553509698425566672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 155
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee90a02eecf569f0800000000000000
+      internalID: -475696085937905950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 143
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392d90a9e1de6b7c0800000000000000
+      internalID: -4055793698711416173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 140
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85051427997946c30800000000000000
+      internalID: 4351769825249415256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 140
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d187d68011bd3f0800000000000000
+      internalID: -875086974699430637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 139
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9702a9f1a93e3c0800000000000000
+      internalID: -4331448956079801912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 138
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70ccb9f403157340800000000000000
+      internalID: 4860812284907012222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 80
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef6be22dfea29860800000000000000
+      internalID: 7535277528780074986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 88
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4554190e98821a3f0800000000000000
+      internalID: -891386678599400108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_20
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 87
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2303b160da515fff0800000000000000
+      internalID: -3072391867846606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 86
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820fbc9beb6953cb0800000000000000
+      internalID: -4884832474908331992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_22
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 90
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575057cdf3926ed10800000000000000
+      internalID: 2154454826001696117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 79
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285ab38dd2d50edc0800000000000000
+      internalID: -3611784449668438654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d323a8d67b23e2660800000000000000
+      internalID: 7362878204195516989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 76
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40fd7d10c14f1d00800000000000000
+      internalID: 945546740155412554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 71
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402f19b827f8f9db0800000000000000
+      internalID: -4782946557113535996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_27
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 24
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0d43bc72dc9b550800000000000000
+      internalID: 6177193934712000741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_28
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 16
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e759ba1c075ca86d0800000000000000
+      internalID: -2987358314730646146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 22
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326ab0f7037a9b840800000000000000
+      internalID: 5240403468154021411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_30
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 23
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf232b51013a0f0800000000000000
+      internalID: -1107023398032966488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9931b25821342c0800000000000000
+      internalID: -4448691643749262932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_32
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 15
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b193ee7f3e603a0800000000000000
+      internalID: -6699416741673886883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_33
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 12
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9dd9e87ae9221b0800000000000000
+      internalID: -5682805337298707995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_34
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffb661e52ec4d060800000000000000
+      internalID: 6977428384794460153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman3_Attack_swing_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 7
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a616161ccd22051e0800000000000000
+      internalID: -2211229085506379414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

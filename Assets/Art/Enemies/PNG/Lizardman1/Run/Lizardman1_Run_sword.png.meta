@@ -1,0 +1,1205 @@
+fileFormatVersion: 2
+guid: 8a06552f387cbe34fa835996aa7d96c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4351304366002102786
+    second: Lizardman1_Run_sword_0
+  - first:
+      213: -7256379178429150266
+    second: Lizardman1_Run_sword_1
+  - first:
+      213: -5978494731417063045
+    second: Lizardman1_Run_sword_2
+  - first:
+      213: 7755085053644887062
+    second: Lizardman1_Run_sword_3
+  - first:
+      213: -4588163976687242670
+    second: Lizardman1_Run_sword_4
+  - first:
+      213: -7624605525642174880
+    second: Lizardman1_Run_sword_5
+  - first:
+      213: 2270319584299157146
+    second: Lizardman1_Run_sword_6
+  - first:
+      213: 2450017581603043794
+    second: Lizardman1_Run_sword_7
+  - first:
+      213: 4291393741008921582
+    second: Lizardman1_Run_sword_8
+  - first:
+      213: -8861613488640610651
+    second: Lizardman1_Run_sword_9
+  - first:
+      213: 3912628961609700700
+    second: Lizardman1_Run_sword_10
+  - first:
+      213: 399599242999564830
+    second: Lizardman1_Run_sword_11
+  - first:
+      213: -7110067854842874384
+    second: Lizardman1_Run_sword_12
+  - first:
+      213: -3009579009030328898
+    second: Lizardman1_Run_sword_13
+  - first:
+      213: 3528672780157001377
+    second: Lizardman1_Run_sword_14
+  - first:
+      213: 4631071505394885485
+    second: Lizardman1_Run_sword_15
+  - first:
+      213: -1010141007800441429
+    second: Lizardman1_Run_sword_16
+  - first:
+      213: 9031917424386305181
+    second: Lizardman1_Run_sword_17
+  - first:
+      213: -331187355944235650
+    second: Lizardman1_Run_sword_18
+  - first:
+      213: 6452166101626996859
+    second: Lizardman1_Run_sword_19
+  - first:
+      213: -7873651557762570865
+    second: Lizardman1_Run_sword_20
+  - first:
+      213: -5137780155353054433
+    second: Lizardman1_Run_sword_21
+  - first:
+      213: -1105772763368753998
+    second: Lizardman1_Run_sword_22
+  - first:
+      213: -3392182670985191310
+    second: Lizardman1_Run_sword_23
+  - first:
+      213: 2067810977557299347
+    second: Lizardman1_Run_sword_24
+  - first:
+      213: -1354020676535775526
+    second: Lizardman1_Run_sword_25
+  - first:
+      213: 3986729552692320690
+    second: Lizardman1_Run_sword_26
+  - first:
+      213: -2980830277722584096
+    second: Lizardman1_Run_sword_27
+  - first:
+      213: 6824649207278866945
+    second: Lizardman1_Run_sword_28
+  - first:
+      213: -174648304163093036
+    second: Lizardman1_Run_sword_29
+  - first:
+      213: -4128376629773489420
+    second: Lizardman1_Run_sword_30
+  - first:
+      213: 7996645141401548287
+    second: Lizardman1_Run_sword_31
+  - first:
+      213: 5129550644639070916
+    second: Lizardman1_Run_sword_32
+  - first:
+      213: -6246674853837130797
+    second: Lizardman1_Run_sword_33
+  - first:
+      213: 5787722897200683268
+    second: Lizardman1_Run_sword_34
+  - first:
+      213: 3404477414306178304
+    second: Lizardman1_Run_sword_35
+  - first:
+      213: 2075806320785948690
+    second: Lizardman1_Run_sword_36
+  - first:
+      213: 3272418863654629496
+    second: Lizardman1_Run_sword_37
+  - first:
+      213: 4641176064312521237
+    second: Lizardman1_Run_sword_38
+  - first:
+      213: 8381253332519903175
+    second: Lizardman1_Run_sword_39
+  - first:
+      213: -4350308383105202324
+    second: Lizardman1_Run_sword_40
+  - first:
+      213: -6458416523174317372
+    second: Lizardman1_Run_sword_41
+  - first:
+      213: -4182375081370588846
+    second: Lizardman1_Run_sword_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 234
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20269254440f26c30800000000000000
+      internalID: 4351304366002102786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 223
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb803a45992c4b90800000000000000
+      internalID: -7256379178429150266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 234
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71775a97be180da0800000000000000
+      internalID: -5978494731417063045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 228
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614d171a4c89f9b60800000000000000
+      internalID: 7755085053644887062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 238
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252305e1c219350c0800000000000000
+      internalID: -4588163976687242670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 234
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e1e9bdba5ff2690800000000000000
+      internalID: -7624605525642174880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 223
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9683cc12abc18f10800000000000000
+      internalID: 2270319584299157146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 234
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d939ec7206300220800000000000000
+      internalID: 2450017581603043794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 228
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3eb24eed71e8b30800000000000000
+      internalID: 4291393741008921582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_9
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 238
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae24c0ab79350580800000000000000
+      internalID: -8861613488640610651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 224
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55d6a28f437c4630800000000000000
+      internalID: 3912628961609700700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 224
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a0183f469ab8500800000000000000
+      internalID: 399599242999564830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 224
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5ba2fe4f6f35d90800000000000000
+      internalID: -7110067854842874384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 224
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd664336d3db36d0800000000000000
+      internalID: -3009579009030328898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae19d5a23d58f030800000000000000
+      internalID: 3528672780157001377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 159
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63ee786ffed44040800000000000000
+      internalID: 4631071505394885485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 160
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5eff8fa124bf1f0800000000000000
+      internalID: -1010141007800441429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 166
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ce4395b01d75d70800000000000000
+      internalID: 9031917424386305181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dc7debad2676bf0800000000000000
+      internalID: -331187355944235650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 159
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b784b4762e2ba8950800000000000000
+      internalID: 6452166101626996859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f856c56ef9b2bb290800000000000000
+      internalID: -7873651557762570865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_21
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 166
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13412a7b20f2b8b0800000000000000
+      internalID: -5137780155353054433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 96
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b47a15c78187a0f0800000000000000
+      internalID: -1105772763368753998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_23
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 111
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27021b255db8ce0d0800000000000000
+      internalID: -3392182670985191310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390c4fbd02752bc10800000000000000
+      internalID: 2067810977557299347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade0d8c5e5d853de0800000000000000
+      internalID: -1354020676535775526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 96
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b917c3d765b35730800000000000000
+      internalID: 3986729552692320690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 111
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebcd90d7a6f1a6d0800000000000000
+      internalID: -2980830277722584096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 102
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1021284ab4606be50800000000000000
+      internalID: 6824649207278866945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 96
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d50cbdea46839df0800000000000000
+      internalID: -174648304163093036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 111
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faa35b045f05b6c0800000000000000
+      internalID: -4128376629773489420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5b718536ac9fe60800000000000000
+      internalID: 7996645141401548287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_32
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 109
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca761f3223df2740800000000000000
+      internalID: 5129550644639070916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_33
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 99
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d33ca5115a5f49a0800000000000000
+      internalID: -6246674853837130797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_34
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 102
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4099a027f4f125050800000000000000
+      internalID: 5787722897200683268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_35
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 32
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0056f8dab222f3f20800000000000000
+      internalID: 3404477414306178304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21005f4c9debecc10800000000000000
+      internalID: 2075806320785948690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 32
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870fb645e97f96d20800000000000000
+      internalID: 3272418863654629496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 38
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512b46d5a05c86040800000000000000
+      internalID: 4641176064312521237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_39
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 32
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf58690081305470800000000000000
+      internalID: 8381253332519903175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_40
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 30
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c674c91139990a3c0800000000000000
+      internalID: -4350308383105202324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_41
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 32
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c27eace3681f56a0800000000000000
+      internalID: -6458416523174317372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizardman1_Run_sword_42
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 38
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259e57dc50835f5c0800000000000000
+      internalID: -4182375081370588846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
