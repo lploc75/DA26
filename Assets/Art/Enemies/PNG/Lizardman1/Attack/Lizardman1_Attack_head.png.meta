@@ -190,6 +190,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -822,7 +887,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardman1_Attack_head_0: 333697522673677434
+      Lizardman1_Attack_head_1: 5699946421615991408
+      Lizardman1_Attack_head_10: 7853670379047628623
+      Lizardman1_Attack_head_11: 3989219253463329178
+      Lizardman1_Attack_head_12: -7868342679392866781
+      Lizardman1_Attack_head_13: -8604181654660786317
+      Lizardman1_Attack_head_14: 3784579413299291898
+      Lizardman1_Attack_head_15: -7794165547848950727
+      Lizardman1_Attack_head_16: 1644032444263656974
+      Lizardman1_Attack_head_17: -7358613144557443290
+      Lizardman1_Attack_head_18: 5463654568367765506
+      Lizardman1_Attack_head_19: 5667174250743038701
+      Lizardman1_Attack_head_2: 3561802216050644225
+      Lizardman1_Attack_head_20: 7179935075874499345
+      Lizardman1_Attack_head_21: 783276589115935701
+      Lizardman1_Attack_head_22: 3233319833444121365
+      Lizardman1_Attack_head_23: -6432744805897898491
+      Lizardman1_Attack_head_24: 1224921571325491863
+      Lizardman1_Attack_head_25: 593019026283221042
+      Lizardman1_Attack_head_26: 4584416935846014383
+      Lizardman1_Attack_head_27: 7038205391931115288
+      Lizardman1_Attack_head_3: -2459940238870741145
+      Lizardman1_Attack_head_4: 8268847821109568405
+      Lizardman1_Attack_head_5: 3881850761054689020
+      Lizardman1_Attack_head_6: 674688929568783524
+      Lizardman1_Attack_head_7: 1890270448469697553
+      Lizardman1_Attack_head_8: -6651161468092942914
+      Lizardman1_Attack_head_9: -8488794852726788684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

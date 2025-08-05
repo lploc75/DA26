@@ -214,6 +214,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1022,7 +1087,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardman3_Attack_swing_0: -5337242707207734028
+      Lizardman3_Attack_swing_1: 9036081796843006992
+      Lizardman3_Attack_swing_10: 5695767956252166181
+      Lizardman3_Attack_swing_11: 7553509698425566672
+      Lizardman3_Attack_swing_12: -475696085937905950
+      Lizardman3_Attack_swing_13: -4055793698711416173
+      Lizardman3_Attack_swing_14: 4351769825249415256
+      Lizardman3_Attack_swing_15: -875086974699430637
+      Lizardman3_Attack_swing_16: -4331448956079801912
+      Lizardman3_Attack_swing_17: 4860812284907012222
+      Lizardman3_Attack_swing_18: 7535277528780074986
+      Lizardman3_Attack_swing_19: -891386678599400108
+      Lizardman3_Attack_swing_2: 9100148093687623846
+      Lizardman3_Attack_swing_20: -3072391867846606
+      Lizardman3_Attack_swing_21: -4884832474908331992
+      Lizardman3_Attack_swing_22: 2154454826001696117
+      Lizardman3_Attack_swing_23: -3611784449668438654
+      Lizardman3_Attack_swing_24: 7362878204195516989
+      Lizardman3_Attack_swing_25: 945546740155412554
+      Lizardman3_Attack_swing_26: -4782946557113535996
+      Lizardman3_Attack_swing_27: 6177193934712000741
+      Lizardman3_Attack_swing_28: -2987358314730646146
+      Lizardman3_Attack_swing_29: 5240403468154021411
+      Lizardman3_Attack_swing_3: -3879398357160632902
+      Lizardman3_Attack_swing_30: -1107023398032966488
+      Lizardman3_Attack_swing_31: -4448691643749262932
+      Lizardman3_Attack_swing_32: -6699416741673886883
+      Lizardman3_Attack_swing_33: -5682805337298707995
+      Lizardman3_Attack_swing_34: 6977428384794460153
+      Lizardman3_Attack_swing_35: -2211229085506379414
+      Lizardman3_Attack_swing_4: 241358491068411088
+      Lizardman3_Attack_swing_5: -5507585239201679959
+      Lizardman3_Attack_swing_6: -3343482215663446377
+      Lizardman3_Attack_swing_7: 5921728600381753286
+      Lizardman3_Attack_swing_8: 2357461622630815335
+      Lizardman3_Attack_swing_9: -1959543800746762417
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

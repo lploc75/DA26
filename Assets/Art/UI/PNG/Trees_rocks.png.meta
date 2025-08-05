@@ -259,6 +259,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1397,7 +1462,58 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Trees_rocks_0: -486440195628618213
+      Trees_rocks_1: 8836797205436577192
+      Trees_rocks_10: -5132909099097086355
+      Trees_rocks_11: -3044913596249200377
+      Trees_rocks_12: -3855891328293585737
+      Trees_rocks_13: 6846607113320711410
+      Trees_rocks_14: -5339307417061871908
+      Trees_rocks_15: -1663210974333014974
+      Trees_rocks_16: -4859738244318845850
+      Trees_rocks_17: -1442727405702070882
+      Trees_rocks_18: 2150500402056985409
+      Trees_rocks_19: 4429395900071525367
+      Trees_rocks_2: 5459894583095715503
+      Trees_rocks_20: -3378793730418196981
+      Trees_rocks_21: 5982613234988829092
+      Trees_rocks_22: -2613509641054623297
+      Trees_rocks_23: 8220880824623299519
+      Trees_rocks_24: 8742865314853629472
+      Trees_rocks_25: 1020179218989924698
+      Trees_rocks_26: -2168220385872670423
+      Trees_rocks_27: 6239910108683634495
+      Trees_rocks_28: -5328328209517400354
+      Trees_rocks_29: -1079656519068126390
+      Trees_rocks_3: -9165993162564647963
+      Trees_rocks_30: 34753171678220625
+      Trees_rocks_31: -3281666824954890798
+      Trees_rocks_32: 7581447697822034278
+      Trees_rocks_33: 8780002984658897838
+      Trees_rocks_34: -8918636251612579568
+      Trees_rocks_35: -8655586284877942719
+      Trees_rocks_36: 3617032554554866246
+      Trees_rocks_37: -6066015234518759887
+      Trees_rocks_38: 2845044805595936028
+      Trees_rocks_39: -369137434470279599
+      Trees_rocks_4: 2859234042525731888
+      Trees_rocks_40: 6566255483478651086
+      Trees_rocks_41: 1135329445331901050
+      Trees_rocks_42: -187078030818608720
+      Trees_rocks_43: 1287615755737084010
+      Trees_rocks_44: -5243640091079378181
+      Trees_rocks_45: -5528199415721249155
+      Trees_rocks_46: -5143171842355814517
+      Trees_rocks_47: 8532207469353588389
+      Trees_rocks_48: -5717806104335632076
+      Trees_rocks_49: -2088689837163639435
+      Trees_rocks_5: -8280323244060462987
+      Trees_rocks_50: -9144009283356602896
+      Trees_rocks_6: 1488637196377823722
+      Trees_rocks_7: 8478739965728965373
+      Trees_rocks_8: 2244823579860874994
+      Trees_rocks_9: -950762635237805272
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

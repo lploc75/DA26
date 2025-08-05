@@ -208,6 +208,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -972,7 +1037,41 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardman1_Attack_full_0: 2064324943728807373
+      Lizardman1_Attack_full_1: -2719772899398206603
+      Lizardman1_Attack_full_10: 6171080487604126533
+      Lizardman1_Attack_full_11: -4016417957190470255
+      Lizardman1_Attack_full_12: -3820161500725453146
+      Lizardman1_Attack_full_13: 6033054975840251747
+      Lizardman1_Attack_full_14: 3955806424543807695
+      Lizardman1_Attack_full_15: 5887736409564683699
+      Lizardman1_Attack_full_16: -2384593437385734041
+      Lizardman1_Attack_full_17: 4259670881747802436
+      Lizardman1_Attack_full_18: 5576006719330449243
+      Lizardman1_Attack_full_19: 585775784025727467
+      Lizardman1_Attack_full_2: 6916650816210294432
+      Lizardman1_Attack_full_20: 570395225253661766
+      Lizardman1_Attack_full_21: -5393172358134473501
+      Lizardman1_Attack_full_22: -7589684326374107930
+      Lizardman1_Attack_full_23: 5389785602197675655
+      Lizardman1_Attack_full_24: -8472324780199145138
+      Lizardman1_Attack_full_25: 4059396586137464179
+      Lizardman1_Attack_full_26: -4092669546266344610
+      Lizardman1_Attack_full_27: 3137760190036430773
+      Lizardman1_Attack_full_28: -1808363330954044574
+      Lizardman1_Attack_full_29: 1270894881740874947
+      Lizardman1_Attack_full_3: 729481858050578520
+      Lizardman1_Attack_full_30: 3904089265362066180
+      Lizardman1_Attack_full_31: -1245131461555733521
+      Lizardman1_Attack_full_32: -4678660293286538722
+      Lizardman1_Attack_full_33: -7900599905992502046
+      Lizardman1_Attack_full_4: -1991014329791798770
+      Lizardman1_Attack_full_5: -4541908529840636937
+      Lizardman1_Attack_full_6: 5351659854494338306
+      Lizardman1_Attack_full_7: 2520655067433535893
+      Lizardman1_Attack_full_8: 8319271965948235550
+      Lizardman1_Attack_full_9: 7449807994005769148
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

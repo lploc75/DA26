@@ -199,6 +199,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -897,7 +962,38 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardman2_Death_body_0: -4344912067155661885
+      Lizardman2_Death_body_1: 8416388288304389591
+      Lizardman2_Death_body_10: 6552457022341037041
+      Lizardman2_Death_body_11: 7209822308623323936
+      Lizardman2_Death_body_12: 8919986155414486076
+      Lizardman2_Death_body_13: 4674613145079988702
+      Lizardman2_Death_body_14: -3150909597575530909
+      Lizardman2_Death_body_15: -2926030835077867621
+      Lizardman2_Death_body_16: 3501137547318772237
+      Lizardman2_Death_body_17: -8596981616746204928
+      Lizardman2_Death_body_18: -3727407814032803539
+      Lizardman2_Death_body_19: -3065494432458386798
+      Lizardman2_Death_body_2: 6572023130468673045
+      Lizardman2_Death_body_20: -10105793226116682
+      Lizardman2_Death_body_21: -5229702844372590761
+      Lizardman2_Death_body_22: 2460161193812430548
+      Lizardman2_Death_body_23: -8009281947692311473
+      Lizardman2_Death_body_24: -6231591471609186858
+      Lizardman2_Death_body_25: -8951045342762686644
+      Lizardman2_Death_body_26: 6043869880044848284
+      Lizardman2_Death_body_27: -7338991075775954191
+      Lizardman2_Death_body_28: 2617826145297915256
+      Lizardman2_Death_body_29: -3078797852244785938
+      Lizardman2_Death_body_3: 5649381473922851492
+      Lizardman2_Death_body_30: -1381006147939657169
+      Lizardman2_Death_body_4: -7956898157903049255
+      Lizardman2_Death_body_5: -3484621176584611915
+      Lizardman2_Death_body_6: 1292559901042724924
+      Lizardman2_Death_body_7: -4852868075010500213
+      Lizardman2_Death_body_8: -1962317132378454207
+      Lizardman2_Death_body_9: -3186730597495880260
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

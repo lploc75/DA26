@@ -235,6 +235,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1197,7 +1262,50 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardman1_Run_sword_0: 4351304366002102786
+      Lizardman1_Run_sword_1: -7256379178429150266
+      Lizardman1_Run_sword_10: 3912628961609700700
+      Lizardman1_Run_sword_11: 399599242999564830
+      Lizardman1_Run_sword_12: -7110067854842874384
+      Lizardman1_Run_sword_13: -3009579009030328898
+      Lizardman1_Run_sword_14: 3528672780157001377
+      Lizardman1_Run_sword_15: 4631071505394885485
+      Lizardman1_Run_sword_16: -1010141007800441429
+      Lizardman1_Run_sword_17: 9031917424386305181
+      Lizardman1_Run_sword_18: -331187355944235650
+      Lizardman1_Run_sword_19: 6452166101626996859
+      Lizardman1_Run_sword_2: -5978494731417063045
+      Lizardman1_Run_sword_20: -7873651557762570865
+      Lizardman1_Run_sword_21: -5137780155353054433
+      Lizardman1_Run_sword_22: -1105772763368753998
+      Lizardman1_Run_sword_23: -3392182670985191310
+      Lizardman1_Run_sword_24: 2067810977557299347
+      Lizardman1_Run_sword_25: -1354020676535775526
+      Lizardman1_Run_sword_26: 3986729552692320690
+      Lizardman1_Run_sword_27: -2980830277722584096
+      Lizardman1_Run_sword_28: 6824649207278866945
+      Lizardman1_Run_sword_29: -174648304163093036
+      Lizardman1_Run_sword_3: 7755085053644887062
+      Lizardman1_Run_sword_30: -4128376629773489420
+      Lizardman1_Run_sword_31: 7996645141401548287
+      Lizardman1_Run_sword_32: 5129550644639070916
+      Lizardman1_Run_sword_33: -6246674853837130797
+      Lizardman1_Run_sword_34: 5787722897200683268
+      Lizardman1_Run_sword_35: 3404477414306178304
+      Lizardman1_Run_sword_36: 2075806320785948690
+      Lizardman1_Run_sword_37: 3272418863654629496
+      Lizardman1_Run_sword_38: 4641176064312521237
+      Lizardman1_Run_sword_39: 8381253332519903175
+      Lizardman1_Run_sword_4: -4588163976687242670
+      Lizardman1_Run_sword_40: -4350308383105202324
+      Lizardman1_Run_sword_41: -6458416523174317372
+      Lizardman1_Run_sword_42: -4182375081370588846
+      Lizardman1_Run_sword_5: -7624605525642174880
+      Lizardman1_Run_sword_6: 2270319584299157146
+      Lizardman1_Run_sword_7: 2450017581603043794
+      Lizardman1_Run_sword_8: 4291393741008921582
+      Lizardman1_Run_sword_9: -8861613488640610651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
