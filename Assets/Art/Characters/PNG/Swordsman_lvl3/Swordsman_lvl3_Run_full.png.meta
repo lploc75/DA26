@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: c16ba867e1f511f40900e734c8b36370
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2619076725393489727
+    second: Swordsman_lvl3_Run_full_0
+  - first:
+      213: -8358328603717276906
+    second: Swordsman_lvl3_Run_full_1
+  - first:
+      213: 7201417665554864689
+    second: Swordsman_lvl3_Run_full_2
+  - first:
+      213: 3232145796299847249
+    second: Swordsman_lvl3_Run_full_3
+  - first:
+      213: 4486700816502540012
+    second: Swordsman_lvl3_Run_full_4
+  - first:
+      213: 6888086067995948208
+    second: Swordsman_lvl3_Run_full_5
+  - first:
+      213: -2449970157761781289
+    second: Swordsman_lvl3_Run_full_6
+  - first:
+      213: 4654901411595422174
+    second: Swordsman_lvl3_Run_full_7
+  - first:
+      213: 1405298421856932162
+    second: Swordsman_lvl3_Run_full_8
+  - first:
+      213: -930108792199626539
+    second: Swordsman_lvl3_Run_full_9
+  - first:
+      213: -4762715241970819101
+    second: Swordsman_lvl3_Run_full_10
+  - first:
+      213: 6592248767204652934
+    second: Swordsman_lvl3_Run_full_11
+  - first:
+      213: 3838062668242447446
+    second: Swordsman_lvl3_Run_full_12
+  - first:
+      213: -9166910168287226363
+    second: Swordsman_lvl3_Run_full_13
+  - first:
+      213: 1447435311224952354
+    second: Swordsman_lvl3_Run_full_14
+  - first:
+      213: -3050674745342517989
+    second: Swordsman_lvl3_Run_full_15
+  - first:
+      213: 5702099829494875698
+    second: Swordsman_lvl3_Run_full_16
+  - first:
+      213: -2656086941498352256
+    second: Swordsman_lvl3_Run_full_17
+  - first:
+      213: -1638276447504100932
+    second: Swordsman_lvl3_Run_full_18
+  - first:
+      213: -4078547030023006484
+    second: Swordsman_lvl3_Run_full_19
+  - first:
+      213: 493426374493585466
+    second: Swordsman_lvl3_Run_full_20
+  - first:
+      213: -4794547052396226209
+    second: Swordsman_lvl3_Run_full_21
+  - first:
+      213: 3175710181225299033
+    second: Swordsman_lvl3_Run_full_22
+  - first:
+      213: 8681678811747541309
+    second: Swordsman_lvl3_Run_full_23
+  - first:
+      213: 1591038321534991177
+    second: Swordsman_lvl3_Run_full_24
+  - first:
+      213: -6599833823462165267
+    second: Swordsman_lvl3_Run_full_25
+  - first:
+      213: -7615346079115649876
+    second: Swordsman_lvl3_Run_full_26
+  - first:
+      213: -2969700252244312925
+    second: Swordsman_lvl3_Run_full_27
+  - first:
+      213: -4045685143663073415
+    second: Swordsman_lvl3_Run_full_28
+  - first:
+      213: -5466257362409862166
+    second: Swordsman_lvl3_Run_full_29
+  - first:
+      213: 3469333375460060213
+    second: Swordsman_lvl3_Run_full_30
+  - first:
+      213: 2393439988243379797
+    second: Swordsman_lvl3_Run_full_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 208
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c08d6f389b27abd0800000000000000
+      internalID: -2619076725393489727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 208
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61be1735b60410c80800000000000000
+      internalID: -8358328603717276906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 208
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ade9a463390f360800000000000000
+      internalID: 7201417665554864689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 208
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15679b22a73eadc20800000000000000
+      internalID: 3232145796299847249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 208
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6c61dfe96f34e30800000000000000
+      internalID: 4486700816502540012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 208
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b43731c8c5679f50800000000000000
+      internalID: 6888086067995948208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 208
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d12d4c3f15fffdd0800000000000000
+      internalID: -2449970157761781289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 208
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed90c9ecb28899040800000000000000
+      internalID: 4654901411595422174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 144
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2411336187f908310800000000000000
+      internalID: 1405298421856932162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 144
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0497e3bf69713f0800000000000000
+      internalID: -930108792199626539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 144
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef9dfba8bf67edb0800000000000000
+      internalID: -4762715241970819101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 144
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6877d38935f5c7b50800000000000000
+      internalID: 6592248767204652934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 144
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c674e69a9834530800000000000000
+      internalID: 3838062668242447446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 144
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506d25335c798c080800000000000000
+      internalID: -9166910168287226363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 144
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2269be82fb2561410800000000000000
+      internalID: 1447435311224952354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 144
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d9a967b73d9a5d0800000000000000
+      internalID: -3050674745342517989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 80
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2368bda759de12f40800000000000000
+      internalID: 5702099829494875698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 80
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ddf6fcffea32bd0800000000000000
+      internalID: -2656086941498352256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 80
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb111ae304ca349e0800000000000000
+      internalID: -1638276447504100932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 80
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce611c3d5171667c0800000000000000
+      internalID: -4078547030023006484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 80
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30cf7e5ca009d600800000000000000
+      internalID: 493426374493585466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 80
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59d603cbd8567db0800000000000000
+      internalID: -4794547052396226209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 80
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c768d8593621c20800000000000000
+      internalID: 3175710181225299033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 80
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d316f3cb1e48b7870800000000000000
+      internalID: 8681678811747541309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 16
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b702b7ce0841610800000000000000
+      internalID: 1591038321534991177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 16
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4fdefda1ea864a0800000000000000
+      internalID: -6599833823462165267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 16
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacd5a0c61bd05690800000000000000
+      internalID: -7615346079115649876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 16
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acf69fca5189c6d0800000000000000
+      internalID: -2969700252244312925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 16
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97723eafbc6dad7c0800000000000000
+      internalID: -4045685143663073415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_29
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 16
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb42bee3e3f324b0800000000000000
+      internalID: -5466257362409862166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_30
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 16
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c24bbd25c852030800000000000000
+      internalID: 3469333375460060213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_full_31
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 16
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55636720df4373120800000000000000
+      internalID: 2393439988243379797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
