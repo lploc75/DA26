@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl3_Run_Attack_body_0: 3336271344202223657
+      Swordsman_lvl3_Run_Attack_body_1: -6529222479660477396
+      Swordsman_lvl3_Run_Attack_body_10: 813213769863261825
+      Swordsman_lvl3_Run_Attack_body_11: -4295713458831127238
+      Swordsman_lvl3_Run_Attack_body_12: 756882347098923520
+      Swordsman_lvl3_Run_Attack_body_13: 6068490038355247835
+      Swordsman_lvl3_Run_Attack_body_14: -3852960318835350236
+      Swordsman_lvl3_Run_Attack_body_15: -8803009188658828341
+      Swordsman_lvl3_Run_Attack_body_16: -1510104352494526489
+      Swordsman_lvl3_Run_Attack_body_17: 7202060969883970184
+      Swordsman_lvl3_Run_Attack_body_18: 2115637243950745080
+      Swordsman_lvl3_Run_Attack_body_19: -3644771655161216718
+      Swordsman_lvl3_Run_Attack_body_2: 6158846395515911619
+      Swordsman_lvl3_Run_Attack_body_20: -4370188664003436855
+      Swordsman_lvl3_Run_Attack_body_21: -907475697293814196
+      Swordsman_lvl3_Run_Attack_body_22: -26720895096929733
+      Swordsman_lvl3_Run_Attack_body_23: 7143868694584702667
+      Swordsman_lvl3_Run_Attack_body_24: -4853836318935668677
+      Swordsman_lvl3_Run_Attack_body_25: -5237044321474486465
+      Swordsman_lvl3_Run_Attack_body_26: 6866221671934159385
+      Swordsman_lvl3_Run_Attack_body_27: -199117580195569434
+      Swordsman_lvl3_Run_Attack_body_28: 217648817904139064
+      Swordsman_lvl3_Run_Attack_body_29: 4894473593712152502
+      Swordsman_lvl3_Run_Attack_body_3: -7100478783843695232
+      Swordsman_lvl3_Run_Attack_body_30: -4564981043545578806
+      Swordsman_lvl3_Run_Attack_body_31: -4617504097473286961
+      Swordsman_lvl3_Run_Attack_body_4: 6179358515705918769
+      Swordsman_lvl3_Run_Attack_body_5: -1013847559462046690
+      Swordsman_lvl3_Run_Attack_body_6: -2856032166436315677
+      Swordsman_lvl3_Run_Attack_body_7: 4958334231654302207
+      Swordsman_lvl3_Run_Attack_body_8: -5622993694965887134
+      Swordsman_lvl3_Run_Attack_body_9: 5458123782578158642
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

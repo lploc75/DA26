@@ -1122,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl1_Idle_full_0: -331929045718497203
+      Swordsman_lvl1_Idle_full_1: -3886264715627187679
+      Swordsman_lvl1_Idle_full_10: 8201387689850239250
+      Swordsman_lvl1_Idle_full_11: 2155177748526372731
+      Swordsman_lvl1_Idle_full_12: -2314062622676754837
+      Swordsman_lvl1_Idle_full_13: -8726312218800175700
+      Swordsman_lvl1_Idle_full_14: -1657701369407742319
+      Swordsman_lvl1_Idle_full_15: 1567106955895034043
+      Swordsman_lvl1_Idle_full_16: 7997370396719860508
+      Swordsman_lvl1_Idle_full_17: 4798074632684805998
+      Swordsman_lvl1_Idle_full_18: -8513623969743659502
+      Swordsman_lvl1_Idle_full_19: -8058042060358405310
+      Swordsman_lvl1_Idle_full_2: -1359858735550478244
+      Swordsman_lvl1_Idle_full_20: -8442660050514821665
+      Swordsman_lvl1_Idle_full_21: -699146170775188362
+      Swordsman_lvl1_Idle_full_22: -153356474487424261
+      Swordsman_lvl1_Idle_full_23: 551574831774000642
+      Swordsman_lvl1_Idle_full_24: 4733495184068595967
+      Swordsman_lvl1_Idle_full_25: -4230363309534916254
+      Swordsman_lvl1_Idle_full_26: 6126520720095454998
+      Swordsman_lvl1_Idle_full_27: -7160701864954611571
+      Swordsman_lvl1_Idle_full_28: -5088730368212770813
+      Swordsman_lvl1_Idle_full_29: 6800465626516683037
+      Swordsman_lvl1_Idle_full_3: -7404843947711400948
+      Swordsman_lvl1_Idle_full_30: 6852293178285288424
+      Swordsman_lvl1_Idle_full_31: -3300204400489540243
+      Swordsman_lvl1_Idle_full_32: -4632714790544757386
+      Swordsman_lvl1_Idle_full_33: -8695398975422981798
+      Swordsman_lvl1_Idle_full_34: -1121811056002026145
+      Swordsman_lvl1_Idle_full_35: -5948078938139566006
+      Swordsman_lvl1_Idle_full_36: -5519447277656401991
+      Swordsman_lvl1_Idle_full_37: -6975237012832860264
+      Swordsman_lvl1_Idle_full_38: 2988248032640912790
+      Swordsman_lvl1_Idle_full_39: -4635680690791896213
+      Swordsman_lvl1_Idle_full_4: 7493664222656016637
+      Swordsman_lvl1_Idle_full_5: 8063146176282141133
+      Swordsman_lvl1_Idle_full_6: -801749092998403801
+      Swordsman_lvl1_Idle_full_7: 8964379405359343796
+      Swordsman_lvl1_Idle_full_8: -8470637369979106482
+      Swordsman_lvl1_Idle_full_9: -2791527259083396694
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,95 +1,136 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 
-public class LizardMovement : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
-    public float moveSpeed = 2f;  // Tốc độ di chuyển
-    public float changeDirectionTime = 2f;  // Thời gian thay đổi hướng di chuyển
-    private Animator animator;
-    private Rigidbody2D rb;
+    public Animator anim;
+    public float moveSpeed;
+    public float attackRange = 2f; // Khoảng cách tấn công
+    public Transform target; // Vị trí của người chơi
+    public float attackSpeed = 0.5f; // Tốc độ tấn công (thời gian giữa các đòn tấn công)
 
-    private float timeToChangeDirection;
-    private Vector2 moveDirection;
+    private Rigidbody2D rb;
+    private Vector2 direction;
+    private bool isAttacking;
+    private bool isPlayerInRange = false; // Kiểm tra nếu người chơi trong phạm vi tấn công
 
     private void Start()
     {
-        animator = GetComponent<Animator>();  // Lấy Animator component
-        rb = GetComponent<Rigidbody2D>();    // Lấy Rigidbody2D component
-        rb.gravityScale = 0;  // Vô hiệu hóa gravity (trọng lực)
-        timeToChangeDirection = changeDirectionTime;
-        SetRandomDirection();  // Chọn hướng di chuyển ngẫu nhiên ban đầu
+        rb = GetComponent<Rigidbody2D>();
     }
 
     private void Update()
     {
-        // Kiểm tra thời gian thay đổi hướng di chuyển
-        timeToChangeDirection -= Time.deltaTime;
-        if (timeToChangeDirection <= 0)
+        // Kiểm tra xem có phải đang tấn công không, nếu không thì di chuyển tự động hoặc theo mục tiêu
+        if (!isAttacking)
         {
-            SetRandomDirection();  // Thay đổi hướng di chuyển
-            timeToChangeDirection = changeDirectionTime;
-        }
-
-        // Di chuyển nhân vật theo hướng
-        rb.linearVelocity = moveDirection * moveSpeed;  // Sử dụng velocity để di chuyển nhân vật
-
-        // Cập nhật trạng thái chuyển động
-        bool isMoving = moveDirection.magnitude > 0;
-        animator.SetBool("isMoving", isMoving);  // Cập nhật trạng thái isMoving
-
-        // Cập nhật hướng di chuyển cho Animator
-        if (Mathf.Abs(moveDirection.x) > Mathf.Abs(moveDirection.y))
-        {
-            // Di chuyển ngang (trái/phải)
-            if (moveDirection.x < 0)
+            if (isPlayerInRange)
             {
-                animator.SetFloat("moveDirection", -1);  // Left
+                // Nếu người chơi trong phạm vi tấn công, tiến lại gần và tấn công
+                MoveAndAttack();
             }
-            else if (moveDirection.x > 0)
+            else
             {
-                animator.SetFloat("moveDirection", 1);  // Right
-            }
-        }
-        else
-        {
-            // Di chuyển dọc (lên/xuống)
-            if (moveDirection.y > 0)
-            {
-                animator.SetFloat("moveDirection", 0);  // Front
-            }
-            else if (moveDirection.y < 0)
-            {
-                animator.SetFloat("moveDirection", 2);  // Back
+                // Di chuyển tự động khi không có đối tượng trong phạm vi
+                MoveAutomatically();
             }
         }
 
-        // Debug các trạng thái và hướng di chuyển
-        Debug.Log("Current move direction: " + moveDirection);
+        // Cập nhật hướng di chuyển sau mỗi thay đổi direction
+        Animate();
     }
 
-
-    // Chọn hướng di chuyển ngẫu nhiên
-    private void SetRandomDirection()
+    private void FixedUpdate()
     {
-        // Chọn ngẫu nhiên hướng di chuyển (trái, phải, lên, xuống)
-        float randomDirection = Random.Range(0f, 1f);
-        if (randomDirection < 0.25f)
+        // Di chuyển nhân vật nếu không tấn công và không có đối tượng trong phạm vi tấn công
+        if (!isAttacking && !isPlayerInRange)
         {
-            moveDirection = Vector2.left;  // Di chuyển sang trái
+            rb.linearVelocity = direction * moveSpeed; // Di chuyển tự động khi không có đối tượng trong phạm vi
         }
-        else if (randomDirection < 0.5f)
+    }
+
+    // Di chuyển tự động đến vị trí mục tiêu (hoặc theo hướng bất kỳ)
+    private void MoveAutomatically()
+    {
+        // Di chuyển tự động theo một hướng ngẫu nhiên (hoặc theo logic nào đó)
+        direction = new Vector2(-1, 0); // Di chuyển sang phải, điều chỉnh nếu cần
+        Debug.Log("MoveAutomatically: direction " + direction);
+    }
+
+    private void Animate()
+    {
+        // Cập nhật các giá trị X, Y trong Animator dựa trên hướng di chuyển
+        anim.SetFloat("X", direction.x);  // Cập nhật giá trị X
+        anim.SetFloat("Y", direction.y);  // Cập nhật giá trị Y
+        anim.SetBool("IsMoving", direction.magnitude > 0);  // Kiểm tra có đang di chuyển không
+        Debug.Log("X: " + direction.x + " Y: " + direction.y);
+    }
+
+    private void MoveAndAttack()
+    {
+        // Tính khoảng cách đến người chơi
+        float distanceToPlayer = Vector2.Distance(transform.position, target.position);
+
+        if (distanceToPlayer > attackRange)
         {
-            moveDirection = Vector2.right;  // Di chuyển sang phải
-        }
-        else if (randomDirection < 0.75f)
-        {
-            moveDirection = Vector2.up;  // Di chuyển lên trên
+            // Nếu người chơi còn xa, tiến lại gần
+            direction = (target.position - transform.position).normalized;
+            rb.linearVelocity = direction * moveSpeed; // Di chuyển đến mục tiêu
+            anim.SetBool("IsMoving", true);
         }
         else
         {
-            moveDirection = Vector2.down;  // Di chuyển xuống dưới
+            // Nếu trong phạm vi tấn công, tấn công
+            rb.linearVelocity = Vector2.zero; // Dừng di chuyển
+            anim.SetBool("IsMoving", false);
+            Attack();
         }
+    }
 
-        // Debug hướng di chuyển
-        Debug.Log("New move direction set: " + moveDirection);
+    private void Attack()
+    {
+        if (!isAttacking)
+        {
+            Debug.Log("Attack started");
+            isAttacking = true;
+            anim.SetBool("IsAttack", true); // Kích hoạt animation tấn công
+            StartCoroutine(WaitForAttackAnimation());
+        }
+    }
+
+    private IEnumerator WaitForAttackAnimation()
+    {
+        // Đợi cho đến khi animation tấn công kết thúc, sử dụng attackSpeed để điều chỉnh tốc độ tấn công
+        yield return new WaitForSeconds(attackSpeed); // Điều chỉnh thời gian tấn công (tốc độ tấn công)
+        isAttacking = false; // Đặt lại trạng thái tấn công
+        anim.SetBool("IsAttack", false);
+        Debug.Log("Attack completed, ready to attack again.");
+    }
+
+    // Phát hiện khi người chơi vào khu vực tấn công
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player")) // Đảm bảo rằng chỉ có đối tượng người chơi mới được phát hiện
+        {
+            isPlayerInRange = true; // Người chơi đã vào trong phạm vi
+        }
+    }
+
+    // Phát hiện khi người chơi rời khỏi khu vực tấn công
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            isPlayerInRange = false; // Người chơi đã ra khỏi phạm vi
+        }
+    }
+
+    // Liên tục kiểm tra khi người chơi ở trong vùng phạm vi
+    private void OnTriggerStay2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            isPlayerInRange = true; // Người chơi vẫn ở trong phạm vi
+        }
     }
 }

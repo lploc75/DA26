@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl2_attack_body_0: 6149148158844817951
+      Swordsman_lvl2_attack_body_1: 9167161783498308050
+      Swordsman_lvl2_attack_body_10: -3675947231301084181
+      Swordsman_lvl2_attack_body_11: -3871728141640528356
+      Swordsman_lvl2_attack_body_12: 6826468015643192809
+      Swordsman_lvl2_attack_body_13: 2879764399213750264
+      Swordsman_lvl2_attack_body_14: -7805070384035345009
+      Swordsman_lvl2_attack_body_15: -4506763984674262903
+      Swordsman_lvl2_attack_body_16: -2934507547732612274
+      Swordsman_lvl2_attack_body_17: -4229366199670883872
+      Swordsman_lvl2_attack_body_18: 7457619783111845764
+      Swordsman_lvl2_attack_body_19: -8353275035934192775
+      Swordsman_lvl2_attack_body_2: -3957182048281622747
+      Swordsman_lvl2_attack_body_20: -1481482447906332880
+      Swordsman_lvl2_attack_body_21: 7556610228461324944
+      Swordsman_lvl2_attack_body_22: -4447131180657655914
+      Swordsman_lvl2_attack_body_23: -8399066837933241070
+      Swordsman_lvl2_attack_body_24: 7261177224898715059
+      Swordsman_lvl2_attack_body_25: 2016823577074471904
+      Swordsman_lvl2_attack_body_26: 3871587529116745726
+      Swordsman_lvl2_attack_body_27: 7428024966070006507
+      Swordsman_lvl2_attack_body_28: -5739607345884822829
+      Swordsman_lvl2_attack_body_29: 3552261565306520395
+      Swordsman_lvl2_attack_body_3: 6910520454943607186
+      Swordsman_lvl2_attack_body_30: -7534283835235246278
+      Swordsman_lvl2_attack_body_31: -7148116534581189263
+      Swordsman_lvl2_attack_body_4: 1299920365585316475
+      Swordsman_lvl2_attack_body_5: -7026367900424429955
+      Swordsman_lvl2_attack_body_6: -2995100206659777573
+      Swordsman_lvl2_attack_body_7: 2092092998165095067
+      Swordsman_lvl2_attack_body_8: 7534938483525424638
+      Swordsman_lvl2_attack_body_9: 6856366784160073606
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

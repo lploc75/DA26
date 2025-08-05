@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl2_Walk_Attack_swing_0: -564888854848838790
+      Swordsman_lvl2_Walk_Attack_swing_1: 5984671395287869206
+      Swordsman_lvl2_Walk_Attack_swing_10: -9186939956558106079
+      Swordsman_lvl2_Walk_Attack_swing_2: -3812785585063482076
+      Swordsman_lvl2_Walk_Attack_swing_3: 2094778410814017886
+      Swordsman_lvl2_Walk_Attack_swing_4: -8972309816029042954
+      Swordsman_lvl2_Walk_Attack_swing_5: 3571060200681959978
+      Swordsman_lvl2_Walk_Attack_swing_6: 1620411173642880353
+      Swordsman_lvl2_Walk_Attack_swing_7: 4351841120491349131
+      Swordsman_lvl2_Walk_Attack_swing_8: 9177708027599755694
+      Swordsman_lvl2_Walk_Attack_swing_9: -5802028543012943483
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

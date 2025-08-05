@@ -1122,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl1_Idle_body_0: -2810684771109119529
+      Swordsman_lvl1_Idle_body_1: 8024276737282231441
+      Swordsman_lvl1_Idle_body_10: 4722327684794922570
+      Swordsman_lvl1_Idle_body_11: 6650675105248862469
+      Swordsman_lvl1_Idle_body_12: 884200486217621947
+      Swordsman_lvl1_Idle_body_13: -3252511639455348423
+      Swordsman_lvl1_Idle_body_14: 1986412664507183945
+      Swordsman_lvl1_Idle_body_15: 5244232200212747923
+      Swordsman_lvl1_Idle_body_16: -3011706676986277682
+      Swordsman_lvl1_Idle_body_17: -778640319460574055
+      Swordsman_lvl1_Idle_body_18: -5893626250950616827
+      Swordsman_lvl1_Idle_body_19: -8004283062987393908
+      Swordsman_lvl1_Idle_body_2: 7155164157338442928
+      Swordsman_lvl1_Idle_body_20: 2045728024410372629
+      Swordsman_lvl1_Idle_body_21: -3844070363651097806
+      Swordsman_lvl1_Idle_body_22: -1749428826740407426
+      Swordsman_lvl1_Idle_body_23: 1180747887435033166
+      Swordsman_lvl1_Idle_body_24: 8283214421402093016
+      Swordsman_lvl1_Idle_body_25: 1206770060944113528
+      Swordsman_lvl1_Idle_body_26: -6741343665044002394
+      Swordsman_lvl1_Idle_body_27: -8539911432421321821
+      Swordsman_lvl1_Idle_body_28: 2004214125325476984
+      Swordsman_lvl1_Idle_body_29: -4660600003050044772
+      Swordsman_lvl1_Idle_body_3: 7398085391071210236
+      Swordsman_lvl1_Idle_body_30: 7121538479058163240
+      Swordsman_lvl1_Idle_body_31: 2517512976368453015
+      Swordsman_lvl1_Idle_body_32: -5808427230623890004
+      Swordsman_lvl1_Idle_body_33: 6637293719262867008
+      Swordsman_lvl1_Idle_body_34: -5672882841119269060
+      Swordsman_lvl1_Idle_body_35: -1709881786004921074
+      Swordsman_lvl1_Idle_body_36: -1638028876794547371
+      Swordsman_lvl1_Idle_body_37: -8526271750342701523
+      Swordsman_lvl1_Idle_body_38: -5570520719761332018
+      Swordsman_lvl1_Idle_body_39: 1959644885220539770
+      Swordsman_lvl1_Idle_body_4: -5389980713474903770
+      Swordsman_lvl1_Idle_body_5: -4277897172447592425
+      Swordsman_lvl1_Idle_body_6: -704352278432100947
+      Swordsman_lvl1_Idle_body_7: -1770334145209288898
+      Swordsman_lvl1_Idle_body_8: -2550895351098740250
+      Swordsman_lvl1_Idle_body_9: -916598269872948149
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

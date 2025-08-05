@@ -1122,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Swordsman_lvl3_Idle_head_0: -4538275331004445963
+      Swordsman_lvl3_Idle_head_1: 1647353381364982844
+      Swordsman_lvl3_Idle_head_10: -5530612550653147192
+      Swordsman_lvl3_Idle_head_11: 7496905216660185521
+      Swordsman_lvl3_Idle_head_12: 8065635645916951022
+      Swordsman_lvl3_Idle_head_13: 4893735348798743955
+      Swordsman_lvl3_Idle_head_14: -2078979289799592993
+      Swordsman_lvl3_Idle_head_15: -3847508408624682129
+      Swordsman_lvl3_Idle_head_16: 5087308537337730984
+      Swordsman_lvl3_Idle_head_17: -2173436687160612259
+      Swordsman_lvl3_Idle_head_18: 5314638810924360308
+      Swordsman_lvl3_Idle_head_19: -282017725805190586
+      Swordsman_lvl3_Idle_head_2: -1158726281646227571
+      Swordsman_lvl3_Idle_head_20: 2393265735166664644
+      Swordsman_lvl3_Idle_head_21: 1237220219649742083
+      Swordsman_lvl3_Idle_head_22: 4294334036048327601
+      Swordsman_lvl3_Idle_head_23: -5649311701532688680
+      Swordsman_lvl3_Idle_head_24: -3762835729971781271
+      Swordsman_lvl3_Idle_head_25: 1405216148157615772
+      Swordsman_lvl3_Idle_head_26: -5470604126381611985
+      Swordsman_lvl3_Idle_head_27: 7654007752853101692
+      Swordsman_lvl3_Idle_head_28: 6617816256245717049
+      Swordsman_lvl3_Idle_head_29: 1786183664792081043
+      Swordsman_lvl3_Idle_head_3: -3618971416980466322
+      Swordsman_lvl3_Idle_head_30: 7154317764825319874
+      Swordsman_lvl3_Idle_head_31: -7996101417820480397
+      Swordsman_lvl3_Idle_head_32: -9092207949602860971
+      Swordsman_lvl3_Idle_head_33: -4572308260998015250
+      Swordsman_lvl3_Idle_head_34: 4013271042861699208
+      Swordsman_lvl3_Idle_head_35: -4705685333285595067
+      Swordsman_lvl3_Idle_head_36: -5732281217164037146
+      Swordsman_lvl3_Idle_head_37: -4616284507034723960
+      Swordsman_lvl3_Idle_head_38: -9120590459114825364
+      Swordsman_lvl3_Idle_head_39: 2431991595904981514
+      Swordsman_lvl3_Idle_head_4: 273979713836965769
+      Swordsman_lvl3_Idle_head_5: 9131005677356413890
+      Swordsman_lvl3_Idle_head_6: 8642006564039795038
+      Swordsman_lvl3_Idle_head_7: -7915491836020897670
+      Swordsman_lvl3_Idle_head_8: 1192900480740219462
+      Swordsman_lvl3_Idle_head_9: -6673075884173825987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
