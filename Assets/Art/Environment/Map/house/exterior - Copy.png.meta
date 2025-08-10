@@ -1,0 +1,3094 @@
+fileFormatVersion: 2
+guid: 0205a1560e8565b4d960300806b08e00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4014604362185984242
+    second: exterior - Copy_0
+  - first:
+      213: 1306341649774845163
+    second: exterior - Copy_1
+  - first:
+      213: -7088514004289253310
+    second: exterior - Copy_2
+  - first:
+      213: -348824093539717788
+    second: exterior - Copy_3
+  - first:
+      213: -3167719831996548077
+    second: exterior - Copy_4
+  - first:
+      213: -6946239191354353690
+    second: exterior - Copy_5
+  - first:
+      213: -5085484945985222821
+    second: exterior - Copy_6
+  - first:
+      213: 292669585270718162
+    second: exterior - Copy_7
+  - first:
+      213: -7912279229788638789
+    second: exterior - Copy_8
+  - first:
+      213: 2024258524012613223
+    second: exterior - Copy_9
+  - first:
+      213: -5796215269724179107
+    second: exterior - Copy_10
+  - first:
+      213: -8834482926176686356
+    second: exterior - Copy_11
+  - first:
+      213: 3169194095649328365
+    second: exterior - Copy_12
+  - first:
+      213: 1184296928721499773
+    second: exterior - Copy_13
+  - first:
+      213: 7136491347536110664
+    second: exterior - Copy_14
+  - first:
+      213: 7556806180353071949
+    second: exterior - Copy_15
+  - first:
+      213: -5979298731050694424
+    second: exterior - Copy_16
+  - first:
+      213: 4771438644812131374
+    second: exterior - Copy_17
+  - first:
+      213: 4871137868162107001
+    second: exterior - Copy_18
+  - first:
+      213: 4967332775007924781
+    second: exterior - Copy_19
+  - first:
+      213: 2767187460913240631
+    second: exterior - Copy_20
+  - first:
+      213: 4935140278335236775
+    second: exterior - Copy_21
+  - first:
+      213: -1794279537441167952
+    second: exterior - Copy_22
+  - first:
+      213: -208743954948755559
+    second: exterior - Copy_23
+  - first:
+      213: 6371549743432947214
+    second: exterior - Copy_24
+  - first:
+      213: 5381798380854209515
+    second: exterior - Copy_25
+  - first:
+      213: -8653905506660055317
+    second: exterior - Copy_26
+  - first:
+      213: -8924957542489407708
+    second: exterior - Copy_27
+  - first:
+      213: -7530427301658596952
+    second: exterior - Copy_28
+  - first:
+      213: -3816302423233155583
+    second: exterior - Copy_29
+  - first:
+      213: -1095206534305738796
+    second: exterior - Copy_30
+  - first:
+      213: 8034221689057250475
+    second: exterior - Copy_31
+  - first:
+      213: -6714278083758986569
+    second: exterior - Copy_32
+  - first:
+      213: 6319368058726293260
+    second: exterior - Copy_33
+  - first:
+      213: 793676296401441407
+    second: exterior - Copy_34
+  - first:
+      213: -1161008514565713698
+    second: exterior - Copy_35
+  - first:
+      213: -2343401945741478426
+    second: exterior - Copy_36
+  - first:
+      213: -6207581214598253952
+    second: exterior - Copy_37
+  - first:
+      213: -7142598555053720968
+    second: exterior - Copy_38
+  - first:
+      213: 5483560033339143015
+    second: exterior - Copy_39
+  - first:
+      213: -9171226120750317444
+    second: exterior - Copy_40
+  - first:
+      213: -1254269191188130376
+    second: exterior - Copy_41
+  - first:
+      213: -5060800459358161282
+    second: exterior - Copy_42
+  - first:
+      213: 2685138412077051714
+    second: exterior - Copy_43
+  - first:
+      213: 6524197049068171170
+    second: exterior - Copy_44
+  - first:
+      213: 5666881018368348773
+    second: exterior - Copy_45
+  - first:
+      213: 3172717739257928571
+    second: exterior - Copy_46
+  - first:
+      213: -7520955667529394311
+    second: exterior - Copy_47
+  - first:
+      213: -8484040200320152837
+    second: exterior - Copy_48
+  - first:
+      213: -2185820040620973311
+    second: exterior - Copy_49
+  - first:
+      213: 5905951779636861150
+    second: exterior - Copy_50
+  - first:
+      213: 9009629099675522491
+    second: exterior - Copy_51
+  - first:
+      213: -8140368665158638986
+    second: exterior - Copy_52
+  - first:
+      213: -4360127876658791838
+    second: exterior - Copy_53
+  - first:
+      213: -7835559240782916559
+    second: exterior - Copy_54
+  - first:
+      213: 7018314606865431124
+    second: exterior - Copy_55
+  - first:
+      213: 855774955808744488
+    second: exterior - Copy_56
+  - first:
+      213: 951986125750172654
+    second: exterior - Copy_57
+  - first:
+      213: -5930017826950271935
+    second: exterior - Copy_58
+  - first:
+      213: -7716589906764602256
+    second: exterior - Copy_59
+  - first:
+      213: 3190383513975952949
+    second: exterior - Copy_60
+  - first:
+      213: 5732872439848174682
+    second: exterior - Copy_61
+  - first:
+      213: 7183003347548466620
+    second: exterior - Copy_62
+  - first:
+      213: -4843774811059850824
+    second: exterior - Copy_63
+  - first:
+      213: 7537585482419129859
+    second: exterior - Copy_64
+  - first:
+      213: 4959835114598144664
+    second: exterior - Copy_65
+  - first:
+      213: -4712101097020305958
+    second: exterior - Copy_66
+  - first:
+      213: 8788432850233703106
+    second: exterior - Copy_67
+  - first:
+      213: 8799019467263315847
+    second: exterior - Copy_68
+  - first:
+      213: 4297288289386279329
+    second: exterior - Copy_69
+  - first:
+      213: -5608292739316567142
+    second: exterior - Copy_70
+  - first:
+      213: 2892602847024912307
+    second: exterior - Copy_71
+  - first:
+      213: 3124691484351937826
+    second: exterior - Copy_72
+  - first:
+      213: 2455849169262263419
+    second: exterior - Copy_73
+  - first:
+      213: 7239930245128476991
+    second: exterior - Copy_74
+  - first:
+      213: 3385875140221721684
+    second: exterior - Copy_75
+  - first:
+      213: -204074842164306702
+    second: exterior - Copy_76
+  - first:
+      213: 4566561753734165994
+    second: exterior - Copy_77
+  - first:
+      213: 5507913556873694027
+    second: exterior - Copy_78
+  - first:
+      213: -8002918861953072507
+    second: exterior - Copy_79
+  - first:
+      213: -3511140631918643630
+    second: exterior - Copy_80
+  - first:
+      213: -6773888256601619236
+    second: exterior - Copy_81
+  - first:
+      213: 2746785715376924115
+    second: exterior - Copy_82
+  - first:
+      213: -4617860627635500369
+    second: exterior - Copy_83
+  - first:
+      213: 3213386940238324464
+    second: exterior - Copy_84
+  - first:
+      213: 7346197900533264001
+    second: exterior - Copy_85
+  - first:
+      213: -7602907498607463943
+    second: exterior - Copy_86
+  - first:
+      213: 4998565257786207630
+    second: exterior - Copy_87
+  - first:
+      213: -6637707481414658385
+    second: exterior - Copy_88
+  - first:
+      213: 7787109709085345338
+    second: exterior - Copy_89
+  - first:
+      213: -761122201921261863
+    second: exterior - Copy_90
+  - first:
+      213: 8853879761213437258
+    second: exterior - Copy_91
+  - first:
+      213: 1303774475817542247
+    second: exterior - Copy_92
+  - first:
+      213: -5888806769014645798
+    second: exterior - Copy_93
+  - first:
+      213: -7673684511056326284
+    second: exterior - Copy_94
+  - first:
+      213: 3222514020497496748
+    second: exterior - Copy_95
+  - first:
+      213: 3331457044687511919
+    second: exterior - Copy_96
+  - first:
+      213: -6819044435360204050
+    second: exterior - Copy_97
+  - first:
+      213: 8627293813310064405
+    second: exterior - Copy_98
+  - first:
+      213: 8274735434473181650
+    second: exterior - Copy_99
+  - first:
+      213: 6564136165658010692
+    second: exterior - Copy_100
+  - first:
+      213: -7833585469909304415
+    second: exterior - Copy_101
+  - first:
+      213: 4705035738540131118
+    second: exterior - Copy_102
+  - first:
+      213: -1811236333374276751
+    second: exterior - Copy_103
+  - first:
+      213: 9078854332027058715
+    second: exterior - Copy_104
+  - first:
+      213: -876220698428307952
+    second: exterior - Copy_105
+  - first:
+      213: 9002340068799724556
+    second: exterior - Copy_106
+  - first:
+      213: -8774194752615168202
+    second: exterior - Copy_107
+  - first:
+      213: -4903146559384468272
+    second: exterior - Copy_108
+  - first:
+      213: -1205114508932326997
+    second: exterior - Copy_109
+  - first:
+      213: 5158292882131004276
+    second: exterior - Copy_110
+  - first:
+      213: -1564347483800743787
+    second: exterior - Copy_111
+  - first:
+      213: -4065178492838704194
+    second: exterior - Copy_112
+  - first:
+      213: -5758561879142760023
+    second: exterior - Copy_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: exterior - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 767
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07bb265a924948c0800000000000000
+      internalID: -4014604362185984242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 831
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec90262fce012210800000000000000
+      internalID: 1306341649774845163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 831
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24015f4d11a80ad90800000000000000
+      internalID: -7088514004289253310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 781
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46da777c55ab82bf0800000000000000
+      internalID: -348824093539717788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 781
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb2e9989ff904d0800000000000000
+      internalID: -3167719831996548077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 767
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e75d6a12400a9f90800000000000000
+      internalID: -6946239191354353690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 711
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5744fbb26abc69b0800000000000000
+      internalID: -5085484945985222821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 703
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de3f9aef65cf0400800000000000000
+      internalID: 292669585270718162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 727
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb13fb826ffe13290800000000000000
+      internalID: -7912279229788638789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 703
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e0451176c971c10800000000000000
+      internalID: 2024258524012613223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 703
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55356efbe4bf8fa0800000000000000
+      internalID: -5796215269724179107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 640
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee2cf2f59c956580800000000000000
+      internalID: -8834482926176686356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 655
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec81772d3d3bfb20800000000000000
+      internalID: 3169194095649328365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 655
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76f70138c77f6010800000000000000
+      internalID: 1184296928721499773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 639
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844e980e119e90360800000000000000
+      internalID: 7136491347536110664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 576
+        width: 59
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bdb60fe2b2fd860800000000000000
+      internalID: 7556806180353071949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 592
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e887c9db73450da0800000000000000
+      internalID: -5979298731050694424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 607
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c2993da2e873240800000000000000
+      internalID: 4771438644812131374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 613
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97681cb2512c99340800000000000000
+      internalID: 4871137868162107001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 607
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22b08f37d28fe440800000000000000
+      internalID: 4967332775007924781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 607
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a16a2a556076620800000000000000
+      internalID: 2767187460913240631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 551
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aae4e68fe32d7440800000000000000
+      internalID: 4935140278335236775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 559
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5211764407917e0800000000000000
+      internalID: -1794279537441167952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 570
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fe44c9a746a1df0800000000000000
+      internalID: -208743954948755559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 566
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e065d06dbba4c6850800000000000000
+      internalID: 6371549743432947214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 529
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb66970d1dffaa40800000000000000
+      internalID: 5381798380854209515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 559
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be60bb3cac627e780800000000000000
+      internalID: -8653905506660055317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fb97cc66e242480800000000000000
+      internalID: -8924957542489407708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 466
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a96cbd544c8e7790800000000000000
+      internalID: -7530427301658596952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 465
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ea9bb6a25c90bc0800000000000000
+      internalID: -3816302423233155583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 463
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df050fa57b0dc0f0800000000000000
+      internalID: -1095206534305738796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 484
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac0ffe1f0a4f7f60800000000000000
+      internalID: 8034221689057250475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 448
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baea5618a712d2a0800000000000000
+      internalID: -6714278083758986569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 447
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f945994c7e2b750800000000000000
+      internalID: 6319368058726293260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 447
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72d7a1f264b30b00800000000000000
+      internalID: 793676296401441407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 434
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed05b1448e443efe0800000000000000
+      internalID: -1161008514565713698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 437
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5be12a8509a7fd0800000000000000
+      internalID: -2343401945741478426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 436
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082bb7546cd3ad9a0800000000000000
+      internalID: -6207581214598253952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 422
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87afdc0157460ec90800000000000000
+      internalID: -7142598555053720968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 438
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76375b31cc4891c40800000000000000
+      internalID: 5483560033339143015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 406
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70c4e53f6249b080800000000000000
+      internalID: -9171226120750317444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 399
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5d386e0d0f79ee0800000000000000
+      internalID: -1254269191188130376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 402
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76b2d4abcc64c9b0800000000000000
+      internalID: -5060800459358161282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 404
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24feb98c827834520800000000000000
+      internalID: 2685138412077051714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 399
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af2c5246aa9a8a50800000000000000
+      internalID: 6524197049068171170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 400
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562df34034ec4ae40800000000000000
+      internalID: 5666881018368348773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 399
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b9c0d59f1c70c20800000000000000
+      internalID: 3172717739257928571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97713790ba230a790800000000000000
+      internalID: -7520955667529394311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 400
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa88cf5362a24a80800000000000000
+      internalID: -8484040200320152837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_49
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 402
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1036bd701486aa1e0800000000000000
+      internalID: -2185820040620973311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 373
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed857dd3ad726f150800000000000000
+      internalID: 5905951779636861150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 370
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb59e2c5ee1a80d70800000000000000
+      internalID: 9009629099675522491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_52
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 375
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672af7c14d9970f80800000000000000
+      internalID: -8140368665158638986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 373
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a79701cc6bd73c0800000000000000
+      internalID: -4360127876658791838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_54
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 375
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134da949260824390800000000000000
+      internalID: -7835559240782916559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_55
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 378
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a362843ff066160800000000000000
+      internalID: 7018314606865431124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_56
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 374
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824e7a8c9c250eb00800000000000000
+      internalID: 855774955808744488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 324
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb70786652263d00800000000000000
+      internalID: 951986125750172654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_58
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 327
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c25e8743854bda0800000000000000
+      internalID: -5930017826950271935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_59
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 330
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0746ee13d5a29e490800000000000000
+      internalID: -7716589906764602256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_60
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 287
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5369ccf07e4864c20800000000000000
+      internalID: 3190383513975952949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_61
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 260
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5407c72c114f8f40800000000000000
+      internalID: 5732872439848174682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 274
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd6117cc772fa360800000000000000
+      internalID: 7183003347548466620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_63
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 298
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1fac6097477ccb0800000000000000
+      internalID: -4843774811059850824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 241
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ecbb77f02ea9860800000000000000
+      internalID: 7537585482419129859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_65
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 243
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a912622cfd4d440800000000000000
+      internalID: 4959835114598144664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_66
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 262
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add406e94014b9eb0800000000000000
+      internalID: -4712101097020305958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_67
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 263
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cabd8a3d19c6f970800000000000000
+      internalID: 8788432850233703106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_68
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 244
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f0af516956c1a70800000000000000
+      internalID: 8799019467263315847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 210
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1b0526ee803ab30800000000000000
+      internalID: 4297288289386279329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 210
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9332a4b7775b22b0800000000000000
+      internalID: -5608292739316567142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 211
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b71435b6f6942820800000000000000
+      internalID: 2892602847024912307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_72
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 227
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d3c7589522d5b20800000000000000
+      internalID: 3124691484351937826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_73
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 160
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cb0dbcecde41220800000000000000
+      internalID: 2455849169262263419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_74
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 144
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f395d7bf236697460800000000000000
+      internalID: 7239930245128476991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_75
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 160
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cddba308b0dfe20800000000000000
+      internalID: 3385875140221721684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 167
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcd335230bfa2df0800000000000000
+      internalID: -204074842164306702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_77
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 83
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5b53868bfaf5f30800000000000000
+      internalID: 4566561753734165994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_78
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 98
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bc303a23a007c40800000000000000
+      internalID: 5507913556873694027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_79
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 105
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582830342bbefe090800000000000000
+      internalID: -8002918861953072507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_80
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 131
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2567c06b23ce54fc0800000000000000
+      internalID: -3511140631918643630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_81
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 128
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4021d25805ef1a0800000000000000
+      internalID: -6773888256601619236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_82
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 56
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5a8271e0b8e1620800000000000000
+      internalID: 2746785715376924115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 56
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa0683c9301aefb0800000000000000
+      internalID: -4617860627635500369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2e8ca956e389c20800000000000000
+      internalID: 3213386940238324464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 88
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e61079110f2f560800000000000000
+      internalID: 7346197900533264001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_86
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 56
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1395579eb0d7690800000000000000
+      internalID: -7602907498607463943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 53
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8da4f05e987e5540800000000000000
+      internalID: 4998565257786207630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 52
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa69357b63022e3a0800000000000000
+      internalID: -6637707481414658385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 56
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a360705c50f511c60800000000000000
+      internalID: 7787109709085345338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dee1d3d363ff65f0800000000000000
+      internalID: -761122201921261863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_91
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45b523abbc4fda70800000000000000
+      internalID: 8853879761213437258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_92
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 49
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76263526affe71210800000000000000
+      internalID: 1303774475817542247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_93
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 31
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb57fd9171c64ea0800000000000000
+      internalID: -5888806769014645798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_94
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 17
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47112181898918590800000000000000
+      internalID: -7673684511056326284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_95
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 28
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa18739d6ba8bc20800000000000000
+      internalID: 3222514020497496748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_96
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 23
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6162150886bb3e20800000000000000
+      internalID: 3331457044687511919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_97
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea30c20733ed51a0800000000000000
+      internalID: -6819044435360204050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_98
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517854b830e4ab770800000000000000
+      internalID: 8627293813310064405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 34
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d19c164904c5d270800000000000000
+      internalID: 8274735434473181650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_100
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444275b701f781b50800000000000000
+      internalID: 6564136165658010692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_101
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 35
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abf46ce483894390800000000000000
+      internalID: -7833585469909304415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_102
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23c33b6315ab4140800000000000000
+      internalID: 4705035738540131118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_103
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 19
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bf1f0b6223dd6e0800000000000000
+      internalID: -1811236333374276751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_104
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 35
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a3df3c9e19efd70800000000000000
+      internalID: 9078854332027058715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_105
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 35
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016065dcae907d3f0800000000000000
+      internalID: -876220698428307952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_106
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cb21c989cbeec70800000000000000
+      internalID: 9002340068799724556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_107
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 31
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637c6443c5ccb3680800000000000000
+      internalID: -8774194752615168202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_108
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 16
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4c536ae2684fbb0800000000000000
+      internalID: -4903146559384468272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_109
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba95b653db2964fe0800000000000000
+      internalID: -1205114508932326997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_110
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 21
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b28d6eb00f59740800000000000000
+      internalID: 5158292882131004276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_111
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 19
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590d7c270425a4ae0800000000000000
+      internalID: -1564347483800743787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_112
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb8ac1f2b59597c0800000000000000
+      internalID: -4065178492838704194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exterior - Copy_113
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 21
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a107982b7a7510b0800000000000000
+      internalID: -5758561879142760023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      exterior - Copy_0: -4014604362185984242
+      exterior - Copy_1: 1306341649774845163
+      exterior - Copy_10: -5796215269724179107
+      exterior - Copy_100: 6564136165658010692
+      exterior - Copy_101: -7833585469909304415
+      exterior - Copy_102: 4705035738540131118
+      exterior - Copy_103: -1811236333374276751
+      exterior - Copy_104: 9078854332027058715
+      exterior - Copy_105: -876220698428307952
+      exterior - Copy_106: 9002340068799724556
+      exterior - Copy_107: -8774194752615168202
+      exterior - Copy_108: -4903146559384468272
+      exterior - Copy_109: -1205114508932326997
+      exterior - Copy_11: -8834482926176686356
+      exterior - Copy_110: 5158292882131004276
+      exterior - Copy_111: -1564347483800743787
+      exterior - Copy_112: -4065178492838704194
+      exterior - Copy_113: -5758561879142760023
+      exterior - Copy_12: 3169194095649328365
+      exterior - Copy_13: 1184296928721499773
+      exterior - Copy_14: 7136491347536110664
+      exterior - Copy_15: 7556806180353071949
+      exterior - Copy_16: -5979298731050694424
+      exterior - Copy_17: 4771438644812131374
+      exterior - Copy_18: 4871137868162107001
+      exterior - Copy_19: 4967332775007924781
+      exterior - Copy_2: -7088514004289253310
+      exterior - Copy_20: 2767187460913240631
+      exterior - Copy_21: 4935140278335236775
+      exterior - Copy_22: -1794279537441167952
+      exterior - Copy_23: -208743954948755559
+      exterior - Copy_24: 6371549743432947214
+      exterior - Copy_25: 5381798380854209515
+      exterior - Copy_26: -8653905506660055317
+      exterior - Copy_27: -8924957542489407708
+      exterior - Copy_28: -7530427301658596952
+      exterior - Copy_29: -3816302423233155583
+      exterior - Copy_3: -348824093539717788
+      exterior - Copy_30: -1095206534305738796
+      exterior - Copy_31: 8034221689057250475
+      exterior - Copy_32: -6714278083758986569
+      exterior - Copy_33: 6319368058726293260
+      exterior - Copy_34: 793676296401441407
+      exterior - Copy_35: -1161008514565713698
+      exterior - Copy_36: -2343401945741478426
+      exterior - Copy_37: -6207581214598253952
+      exterior - Copy_38: -7142598555053720968
+      exterior - Copy_39: 5483560033339143015
+      exterior - Copy_4: -3167719831996548077
+      exterior - Copy_40: -9171226120750317444
+      exterior - Copy_41: -1254269191188130376
+      exterior - Copy_42: -5060800459358161282
+      exterior - Copy_43: 2685138412077051714
+      exterior - Copy_44: 6524197049068171170
+      exterior - Copy_45: 5666881018368348773
+      exterior - Copy_46: 3172717739257928571
+      exterior - Copy_47: -7520955667529394311
+      exterior - Copy_48: -8484040200320152837
+      exterior - Copy_49: -2185820040620973311
+      exterior - Copy_5: -6946239191354353690
+      exterior - Copy_50: 5905951779636861150
+      exterior - Copy_51: 9009629099675522491
+      exterior - Copy_52: -8140368665158638986
+      exterior - Copy_53: -4360127876658791838
+      exterior - Copy_54: -7835559240782916559
+      exterior - Copy_55: 7018314606865431124
+      exterior - Copy_56: 855774955808744488
+      exterior - Copy_57: 951986125750172654
+      exterior - Copy_58: -5930017826950271935
+      exterior - Copy_59: -7716589906764602256
+      exterior - Copy_6: -5085484945985222821
+      exterior - Copy_60: 3190383513975952949
+      exterior - Copy_61: 5732872439848174682
+      exterior - Copy_62: 7183003347548466620
+      exterior - Copy_63: -4843774811059850824
+      exterior - Copy_64: 7537585482419129859
+      exterior - Copy_65: 4959835114598144664
+      exterior - Copy_66: -4712101097020305958
+      exterior - Copy_67: 8788432850233703106
+      exterior - Copy_68: 8799019467263315847
+      exterior - Copy_69: 4297288289386279329
+      exterior - Copy_7: 292669585270718162
+      exterior - Copy_70: -5608292739316567142
+      exterior - Copy_71: 2892602847024912307
+      exterior - Copy_72: 3124691484351937826
+      exterior - Copy_73: 2455849169262263419
+      exterior - Copy_74: 7239930245128476991
+      exterior - Copy_75: 3385875140221721684
+      exterior - Copy_76: -204074842164306702
+      exterior - Copy_77: 4566561753734165994
+      exterior - Copy_78: 5507913556873694027
+      exterior - Copy_79: -8002918861953072507
+      exterior - Copy_8: -7912279229788638789
+      exterior - Copy_80: -3511140631918643630
+      exterior - Copy_81: -6773888256601619236
+      exterior - Copy_82: 2746785715376924115
+      exterior - Copy_83: -4617860627635500369
+      exterior - Copy_84: 3213386940238324464
+      exterior - Copy_85: 7346197900533264001
+      exterior - Copy_86: -7602907498607463943
+      exterior - Copy_87: 4998565257786207630
+      exterior - Copy_88: -6637707481414658385
+      exterior - Copy_89: 7787109709085345338
+      exterior - Copy_9: 2024258524012613223
+      exterior - Copy_90: -761122201921261863
+      exterior - Copy_91: 8853879761213437258
+      exterior - Copy_92: 1303774475817542247
+      exterior - Copy_93: -5888806769014645798
+      exterior - Copy_94: -7673684511056326284
+      exterior - Copy_95: 3222514020497496748
+      exterior - Copy_96: 3331457044687511919
+      exterior - Copy_97: -6819044435360204050
+      exterior - Copy_98: 8627293813310064405
+      exterior - Copy_99: 8274735434473181650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
