@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      The-Forest-Top-Down-Tileset-Pixel-Art_0: -2903398519740258961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
