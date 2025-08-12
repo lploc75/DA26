@@ -250,6 +250,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1322,7 +1335,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chicken_animation_0: -7295497191967777273
+      Chicken_animation_1: -8406683936525914119
+      Chicken_animation_10: 464477309809832786
+      Chicken_animation_11: -5466544391484878940
+      Chicken_animation_12: -2676116771141748689
+      Chicken_animation_13: 4950609172607306604
+      Chicken_animation_14: 5408327550562030313
+      Chicken_animation_15: 9174456031792837739
+      Chicken_animation_16: 3239075944674177358
+      Chicken_animation_17: 7140160957862081785
+      Chicken_animation_18: 8885823014012628959
+      Chicken_animation_19: 8099812581607374838
+      Chicken_animation_2: -152930825979220150
+      Chicken_animation_20: -3000205923774234111
+      Chicken_animation_21: -7845880846809085804
+      Chicken_animation_22: 619916443319071541
+      Chicken_animation_23: 1504626561243441474
+      Chicken_animation_24: 2754802316786016623
+      Chicken_animation_25: -7518975118485650669
+      Chicken_animation_26: 8231041087900703997
+      Chicken_animation_27: 6307495638802359891
+      Chicken_animation_28: 4129390250661916111
+      Chicken_animation_29: 1732394547871221215
+      Chicken_animation_3: -5713159077328134684
+      Chicken_animation_30: -1418839420265735478
+      Chicken_animation_31: -6332785231627589714
+      Chicken_animation_32: -1062895102160484406
+      Chicken_animation_33: 6960549829931514378
+      Chicken_animation_34: 4839181420719944865
+      Chicken_animation_35: 118245601065672013
+      Chicken_animation_36: -6247994117978305487
+      Chicken_animation_37: 3002379459025323405
+      Chicken_animation_38: -4917160695629502486
+      Chicken_animation_39: -8290814649694849847
+      Chicken_animation_4: -5549943223083377763
+      Chicken_animation_40: 4005507870936150086
+      Chicken_animation_41: -5504225610854327061
+      Chicken_animation_42: -8847580422957351661
+      Chicken_animation_43: 1558784445714895353
+      Chicken_animation_44: -455146364761518241
+      Chicken_animation_45: 1668565401184867984
+      Chicken_animation_46: 3357990574584486873
+      Chicken_animation_47: 7034897824408432983
+      Chicken_animation_5: -2044136267687608510
+      Chicken_animation_6: -6464779339421944550
+      Chicken_animation_7: -6200788521645922566
+      Chicken_animation_8: 3437698070541174738
+      Chicken_animation_9: -3877963999077728923
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

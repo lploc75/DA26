@@ -226,6 +226,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1122,7 +1135,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pig_animation_0: -53899851550999722
+      Pig_animation_1: -3654525768991542805
+      Pig_animation_10: -4458481314180347522
+      Pig_animation_11: 8670059587746832189
+      Pig_animation_12: 666277491015525292
+      Pig_animation_13: 2726982958031878158
+      Pig_animation_14: -7926629946272873306
+      Pig_animation_15: -4861791292360737296
+      Pig_animation_16: -4273830316739517578
+      Pig_animation_17: -6800154084773718238
+      Pig_animation_18: 7032798989862602528
+      Pig_animation_19: -2855962870088075241
+      Pig_animation_2: -3357619716252608185
+      Pig_animation_20: 4760679311379143725
+      Pig_animation_21: -7198488475329558803
+      Pig_animation_22: -4206211036825731351
+      Pig_animation_23: -5000712857887625282
+      Pig_animation_24: -2440901213877434763
+      Pig_animation_25: 3807020347759644671
+      Pig_animation_26: 4301544175182210009
+      Pig_animation_27: -7531947187136184931
+      Pig_animation_28: 7477937538315283635
+      Pig_animation_29: -5628845030079719908
+      Pig_animation_3: -5008966091382293527
+      Pig_animation_30: 3534129465557796057
+      Pig_animation_31: -4402166233802233092
+      Pig_animation_32: -6068395013332196222
+      Pig_animation_33: -4831716941036450406
+      Pig_animation_34: 4795064636981632308
+      Pig_animation_35: 7585152812208674379
+      Pig_animation_36: -2066841279076610687
+      Pig_animation_37: 1969779751678305948
+      Pig_animation_38: -8812398253000491891
+      Pig_animation_39: 8266437062932695253
+      Pig_animation_4: -6648114739691140367
+      Pig_animation_5: -5351152263247214182
+      Pig_animation_6: -2453316696687827402
+      Pig_animation_7: -5330395392348626568
+      Pig_animation_8: -5888152982722334202
+      Pig_animation_9: 8239917053397976742
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

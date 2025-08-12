@@ -356,6 +356,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lizard
       objectReference: {fileID: 0}
+    - target: {fileID: 5913030201518883384, guid: f8dd01cf790e22442a72998c06a3bb9e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8571742864440456291, guid: f8dd01cf790e22442a72998c06a3bb9e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.47003
@@ -401,6 +405,67 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f8dd01cf790e22442a72998c06a3bb9e, type: 3}
+--- !u!1 &1409448064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1409448066}
+  - component: {fileID: 1409448065}
+  m_Layer: 0
+  m_Name: playerTest
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1409448065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1409448064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dce3e1d84c9bdf44ebabe3b5ae65c327, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  baseStats: {fileID: 11400000, guid: 2788757e69d19a54e9d9b89ee67e7ff3, type: 2}
+  currentStats:
+    HP: 0
+    MP: 0
+    SP: 0
+    Hunger: 0
+    Speed: 0
+    AttackSpeed: 0
+    CriticalChance: 0
+    CriticalDamage: 0
+    BaseDamage: 0
+    STR: 0
+    INT: 0
+    DUR: 0
+    PER: 0
+    VIT: 0
+    AGI: 0
+--- !u!4 &1409448066
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1409448064}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.47755, y: 1.69692, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1431489774
 GameObject:
   m_ObjectHideFlags: 0
@@ -571,3 +636,4 @@ SceneRoots:
   - {fileID: 619394802}
   - {fileID: 1167750150}
   - {fileID: 1431489778}
+  - {fileID: 1409448066}

@@ -208,6 +208,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -972,7 +985,41 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      House_interior_0: -7451866122780952212
+      House_interior_1: -5941777799893355003
+      House_interior_10: -3136119599639341135
+      House_interior_11: -1702781331063808868
+      House_interior_12: 4363832578397477763
+      House_interior_13: 6113506134327092205
+      House_interior_14: -5792446675421959542
+      House_interior_15: 4620546756083314466
+      House_interior_16: -8346390209152728486
+      House_interior_17: -3997936257448337780
+      House_interior_18: 6164738731687871541
+      House_interior_19: 2609201503709612267
+      House_interior_2: 1876750441841069646
+      House_interior_20: 5784379409232033156
+      House_interior_21: -8007430136033675756
+      House_interior_22: 2811772583068699278
+      House_interior_23: 837136201189594413
+      House_interior_24: -5857175982404806285
+      House_interior_25: 6557238569310588979
+      House_interior_26: -1536545137285158514
+      House_interior_27: 1297390399455823869
+      House_interior_28: -2238216587086527479
+      House_interior_29: -5862296267360897785
+      House_interior_3: -6435040519975540098
+      House_interior_30: -2631927694536001057
+      House_interior_31: 2776320505138189584
+      House_interior_32: -8746909025238663028
+      House_interior_33: 2637095193717566810
+      House_interior_4: 1702520672626938540
+      House_interior_5: 914590319544482246
+      House_interior_6: -895747192276593312
+      House_interior_7: 8577030590086991723
+      House_interior_8: -5211570910696311645
+      House_interior_9: 4684817071394946280
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

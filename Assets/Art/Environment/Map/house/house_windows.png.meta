@@ -178,6 +178,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -722,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      house_windows_0: 60153143325610671
+      house_windows_1: 5120375437065792201
+      house_windows_10: -5691693181330155627
+      house_windows_11: -1947535320008423137
+      house_windows_12: 2608177992177373073
+      house_windows_13: 1342280637234357426
+      house_windows_14: -6954890258984705934
+      house_windows_15: 6161162411013000533
+      house_windows_16: 4276092577634778448
+      house_windows_17: -11224623954823962
+      house_windows_18: 7382147385436331899
+      house_windows_19: -4267091670291957819
+      house_windows_2: 4948116577013108166
+      house_windows_20: 6425442044940419670
+      house_windows_21: -6697444009068019970
+      house_windows_22: 9147403495367193789
+      house_windows_23: -7325744748623699326
+      house_windows_3: 848864895703584461
+      house_windows_4: 6176872195732206139
+      house_windows_5: -3464766526486044258
+      house_windows_6: -1966459415359273510
+      house_windows_7: -911010434496976454
+      house_windows_8: -4017643773160088290
+      house_windows_9: -7075103798273647715
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
