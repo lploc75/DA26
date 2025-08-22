@@ -337,6 +337,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2047,7 +2112,84 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Barn_interior_0: -6466828828368962742
+      Barn_interior_1: -2181266204980358750
+      Barn_interior_10: -5261677290931201234
+      Barn_interior_11: -2116759375087349537
+      Barn_interior_12: -2929292160935600831
+      Barn_interior_13: 1294894483172205048
+      Barn_interior_14: 8778438378430321791
+      Barn_interior_15: -4677435405964314688
+      Barn_interior_16: -5126557287816694208
+      Barn_interior_17: -2650222431538649406
+      Barn_interior_18: -7695605935766162497
+      Barn_interior_19: -4816536425281709885
+      Barn_interior_2: 6621436986785227439
+      Barn_interior_20: -3568418721762332729
+      Barn_interior_21: -1330543688260205476
+      Barn_interior_22: 8688534777881518588
+      Barn_interior_23: 6003100357346629968
+      Barn_interior_24: 5607165172132245372
+      Barn_interior_25: -4608195415542834918
+      Barn_interior_26: 650310145715029238
+      Barn_interior_27: -190443922049871167
+      Barn_interior_28: -6914916389088253622
+      Barn_interior_29: -4097528805697914019
+      Barn_interior_3: -1730885647400958947
+      Barn_interior_30: -4290260419319585290
+      Barn_interior_31: 5084858997524437921
+      Barn_interior_32: 878549610422758674
+      Barn_interior_33: 7081587662740423704
+      Barn_interior_34: 9068485662879173622
+      Barn_interior_35: -426137956194250650
+      Barn_interior_36: -8791699523288146922
+      Barn_interior_37: -1394232543948479315
+      Barn_interior_38: 8518730232778874389
+      Barn_interior_39: -3763106071945769209
+      Barn_interior_4: 5750465337378566947
+      Barn_interior_40: 5878270891754551097
+      Barn_interior_41: -7146952354993689799
+      Barn_interior_42: -1841311662301920018
+      Barn_interior_43: 11413282551118866
+      Barn_interior_44: 6952409252286413090
+      Barn_interior_45: -6428178239431565650
+      Barn_interior_46: -6985067706898287980
+      Barn_interior_47: -4464557282947004787
+      Barn_interior_48: -7573534504415387392
+      Barn_interior_49: -1413021615908932234
+      Barn_interior_5: 4757833607845648213
+      Barn_interior_50: -7330922240241753035
+      Barn_interior_51: 2364277895273283742
+      Barn_interior_52: 8476439383584174681
+      Barn_interior_53: -5972030416516308365
+      Barn_interior_54: 3984249444357980145
+      Barn_interior_55: -1644498661368524847
+      Barn_interior_56: -504486004280071349
+      Barn_interior_57: -8301920089137210789
+      Barn_interior_58: 5969360558335247993
+      Barn_interior_59: -8971301589853820099
+      Barn_interior_6: -7683208032831165459
+      Barn_interior_60: 99744742828150855
+      Barn_interior_61: 4323750591409862247
+      Barn_interior_62: 4430400346335750923
+      Barn_interior_63: -3409527007105049739
+      Barn_interior_64: -7819113885575998175
+      Barn_interior_65: 7420135037311929949
+      Barn_interior_66: -2385939673589505099
+      Barn_interior_67: -9010118556450475994
+      Barn_interior_68: 3752274404859801180
+      Barn_interior_69: -308203605439736790
+      Barn_interior_7: 6823234967913710786
+      Barn_interior_70: -3505075591202083227
+      Barn_interior_71: 4975452214284924882
+      Barn_interior_72: 1519453475154125677
+      Barn_interior_73: 593062018444923321
+      Barn_interior_74: 7048781894257004074
+      Barn_interior_75: 2249991587039674534
+      Barn_interior_76: 7348126997591133801
+      Barn_interior_8: -6652583004489900541
+      Barn_interior_9: -7464798535536447112
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

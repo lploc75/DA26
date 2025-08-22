@@ -226,6 +226,71 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1122,7 +1187,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cow_animation_0: -4861359513039840510
+      Cow_animation_1: 5160930173884537927
+      Cow_animation_10: 2341577254926348535
+      Cow_animation_11: -8789434404857484816
+      Cow_animation_12: 61281199588284529
+      Cow_animation_13: -6229177566434168843
+      Cow_animation_14: -6288470659563959161
+      Cow_animation_15: 4473466133665077861
+      Cow_animation_16: -2538696583654627773
+      Cow_animation_17: -8840033393740853117
+      Cow_animation_18: 4600980455062935008
+      Cow_animation_19: 2102896011026434705
+      Cow_animation_2: 5126861045265198204
+      Cow_animation_20: 2473633199905062825
+      Cow_animation_21: 5019315939258614229
+      Cow_animation_22: -3813849936174876031
+      Cow_animation_23: -8965533670639935602
+      Cow_animation_24: 915813149524033515
+      Cow_animation_25: 9040244127733520568
+      Cow_animation_26: -4085063326334899621
+      Cow_animation_27: 1192976994685387202
+      Cow_animation_28: -2041925781437568073
+      Cow_animation_29: -643823578575167871
+      Cow_animation_3: 6649312547974694178
+      Cow_animation_30: -6224229309928550714
+      Cow_animation_31: -6699472895969736811
+      Cow_animation_32: 7453556034425773930
+      Cow_animation_33: 3876686808594520131
+      Cow_animation_34: -7506491953527723593
+      Cow_animation_35: -7679787734079481072
+      Cow_animation_36: 7518560309605135677
+      Cow_animation_37: 1713637473428485864
+      Cow_animation_38: -2836927631933531787
+      Cow_animation_39: -6174403451093604517
+      Cow_animation_4: 2852097508289063733
+      Cow_animation_5: -4450088174361297193
+      Cow_animation_6: 4684708871178245402
+      Cow_animation_7: 3895887616215823086
+      Cow_animation_8: -8429043704567843110
+      Cow_animation_9: -6590826476721612092
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
