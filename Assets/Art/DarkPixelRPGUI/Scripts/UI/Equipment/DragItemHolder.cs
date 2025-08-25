@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 namespace DarkPixelRPGUI.Scripts.UI.Equipment
@@ -22,42 +22,76 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
             if (dragging) return;
             dragging = true;
 
+            if (sourceSlot == null)
+            {
+                Debug.LogError("Source Slot is null!");
+                return;
+            }
+
             _sourceSlot = sourceSlot;
             dragItem = _sourceSlot.Item;
-            _sourceSlot.ClearSlot();
+            // Sử dụng getter ItemIcon thay vì itemIcon
+            if (_sourceSlot.ItemIcon != null)
+            {
+                _sourceSlot.ItemIcon.color = new Color(1f, 1f, 1f, 0.5f);
+            }
             TargetSlotToDrop(_sourceSlot);
-            
+
             transformToMove.position = Input.mousePosition;
             displayItemImage.sprite = dragItem.Sprite;
             displayItemImage.enabled = dragging;
+
+            Debug.Log("Started dragging item from slot: " + _sourceSlot.name);
         }
 
         public void DropItem()
         {
             if (!dragging) return;
             dragging = false;
-            _targetSlotToDrop.PlaceItem(dragItem);
+
+            if (_sourceSlot == null)
+            {
+                Debug.LogError("_sourceSlot is null when dropping the item!");
+                return;
+            }
+
             dragItem = null;
             displayItemImage.enabled = dragging;
+
             _targetSlotToDrop = null;
-            _sourceSlot = null;
         }
 
         public void TargetSlotToDrop(Slot slot)
         {
             if (_targetSlotToDrop != null)
             {
-                _targetSlotToDrop.ClearSlot();
-                
+                _targetSlotToDrop.RemovePlaceholder();
             }
             _targetSlotToDrop = slot;
-            _targetSlotToDrop.PlaceholdItem(dragItem);
+            if (_targetSlotToDrop.IsEmpty())
+            {
+                _targetSlotToDrop.PlaceholdItem(dragItem);
+            }
         }
 
         public void RemoveTarget(Slot slot)
         {
             if (slot != _targetSlotToDrop) return;
             TargetSlotToDrop(_sourceSlot);
+        }
+
+        public Slot GetDraggedSlot()
+        {
+            if (_sourceSlot == null)
+            {
+                Debug.LogError("_sourceSlot is null!");
+                return null;
+            }
+            else
+            {
+                Debug.Log("Source Slot: " + _sourceSlot.name);
+                return _sourceSlot;
+            }
         }
 
         private void Update()

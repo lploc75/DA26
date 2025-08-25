@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
@@ -38,5 +38,25 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
                 }
             }
         }
+
+        public void SwapItems(int draggedSlotIndex, int targetSlotIndex)
+        {
+            // Lấy vật phẩm từ ô nguồn (dragged slot) và ô đích (target slot)
+            var draggedItem = _slots[draggedSlotIndex].Item;
+            var targetItem = _slots[targetSlotIndex].Item;
+
+            // Đảm bảo rằng ô nguồn và ô đích không phải là trống
+            if (draggedItem != null && targetItem != null)
+            {
+                // Swap vật phẩm giữa hai ô
+                _slots[draggedSlotIndex].PlaceItem(targetItem);  // Đặt vật phẩm từ ô đích vào ô nguồn
+                _slots[targetSlotIndex].PlaceItem(draggedItem);  // Đặt vật phẩm từ ô nguồn vào ô đích
+            }
+            else
+            {
+                Debug.LogWarning("One of the slots is empty, cannot swap.");
+            }
+        }
+
     }
 }
