@@ -1,0 +1,4 @@
+BaseStats.cs -> không reference script nào trong nhóm
+CharacterStats.cs -> reference BaseStats
+PlayerStatsManager.cs -> reference BaseStats, CharacterStats
+StatsUIManager.cs -> reference PlayerStatsManager (gián tiếp CharacterStats)

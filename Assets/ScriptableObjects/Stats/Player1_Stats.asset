@@ -12,18 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82943e43f3777604ab23e2a2475bad6a, type: 3}
   m_Name: Player1_Stats
   m_EditorClassIdentifier: 
-  HP: 50
-  MP: 30
-  SP: 25
-  Hunger: 100
-  Speed: 10
-  AttackSpeed: 1
-  CriticalChance: 1
-  CriticalDamage: 20
-  BaseDamage: 10
+  Health: 0
+  Mana: 0
+  Hunger: 0
+  Sanity: 0
+  Stamina: 0
   STR: 5
-  INT: 5
-  DUR: 5
-  PER: 5
-  VIT: 5
   AGI: 5
+  INT: 5
+  VIT: 5
+  WIS: 5
+  Armor: 0
+  BaseDamage: 0
+  CritChance: 0
+  CritDamage: 0
+  HealthRegen: 0
+  ManaRegen: 0
+  Level: 1
+  RemainPoints: 100
