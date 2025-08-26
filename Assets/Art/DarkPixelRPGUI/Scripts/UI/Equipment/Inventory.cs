@@ -6,11 +6,26 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
 {
     public class Inventory : MonoBehaviour
     {
-        private List<Slot> _slots;
+        private List<InventorySlot> _slots;
 
         private void Start()
         {
-            _slots = GetComponentsInChildren<Slot>().ToList();
+            _slots = GetComponentsInChildren<InventorySlot>().ToList();
+            if (_slots.Count == 0)
+            {
+                Debug.LogError("No InventorySlots found in Inventory!");
+            }
+            else
+            {
+                foreach (var slot in _slots)
+                {
+                    if (slot.Item != null || slot.ItemIcon.sprite != null)
+                    {
+                        slot.ShowItem();
+                        Debug.Log($"Initialized slot {slot.gameObject.name} with item or sprite");
+                    }
+                }
+            }
         }
 
         public bool HasFreeSpace()
@@ -18,14 +33,32 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
             return _slots.Any(slot => slot.IsEmpty());
         }
 
-        public Slot GetNextEmptySlotForItem()
+        public InventorySlot GetNextEmptySlotForItem()
         {
             return _slots.Find(s => s.IsEmpty());
         }
 
+        // Phương thức mới để thêm item runtime
+        public void AddItem(Item newItem)
+        {
+            if (!HasFreeSpace())
+            {
+                Debug.LogWarning("No free space in inventory!");
+                return;
+            }
+
+            var emptySlot = GetNextEmptySlotForItem();
+            if (emptySlot != null)
+            {
+                emptySlot.PlaceItem(newItem);
+                emptySlot.ResetVisual(); // Đảm bảo visual update để kéo thả được
+                Debug.Log($"Added new item to slot: {emptySlot.gameObject.name}");
+            }
+        }
+
         public void RemoveBlanks()
         {
-            var items = _slots.Where(s => !s.IsEmpty()).Select(s => s.Item).ToList();
+            var items = _slots.Where(s => !s.IsEmpty() && s.Item != null).Select(s => s.Item).ToList();
             for (var i = 0; i < _slots.Count; i++)
             {
                 if (i < items.Count)
@@ -37,26 +70,23 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
                     _slots[i].ClearSlot();
                 }
             }
+            Debug.Log($"RemoveBlanks: Kept {items.Count} items, cleared remaining slots.");
         }
 
         public void SwapItems(int draggedSlotIndex, int targetSlotIndex)
         {
-            // Lấy vật phẩm từ ô nguồn (dragged slot) và ô đích (target slot)
             var draggedItem = _slots[draggedSlotIndex].Item;
             var targetItem = _slots[targetSlotIndex].Item;
 
-            // Đảm bảo rằng ô nguồn và ô đích không phải là trống
             if (draggedItem != null && targetItem != null)
             {
-                // Swap vật phẩm giữa hai ô
-                _slots[draggedSlotIndex].PlaceItem(targetItem);  // Đặt vật phẩm từ ô đích vào ô nguồn
-                _slots[targetSlotIndex].PlaceItem(draggedItem);  // Đặt vật phẩm từ ô nguồn vào ô đích
+                _slots[draggedSlotIndex].PlaceItem(targetItem);
+                _slots[targetSlotIndex].PlaceItem(draggedItem);
             }
             else
             {
                 Debug.LogWarning("One of the slots is empty, cannot swap.");
             }
         }
-
     }
 }
