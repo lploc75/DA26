@@ -6,7 +6,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
     public class SlotItemDropTarget : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     {
         [SerializeField] private Slot slot;
-        
+
         public void OnPointerEnter(PointerEventData eventData)
         {
             var dragItemHolder = DragItemHolder.Instance;

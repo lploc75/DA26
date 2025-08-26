@@ -7,18 +7,19 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
 {
     public class InventorySlotItemGrab : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IDragHandler
     {
-        private const string InventorySlot = "InventorySlot";
+        private const string InventorySlotTag = "InventorySlot";
+        private const string EquipmentSlotTag = "EquipmentSlot";
         [SerializeField] private Inventory inventory;
-        private List<Slot> _slots;
+        private List<InventorySlot> _slots;
 
         private void Start()
         {
-            _slots = inventory.GetComponentsInChildren<Slot>().ToList();
+            _slots = inventory.GetComponentsInChildren<InventorySlot>().ToList();
         }
 
         public void OnBeginDrag(PointerEventData eventData)
         {
-            var inventorySlot = FindSlot(eventData.position);
+            var inventorySlot = FindSlot(eventData.position, InventorySlotTag);
             if (inventorySlot == null || inventorySlot.IsEmpty()) return;
 
             Debug.Log("Starting drag for slot: " + inventorySlot.name);
@@ -36,10 +37,9 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
                 return;
             }
 
-            // Khai báo draggedSlot sớm, trước khi sử dụng
             var draggedSlot = DragItemHolder.Instance.GetDraggedSlot();
+            var targetSlot = FindSlot(eventData.position, InventorySlotTag) ?? FindSlot(eventData.position, EquipmentSlotTag);
 
-            var targetSlot = FindSlot(eventData.position);
             if (targetSlot == null)
             {
                 Debug.LogError("Target slot is null.");
@@ -57,7 +57,6 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
                 return;
             }
 
-            // Nếu drop lên source, cancel
             if (targetSlot == draggedSlot)
             {
                 draggedSlot.ResetVisual();
@@ -65,7 +64,6 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
                 return;
             }
 
-            // Remove placeholder nếu có
             targetSlot.RemovePlaceholder();
 
             if (targetSlot.IsEmpty())
@@ -74,21 +72,30 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
                 targetSlot.PlaceItem(DragItemHolder.Instance.dragItem);
                 draggedSlot.ClearSlot();
             }
-            else
+            else if (targetSlot is InventorySlot)
             {
                 Debug.Log("Target Slot is not empty. Proceeding with SwapItems.");
                 var tempItem = targetSlot.Item;
                 targetSlot.PlaceItem(DragItemHolder.Instance.dragItem);
                 draggedSlot.PlaceItem(tempItem);
             }
+            else
+            {
+                Debug.Log("Cannot swap with EquipmentSlot.");
+                draggedSlot.ResetVisual();
+                DragItemHolder.Instance.DropItem();
+                return;
+            }
 
-            // Reset visual source và target
             draggedSlot.ResetVisual();
             targetSlot.ResetVisual();
 
             DragItemHolder.Instance.DropItem();
 
-            inventory.RemoveBlanks();
+            if (inventory != null)
+            {
+                inventory.RemoveBlanks();
+            }
         }
 
         public void OnDrag(PointerEventData eventData)
@@ -96,7 +103,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
             // blank implementation
         }
 
-        private static Slot FindSlot(Vector3 mousePosition)
+        private static Slot FindSlot(Vector3 mousePosition, string tag)
         {
             var pointerData = new PointerEventData(EventSystem.current)
             {
@@ -106,7 +113,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
 
             var results = new List<RaycastResult>();
             EventSystem.current.RaycastAll(pointerData, results);
-            var slotGo = results.Select(r => r.gameObject).FirstOrDefault(go => go.CompareTag(InventorySlot));
+            var slotGo = results.Select(r => r.gameObject).FirstOrDefault(go => go.CompareTag(tag));
             return slotGo == null ? null : slotGo.GetComponentInParent<Slot>();
         }
     }

@@ -3,14 +3,13 @@ using UnityEngine.UI;
 
 namespace DarkPixelRPGUI.Scripts.UI.Equipment
 {
-    public class Slot : MonoBehaviour
+    public abstract class Slot : MonoBehaviour
     {
-        [SerializeField] private NullableSerializableObjectField<Item> initialItem;
-        [SerializeField] private Image itemIcon; // Giữ private
-        [SerializeField] private Image placedItemImage;
-        private Item _item;
+        [SerializeField] protected NullableSerializableObjectField<Item> initialItem;
+        [SerializeField] protected Image itemIcon;
+        [SerializeField] protected Image placedItemImage;
+        protected Item _item;
         public Item Item => _item;
-        // Thêm getter cho itemIcon
         public Image ItemIcon => itemIcon;
 
         public bool IsEmpty()
@@ -20,19 +19,26 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
 
         public virtual void PlaceItem(Item itemToPlace)
         {
+            if (itemToPlace == null) return; // Ngăn set item null
             _item = itemToPlace;
             ShowItem();
+            Debug.Log($"PlaceItem called for slot: {gameObject.name}, Item: {_item}");
         }
 
         public void PlaceholdItem(Item itemToPlacehold)
         {
-            itemIcon.sprite = itemToPlacehold.Sprite;
-            itemIcon.color = new Color(1f, 1f, 1f, 0.5f);
-            itemIcon.enabled = true;
+            if (itemToPlacehold != null && itemToPlacehold.Sprite != null)
+            {
+                itemIcon.sprite = itemToPlacehold.Sprite;
+                itemIcon.color = new Color(1f, 1f, 1f, 0.5f);
+                itemIcon.enabled = true;
+                Debug.Log($"PlaceholdItem called for slot: {gameObject.name}");
+            }
         }
 
         public virtual void ClearSlot()
         {
+            Debug.Log($"ClearSlot called for slot: {gameObject.name}, Item: {_item}");
             itemIcon.sprite = null;
             itemIcon.color = Color.white;
             itemIcon.enabled = false;
@@ -45,49 +51,90 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
 
         public void RemovePlaceholder()
         {
-            if (itemIcon.enabled && itemIcon.color.a < 1f)  // Chỉ xóa nếu là placeholder
+            if (itemIcon.enabled && itemIcon.color.a < 1f)
             {
                 itemIcon.sprite = null;
                 itemIcon.color = Color.white;
                 itemIcon.enabled = false;
+                Debug.Log($"RemovePlaceholder called for slot: {gameObject.name}");
             }
         }
 
         public void ResetVisual()
         {
-            if (_item != null)
+            itemIcon.color = Color.white;
+            if (_item != null && _item.Sprite != null)
+            {
+                itemIcon.sprite = _item.Sprite;
+                itemIcon.enabled = true;
+                Debug.Log($"ResetVisual called for slot: {gameObject.name}, Item: {_item}");
+            }
+            else if (itemIcon.sprite != null)
+            {
+                itemIcon.enabled = true;
+                Debug.Log($"ResetVisual kept existing sprite for slot: {gameObject.name}");
+            }
+            else
+            {
+                itemIcon.enabled = false;
+                Debug.Log($"ResetVisual disabled itemIcon for slot: {gameObject.name}, no Item or sprite");
+            }
+        }
+
+        public void ShowItem()
+        {
+            if (_item != null && _item.Sprite != null)
+            {
+                itemIcon.sprite = _item.Sprite;
+                itemIcon.color = Color.white;
+                itemIcon.enabled = true;
+                if (placedItemImage)
+                {
+                    placedItemImage.enabled = true;
+                }
+                Debug.Log($"ShowItem called for slot: {gameObject.name}, Sprite: {_item.Sprite}");
+            }
+            else if (itemIcon.sprite != null)
             {
                 itemIcon.color = Color.white;
                 itemIcon.enabled = true;
+                if (placedItemImage)
+                {
+                    placedItemImage.enabled = true;
+                }
+                Debug.Log($"ShowItem kept existing sprite for slot: {gameObject.name}");
             }
-        }
-
-        private void ShowItem()
-        {
-            itemIcon.sprite = _item.Sprite;
-            itemIcon.color = Color.white;
-            itemIcon.enabled = true;
-            if (placedItemImage)
+            else
             {
-                placedItemImage.enabled = true;
+                itemIcon.sprite = null;
+                itemIcon.enabled = false;
+                if (placedItemImage)
+                {
+                    placedItemImage.enabled = false;
+                }
+                Debug.LogWarning($"ShowItem failed for slot: {gameObject.name}, no Item or sprite");
             }
         }
-
-        private void OnValidate()
+        protected void OnValidate()
         {
             if (itemIcon == null) return;
-            if (initialItem.Value == null)
-            {
-                ClearSlot();
-                return;
-            }
 
-            if (initialItem.Value != null)
+            // Chỉ cập nhật nếu _item chưa được gán trong runtime
+            if (_item == null && initialItem.Value != null)
             {
                 _item = initialItem.Value;
+                ShowItem();
             }
-
-            ShowItem();
+            else if (initialItem.Value == null)
+            {
+                // Không gọi ClearSlot() để tránh xóa icon trong runtime
+                itemIcon.sprite = null;
+                itemIcon.enabled = false;
+                if (placedItemImage)
+                {
+                    placedItemImage.enabled = false;
+                }
+            }
         }
     }
 }

@@ -20,7 +20,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
 
         public void OnDrag(PointerEventData eventData)
         {
-            //blank implementation. IDragHandler is required for IBeginDragHandler, IEndDragHandler
+            // blank implementation
         }
     }
 }
