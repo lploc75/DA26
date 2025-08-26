@@ -30,7 +30,6 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
 
             _sourceSlot = sourceSlot;
             dragItem = _sourceSlot.Item;
-            // Sử dụng getter ItemIcon thay vì itemIcon
             if (_sourceSlot.ItemIcon != null)
             {
                 _sourceSlot.ItemIcon.color = new Color(1f, 1f, 1f, 0.5f);
