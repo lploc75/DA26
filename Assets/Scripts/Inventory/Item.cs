@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace DarkPixelRPGUI.Scripts.UI.Equipment
+namespace Scripts.Inventory
 {
     /// <summary>
     /// Class Item: đại diện cho vật phẩm cơ bản, chứa sprite để hiển thị.

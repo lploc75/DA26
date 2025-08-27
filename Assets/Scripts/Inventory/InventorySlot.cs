@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace DarkPixelRPGUI.Scripts.UI.Equipment
+namespace Scripts.Inventory
 {
     /// <summary>
     /// Ô item trong kho đồ. Hiện đang chỉ kế thừa Slot và log thêm.

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace DarkPixelRPGUI.Scripts.UI.Equipment
+namespace Scripts.Inventory
 {
     /// <summary>
     /// Xử lý khi bắt đầu kéo item từ một Slot cụ thể.

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace DarkPixelRPGUI.Scripts.UI.Equipment
+namespace Scripts.Inventory
 {
     /// <summary>
     /// Khi con trỏ (vật phẩm đang kéo) đi vào khu vực InventorySlotItemDropTarget

@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace DarkPixelRPGUI.Scripts.UI
+namespace Scripts.Inventory
 {
     [Serializable]
     public class NullableSerializableObjectField<T> : NullableSerializableField where T : class

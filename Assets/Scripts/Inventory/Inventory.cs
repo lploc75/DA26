@@ -2,7 +2,7 @@
 using System.Linq;
 using UnityEngine;
 
-namespace DarkPixelRPGUI.Scripts.UI.Equipment
+namespace Scripts.Inventory
 {
     /// <summary>
     /// Quản lý danh sách các ô InventorySlot và các thao tác cấp cao (add/swap/compact).

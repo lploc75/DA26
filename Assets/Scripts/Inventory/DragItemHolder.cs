@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace DarkPixelRPGUI.Scripts.UI.Equipment
+namespace Scripts.Inventory
 {
     /// <summary>
     /// Controller singleton giữ trạng thái đang kéo: icon theo chuột, slot nguồn, slot đích, v.v.
