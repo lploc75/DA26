@@ -3,8 +3,11 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace DarkPixelRPGUI.Scripts.UI.Equipment
+namespace Scripts.Inventory
 {
+    /// <summary>
+    /// Xử lý tương tác kéo/thả từ các ô InventorySlot (raycast theo tag).
+    /// </summary>
     public class InventorySlotItemGrab : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IDragHandler
     {
         private const string InventorySlotTag = "InventorySlot";
@@ -68,12 +71,15 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
 
             if (targetSlot.IsEmpty())
             {
-                Debug.Log("Target Slot is empty. Moving item.");
-                targetSlot.PlaceItem(DragItemHolder.Instance.dragItem);
-                draggedSlot.ClearSlot();
+                // Cấm thả vào ô trống
+                draggedSlot.ResetVisual();
+                DragItemHolder.Instance.DropItem();
+                return;
             }
+
             else if (targetSlot is InventorySlot)
             {
+                // SWAP: chỉ cho swap giữa các inventory slot
                 Debug.Log("Target Slot is not empty. Proceeding with SwapItems.");
                 var tempItem = targetSlot.Item;
                 targetSlot.PlaceItem(DragItemHolder.Instance.dragItem);
@@ -81,6 +87,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
             }
             else
             {
+                // Không swap với EquipmentSlot đang có item
                 Debug.Log("Cannot swap with EquipmentSlot.");
                 draggedSlot.ResetVisual();
                 DragItemHolder.Instance.DropItem();
@@ -92,10 +99,10 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
 
             DragItemHolder.Instance.DropItem();
 
-            if (inventory != null)
-            {
-                inventory.RemoveBlanks();
-            }
+            //if (inventory != null)
+            //{
+            //    inventory.RemoveBlanks();
+            //}
         }
 
         public void OnDrag(PointerEventData eventData)

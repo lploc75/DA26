@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace DarkPixelRPGUI.Scripts.UI.Equipment
+namespace Scripts.Inventory
 {
     public class EquipmentSlot : Slot
     {
@@ -14,8 +14,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
 
         public override void ClearSlot()
         {
-            //base.ClearSlot();
-            Debug.Log($"Cleared EquipmentSlot: {gameObject.name}");
+            base.ClearSlot();
         }
     }
 }

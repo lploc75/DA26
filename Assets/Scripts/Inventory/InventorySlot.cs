@@ -1,8 +1,11 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace DarkPixelRPGUI.Scripts.UI.Equipment
+namespace Scripts.Inventory
 {
+    /// <summary>
+    /// Ô item trong kho đồ. Hiện đang chỉ kế thừa Slot và log thêm.
+    /// </summary>
     public class InventorySlot : Slot
     {
         // Kế thừa tất cả chức năng từ Slot
@@ -15,8 +18,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
 
         public override void ClearSlot()
         {
-            base.ClearSlot();
-            Debug.Log($"Cleared InventorySlot: {gameObject.name}");
+            base.ClearSlot();           
         }
     }
 }
