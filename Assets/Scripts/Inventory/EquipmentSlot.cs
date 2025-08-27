@@ -14,8 +14,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
 
         public override void ClearSlot()
         {
-            //base.ClearSlot();
-            Debug.Log($"Cleared EquipmentSlot: {gameObject.name}");
+            base.ClearSlot();
         }
     }
 }

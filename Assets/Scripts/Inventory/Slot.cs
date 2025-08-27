@@ -3,6 +3,11 @@ using UnityEngine.UI;
 
 namespace DarkPixelRPGUI.Scripts.UI.Equipment
 {
+
+    /// <summary>
+    /// Cơ sở cho mọi ô chứa item (kho đồ, trang bị...).
+    /// Quản lý: item hiện tại, icon, placeholder, và đồng bộ UI.
+    /// </summary>
     public abstract class Slot : MonoBehaviour
     {
         [SerializeField] protected NullableSerializableObjectField<Item> initialItem;
@@ -25,6 +30,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
             Debug.Log($"PlaceItem called for slot: {gameObject.name}, Item: {_item}");
         }
 
+        /// <summary>Hiển thị hình mờ của item khi rê vào ô trống (preview).</summary>
         public void PlaceholdItem(Item itemToPlacehold)
         {
             if (itemToPlacehold != null && itemToPlacehold.Sprite != null)
@@ -36,6 +42,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
             }
         }
 
+        /// <summary>Xóa item khỏi slot và reset UI.</summary>
         public virtual void ClearSlot()
         {
             Debug.Log($"ClearSlot called for slot: {gameObject.name}, Item: {_item}");
@@ -49,6 +56,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
             }
         }
 
+        /// <summary>Ẩn placeholder (khi rời ô).</summary>
         public void RemovePlaceholder()
         {
             if (itemIcon.enabled && itemIcon.color.a < 1f)
@@ -60,6 +68,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
             }
         }
 
+        /// <summary>Đồng bộ lại UI dựa trên trạng thái hiện tại.</summary>
         public void ResetVisual()
         {
             itemIcon.color = Color.white;
@@ -81,6 +90,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
             }
         }
 
+        /// <summary>Cập nhật icon .</summary>
         public void ShowItem()
         {
             if (_item != null && _item.Sprite != null)
@@ -127,7 +137,7 @@ namespace DarkPixelRPGUI.Scripts.UI.Equipment
             }
             else if (initialItem.Value == null)
             {
-                // Không gọi ClearSlot() để tránh xóa icon trong runtime
+                // Không gọi Clear() để tránh xóa icon runtime khi chỉnh trong Editor
                 itemIcon.sprite = null;
                 itemIcon.enabled = false;
                 if (placedItemImage)
