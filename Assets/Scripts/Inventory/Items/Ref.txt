@@ -1,0 +1,96 @@
+---------------------------------------------------------------
+1) AreaDropTable.cs
+Chức năng: Định nghĩa bảng rơi theo khu vực (ScriptableObject). Quy tắc roll item level, rarity, và chọn item definition từ pool.
+Định nghĩa/Type bên trong:
+- IntRange { int Min, Max }
+- RarityDistribution (tỉ lệ % cho Common → Legendary)
+References (phụ thuộc):
+- Project types: ItemDefinition (trong ItemDefinitionSO.cs), Rarity (trong RarityConfig.cs), ItemType (gián tiếp qua ItemDefinition), Stats (gián tiếp khi dùng ItemDefinition).
+- Unity: ScriptableObject, Sprite, Mathf, Random, SerializeField.
+Referenced by (được dùng bởi):
+- LootService.cs (gọi PickItem, RollItemLevel, RollRarity khi sinh item).
+
+---------------------------------------------------------------
+2) Item.cs
+Chức năng: Model runtime của Item (dùng cho UI/logic). Mang theo icon, DefId, ItemLevel, Rarity, ScaledStats, SellPrice và danh sách affix đã roll.
+Định nghĩa/Type bên trong:
+- AffixEntry { RarityStat Stat; float Value; }
+- Item (class serializable cho UI và gameplay)
+References (phụ thuộc):
+- Project types: RarityStat & Rarity (từ RarityConfig.cs), Stats (từ ItemDefinitionSO.cs), ItemDefinition (field CachedDef – tham chiếu ngược tới định nghĩa).
+- Unity: Sprite, SerializeField.
+Referenced by:
+- LootService.cs (tạo instance Item trả ra).
+- UI/Inventory (Slot, InventorySlot, TooltipPresenter, …) – hiển thị, kéo/thả, hover.
+
+---------------------------------------------------------------
+3) ItemDatabase.cs
+Chức năng: Catalog/tra cứu ItemDefinition theo Id (nạp từ Resources/List tuỳ bản của bạn). Điểm cắm để sau thay bằng DB thật.
+References (phụ thuộc):
+- Project types: ItemDefinition (từ ItemDefinitionSO.cs).
+- Unity: MonoBehaviour, Resources/SerializeField (tuỳ cách nạp).
+Referenced by:
+- TooltipPresenter (tra DefId → ItemDefinition khi render tooltip).
+- (Có thể) LootService/server/khác nếu cần truy xuất theo Id.
+
+---------------------------------------------------------------
+4) ItemDefinitionSO.cs
+Chức năng: Định nghĩa ItemDefinition (ScriptableObject) – danh tính, loại, class restriction, BaseStats, GrowthPercent, và GetStatsAtLevel(level), GetRequiredLevel(...).
+Định nghĩa/Type bên trong:
+- ItemType { Weapon, Helmet, Chest, Pants, Boots, Ring, Necklace }
+- ClassRestriction { None, Warrior, Archer, Wizard }
+- EquipRequirementMode { UseItemLevel, FixedValue }
+- Stats (tập hợp tài nguyên/thuộc tính/chiến đấu)
+References (phụ thuộc):
+- Unity: ScriptableObject, Sprite, Mathf.
+- Project types: các enum/struct nội bộ của file; không phụ thuộc RarityConfig.
+Referenced by:
+- AreaDropTable.cs (pool List<ItemDefinition>).
+- LootService.cs (scale BaseStats theo level, tính RequiredLevel).
+- Item.cs (field CachedDef – tham chiếu để UI lấy icon/type, mô tả…).
+- TooltipPresenter (đổ Name/Desc/Type).
+
+---------------------------------------------------------------
+5) LootService.cs
+Chức năng: Luồng sinh item: từ AreaDropTable chọn ItemDefinition, roll level & rarity, roll N affix ngẫu nhiên theo RarityConfig, cộng affix vào Stats, tính giá bán, và trả về Scripts.Inventory.Item (runtime).
+References (phụ thuộc):
+- Project types: AreaDropTable, RarityConfig, ItemDefinition, Rarity, RarityStat, Stats, Scripts.Inventory.Item.
+- Unity: MonoBehaviour, Mathf, Debug.
+Referenced by:
+- LootTestSpawner.cs (test nhấn phím để spawn item).
+- (Sau này) Server-side drop logic, EnemyDeath handler.
+
+---------------------------------------------------------------
+6) LootTestSpawner.cs
+Chức năng: Script test: lắng nghe phím (ví dụ I) → gọi LootService.GenerateOneItemByRegion(...) → Inventory.AddItem(...) để kiểm thử luồng rơi & hiển thị.
+References (phụ thuộc):
+- Project types: LootService, AreaDropTable/RarityConfig (gián tiếp qua LootService), Inventory (để add item), Scripts.Inventory.Item.
+- Unity: MonoBehaviour, Input, KeyCode, SerializeField.
+Referenced by:
+- Chỉ bởi Scene test/dev; không phải production logic.
+
+---------------------------------------------------------------
+7) RarityConfig.cs
+Chức năng: Cấu hình rarity: số dòng affix cho mỗi tier, bảng bonus cho từng RarityStat theo tier, PriceMultiplier và PriceIncreasePerLevel để tính giá bán.
+Định nghĩa/Type bên trong:
+- Rarity { Common, Uncommon, Rare, Epic, Legendary }
+- RarityStat (Strength, Agility, Intelligence, Vitality, Wisdom, Health, Mana, Armor, BaseDamage, CritChance, CritDamagePct, HealthRegenPerSec, ManaRegenPerSec)
+- LinesPerRarity, RarityValue, RarityBonusEntry
+References (phụ thuộc):
+- Unity: ScriptableObject, SerializeField, Mathf.
+Referenced by:
+- LootService.cs (roll số dòng, lấy giá trị affix, tính giá bán).
+- TooltipPresenter (đổi màu theo tier; không cần để hiển thị affix đã roll).
+
+---------------------------------------------------------------
+Gợi ý sơ đồ phụ thuộc (tinh gọn):
+[RarityConfig] → [LootService] → (creates) → [Item (runtime)]
+[AreaDropTable] → [LootService] → uses [ItemDefinition]
+[ItemDefinition] ← [ItemDatabase] (lookup by Id)
+[Tooltip/UI/Inventory] → dùng [Item] + tra [ItemDefinition] (qua ItemDatabase)
+
+Namespace/Folder gợi ý:
+- Game.Data.Definitions → ItemDefinitionSO.cs, RarityConfig.cs, AreaDropTable.cs
+- Game.Data → ItemDatabase.cs
+- Game.Data.Models → Item.cs
+- Game.Gameplay.Loot → LootService.cs, LootTestSpawner.cs

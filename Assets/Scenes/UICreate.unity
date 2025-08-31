@@ -640,6 +640,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 748434673}
   placedItemImage: {fileID: 0}
 --- !u!1 &15970131
@@ -2061,10 +2086,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 2125099044}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 75, y: -5}
-  m_SizeDelta: {x: 150, y: 10}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &77814109
 MonoBehaviour:
@@ -2430,7 +2455,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &98299377
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2736,10 +2761,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 253016345}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 75, y: -5}
-  m_SizeDelta: {x: 150, y: 10}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &101781238
 MonoBehaviour:
@@ -4013,6 +4038,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 221823686}
   placedItemImage: {fileID: 0}
 --- !u!1 &163202559
@@ -4069,6 +4119,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1863013385}
   placedItemImage: {fileID: 0}
 --- !u!1 &165426426
@@ -4122,9 +4197,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: 85c4ce378ec8620499f8757fe650b99b, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1163851759}
   placedItemImage: {fileID: 0}
 --- !u!1 &165975415
@@ -4251,7 +4351,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 175911015}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -4264,7 +4364,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e2716e5920328714587eabc2bed3f88d, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4389,10 +4489,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 87, y: -37.260002}
-  m_SizeDelta: {x: 150, y: 11}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &183348536
 MonoBehaviour:
@@ -4715,10 +4815,10 @@ RectTransform:
   - {fileID: 1766171803}
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 63.755, y: -147.73}
-  m_SizeDelta: {x: 103.51, y: 12.38}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &207552971
 MonoBehaviour:
@@ -4988,10 +5088,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 87, y: -18.880001}
-  m_SizeDelta: {x: 150, y: 13.76}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &212967063
 MonoBehaviour:
@@ -5490,9 +5590,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: eda53e894903c2148836dc359ce5d723, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1470245101}
   placedItemImage: {fileID: 0}
 --- !u!1 &248730757
@@ -5539,7 +5664,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 248730757}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -5552,7 +5677,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 294ce061a6ab6044eaf5a9c9473a38dc, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5604,10 +5729,10 @@ RectTransform:
   - {fileID: 101781237}
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 87, y: -218.5}
-  m_SizeDelta: {x: 150, y: 12.38}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &253016346
 MonoBehaviour:
@@ -6632,6 +6757,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1381146057}
   placedItemImage: {fileID: 0}
 --- !u!1001 &297153589
@@ -6846,10 +6996,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1924510700}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 75, y: -5}
-  m_SizeDelta: {x: 150, y: 10}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &306258730
 MonoBehaviour:
@@ -7580,7 +7730,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1015036718}
+  - {fileID: 1573122781}
   - {fileID: 248730758}
   m_Father: {fileID: 1758048668}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -7602,11 +7752,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: 294ce061a6ab6044eaf5a9c9473a38dc, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 248730759}
-  placedItemImage: {fileID: 1015036719}
+  placedItemImage: {fileID: 0}
 --- !u!1001 &355514732
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8119,6 +8294,7 @@ GameObject:
   - component: {fileID: 377061562}
   - component: {fileID: 377061561}
   - component: {fileID: 377061560}
+  - component: {fileID: 377061566}
   m_Layer: 5
   m_Name: Tooltip
   m_TagString: Untagged
@@ -8161,8 +8337,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 216.71323, y: 22.76548}
-  m_SizeDelta: {x: 172, y: 334.21002}
+  m_AnchoredPosition: {x: 665.93726, y: 69.226974}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &377061560
 MonoBehaviour:
@@ -8278,6 +8454,44 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 377061558}
   m_CullTransparentMesh: 1
+--- !u!114 &377061566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 377061558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f33f3cd529db6448bed8e882e6ad49, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameTMP: {fileID: 212967064}
+  descTMP: {fileID: 1411012632}
+  typeImage: {fileID: 0}
+  rarityTMP: {fileID: 1987569189}
+  levelTMP: {fileID: 1766171804}
+  lines:
+  - label: {fileID: 2125099046}
+    value: {fileID: 77814109}
+    root: {fileID: 0}
+  - label: {fileID: 253016347}
+    value: {fileID: 101781238}
+    root: {fileID: 0}
+  - label: {fileID: 1831008809}
+    value: {fileID: 852966782}
+    root: {fileID: 0}
+  - label: {fileID: 697565960}
+    value: {fileID: 1595312585}
+    root: {fileID: 0}
+  - label: {fileID: 1924510702}
+    value: {fileID: 306258730}
+    root: {fileID: 0}
+  - label: {fileID: 538627528}
+    value: {fileID: 1289501250}
+    root: {fileID: 0}
+  rarityConfig: {fileID: 11400000, guid: 2be06f9d6d389c7499e0a472c9338a44, type: 2}
+  colorize: 1
 --- !u!1 &377514743
 GameObject:
   m_ObjectHideFlags: 0
@@ -8819,6 +9033,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1194863557}
   placedItemImage: {fileID: 0}
 --- !u!1 &413579004
@@ -9068,6 +9307,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 2112660806}
   placedItemImage: {fileID: 0}
 --- !u!1 &419218534
@@ -10040,9 +10304,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: c4767f548b169934aa4cd57008a057ed, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 959551814}
   placedItemImage: {fileID: 0}
 --- !u!1 &466388580
@@ -10099,6 +10388,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 2052833907}
   placedItemImage: {fileID: 0}
 --- !u!1 &468332090
@@ -10912,10 +11226,10 @@ RectTransform:
   - {fileID: 1764812512}
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 66.005005, y: -110.97}
-  m_SizeDelta: {x: 108.01, y: 12.38}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &496366459
 MonoBehaviour:
@@ -11246,7 +11560,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.5310364, y: -0.12663269}
+  m_AnchoredPosition: {x: 0.5310669, y: -0.12658691}
   m_SizeDelta: {x: 1120, y: 630}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &504548424
@@ -11566,7 +11880,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &526210750
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11584,7 +11898,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000030517578, y: 0}
+  m_AnchoredPosition: {x: -0.000061035156, y: 0}
   m_SizeDelta: {x: 1120, y: 630}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &526210751
@@ -12278,10 +12592,10 @@ RectTransform:
   - {fileID: 1289501249}
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 87, y: -292.02002}
-  m_SizeDelta: {x: 150, y: 12.38}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &538627527
 MonoBehaviour:
@@ -12460,6 +12774,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1241852235}
   placedItemImage: {fileID: 0}
 --- !u!1 &544512379
@@ -13392,9 +13731,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 12, y: -310.21002}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &624094063
@@ -13596,7 +13935,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!223 &629691773
 Canvas:
   m_ObjectHideFlags: 0
@@ -14802,10 +15141,10 @@ RectTransform:
   - {fileID: 1595312584}
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 87, y: -255.26001}
-  m_SizeDelta: {x: 150, y: 12.38}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &697565959
 MonoBehaviour:
@@ -15243,9 +15582,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: 8a6153cab18c2cf429ff511d0d2f3ff9, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1635939755}
   placedItemImage: {fileID: 0}
 --- !u!1 &732493314
@@ -15741,9 +16105,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 12, y: -316.21002}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &747111500
@@ -15936,10 +16300,10 @@ RectTransform:
   - {fileID: 1987569188}
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 64.880005, y: -129.34999}
-  m_SizeDelta: {x: 105.76, y: 12.38}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &756414101
 MonoBehaviour:
@@ -16084,7 +16448,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 764660196}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -16097,7 +16461,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 45ab5c35e77274643b9dc65e53a4c6d8, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16241,9 +16605,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: 17e5a0649f629284f9c28e73326b9a1b, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1997924748}
   placedItemImage: {fileID: 0}
 --- !u!1 &781102848
@@ -16832,7 +17221,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 818311253}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -16845,7 +17234,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0f28069593b50814a962edf881ff3857, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -17277,10 +17666,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1831008807}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 75, y: -5}
-  m_SizeDelta: {x: 150, y: 10}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &852966782
 MonoBehaviour:
@@ -17783,7 +18172,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 904198209}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -17796,7 +18185,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5c99ae1e6ada67540bb7da32fb57884d, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -18961,10 +19350,10 @@ RectTransform:
   - {fileID: 1446616425}
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 57.82, y: -54.265003}
-  m_SizeDelta: {x: 91.64, y: 11.01}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &953261936
 MonoBehaviour:
@@ -19323,7 +19712,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 959551812}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -19336,7 +19725,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c4767f548b169934aa4cd57008a057ed, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -19408,6 +19797,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 2025263745}
   placedItemImage: {fileID: 0}
 --- !u!1 &979913892
@@ -19882,81 +20296,6 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1013946969}
-  m_CullTransparentMesh: 1
---- !u!1 &1015036717
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1015036718}
-  - component: {fileID: 1015036720}
-  - component: {fileID: 1015036719}
-  m_Layer: 5
-  m_Name: Back
-  m_TagString: InventorySlot
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1015036718
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1015036717}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 348466195}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1015036719
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1015036717}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d9adca539bfe4b54fa2387020f5fa04c, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1015036720
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1015036717}
   m_CullTransparentMesh: 1
 --- !u!1 &1016620803
 GameObject:
@@ -21722,6 +22061,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1643087163}
   placedItemImage: {fileID: 0}
 --- !u!1 &1103066201
@@ -22611,10 +22975,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 87, y: -165.42}
-  m_SizeDelta: {x: 150, y: 11}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1145302875
 MonoBehaviour:
@@ -23038,7 +23402,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1163851757}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -23051,7 +23415,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 85c4ce378ec8620499f8757fe650b99b, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -23308,7 +23672,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1173205897}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -23321,7 +23685,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e181467b6b0aa3e4fad9ee1500b5229a, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -25126,9 +25490,9 @@ RectTransform:
   - {fileID: 318414276}
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 12, y: -322.21002}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &1271700476
@@ -25926,10 +26290,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 538627526}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 75, y: -5}
-  m_SizeDelta: {x: 150, y: 10}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1289501250
 MonoBehaviour:
@@ -27034,7 +27398,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1359976340}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -27047,7 +27411,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6a563d5c3d2eb514b8d1a73b68233439, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -27781,9 +28145,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: e181467b6b0aa3e4fad9ee1500b5229a, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1173205899}
   placedItemImage: {fileID: 0}
 --- !u!1 &1400677637
@@ -27992,10 +28381,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 87, y: -82.275}
-  m_SizeDelta: {x: 150, y: 33.01}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1411012632
 MonoBehaviour:
@@ -28255,9 +28644,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: 0f28069593b50814a962edf881ff3857, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 818311255}
   placedItemImage: {fileID: 0}
 --- !u!1 &1424585013
@@ -28331,7 +28745,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1748346344}
+  - {fileID: 1759366071}
   - {fileID: 2086056341}
   m_Father: {fileID: 1758048668}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -28353,11 +28767,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: b259bce8f8c0e374f80aada828bcba93, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 2086056342}
-  placedItemImage: {fileID: 1748346345}
+  placedItemImage: {fileID: 0}
 --- !u!1 &1443142108
 GameObject:
   m_ObjectHideFlags: 0
@@ -29448,6 +29887,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 2123012919}
   placedItemImage: {fileID: 0}
 --- !u!1 &1470245099
@@ -29494,7 +29958,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1470245099}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -29507,7 +29971,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: eda53e894903c2148836dc359ce5d723, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -29800,6 +30264,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 640678556}
   placedItemImage: {fileID: 0}
 --- !u!1 &1490461559
@@ -30136,10 +30625,10 @@ RectTransform:
   - {fileID: 1891809197}
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 50.765, y: -182.425}
-  m_SizeDelta: {x: 77.53, y: 11.01}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1521753303
 MonoBehaviour:
@@ -30916,7 +31405,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1547132297
 RectTransform:
   m_ObjectHideFlags: 0
@@ -30937,7 +31426,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 18.638369, y: 5.9303923}
+  m_AnchoredPosition: {x: 18.638367, y: 5.93042}
   m_SizeDelta: {x: 1120, y: 630.2533}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1547132298
@@ -30980,6 +31469,70 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!1 &1548378941
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1548378944}
+  - component: {fileID: 1548378943}
+  - component: {fileID: 1548378942}
+  m_Layer: 0
+  m_Name: ItemDB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1548378942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1548378941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edfb09161d06cc34f8d99a9d22e5d298, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rarityConfig: {fileID: 11400000, guid: 2be06f9d6d389c7499e0a472c9338a44, type: 2}
+  areaTables:
+  - {fileID: 11400000, guid: 6ff17ed5b377e844a9a6d605e55021fc, type: 2}
+--- !u!114 &1548378943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1548378941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b889bbda4147c3444bcb97c89a70b1a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  definitions:
+  - {fileID: 11400000, guid: 84bc75eb5e98fb14ca650c0819d71430, type: 2}
+  autoLoadResources: 1
+  resourcesFolder: Items
+--- !u!4 &1548378944
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1548378941}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1554489332
 GameObject:
   m_ObjectHideFlags: 0
@@ -31024,7 +31577,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1554489332}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -31037,7 +31590,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 57498e0c095b7ee4b88abdadf8231b60, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -31143,9 +31696,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: e2716e5920328714587eabc2bed3f88d, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 175911017}
   placedItemImage: {fileID: 0}
 --- !u!1 &1563683061
@@ -31438,6 +32016,81 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!1 &1573122780
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1573122781}
+  - component: {fileID: 1573122783}
+  - component: {fileID: 1573122782}
+  m_Layer: 5
+  m_Name: Back (1)
+  m_TagString: InventorySlot
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1573122781
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1573122780}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 348466195}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1573122782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1573122780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: d9adca539bfe4b54fa2387020f5fa04c, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1573122783
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1573122780}
+  m_CullTransparentMesh: 1
 --- !u!1 &1583877420
 GameObject:
   m_ObjectHideFlags: 0
@@ -31700,9 +32353,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: 5c99ae1e6ada67540bb7da32fb57884d, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 904198211}
   placedItemImage: {fileID: 0}
 --- !u!1 &1594790451
@@ -31774,10 +32452,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 697565958}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 75, y: -5}
-  m_SizeDelta: {x: 150, y: 10}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1595312585
 MonoBehaviour:
@@ -32544,7 +33222,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1635939753}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -32557,7 +33235,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8a6153cab18c2cf429ff511d0d2f3ff9, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -33189,9 +33867,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: 57498e0c095b7ee4b88abdadf8231b60, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1554489334}
   placedItemImage: {fileID: 0}
 --- !u!1 &1671530963
@@ -33361,9 +34064,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 12, y: -304.21002}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &1675652751
@@ -33598,9 +34301,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: 6a563d5c3d2eb514b8d1a73b68233439, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1359976342}
   placedItemImage: {fileID: 0}
 --- !u!1 &1703278031
@@ -34658,81 +35386,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1746855041}
   m_CullTransparentMesh: 1
---- !u!1 &1748346343
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1748346344}
-  - component: {fileID: 1748346346}
-  - component: {fileID: 1748346345}
-  m_Layer: 5
-  m_Name: Back
-  m_TagString: InventorySlot
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1748346344
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1748346343}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1431417504}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1748346345
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1748346343}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d9adca539bfe4b54fa2387020f5fa04c, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1748346346
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1748346343}
-  m_CullTransparentMesh: 1
 --- !u!1 &1750417815
 GameObject:
   m_ObjectHideFlags: 0
@@ -34821,6 +35474,7 @@ GameObject:
   - component: {fileID: 1758048671}
   - component: {fileID: 1758048670}
   - component: {fileID: 1758048669}
+  - component: {fileID: 1758048673}
   m_Layer: 5
   m_Name: BagSlots (1)
   m_TagString: Untagged
@@ -34891,6 +35545,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inventory: {fileID: 1758048672}
   tooltipCanvas: {fileID: 629691773}
+  presenter: {fileID: 377061566}
   postReleaseCooldown: 0.45
 --- !u!114 &1758048670
 MonoBehaviour:
@@ -34930,6 +35585,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef1064f179584120b4b4b916a4e282b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1758048673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1758048667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d149061670d045f45a23a1c90325a024, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lootService: {fileID: 1548378942}
+  inventory: {fileID: 1758048672}
+  currentRegionId: 2
+  playerLevel: 6
+  triggerKey: 105
 --- !u!1001 &1758920382
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35051,6 +35723,81 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d863ffe4363c90749a16c40280d8815a, type: 3}
+--- !u!1 &1759366070
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1759366071}
+  - component: {fileID: 1759366073}
+  - component: {fileID: 1759366072}
+  m_Layer: 5
+  m_Name: Back (1)
+  m_TagString: InventorySlot
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1759366071
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759366070}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1431417504}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1759366072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759366070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: d9adca539bfe4b54fa2387020f5fa04c, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1759366073
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759366070}
+  m_CullTransparentMesh: 1
 --- !u!1 &1759791459
 GameObject:
   m_ObjectHideFlags: 0
@@ -35106,6 +35853,31 @@ MonoBehaviour:
   dragging: 0
   dragItem:
     sprite: {fileID: 0}
+    DefId: 
+    ItemLevel: 0
+    Rarity: 0
+    ScaledStats:
+      MaxHealth: 0
+      MaxMana: 0
+      MaxHunger: 0
+      MaxSanity: 0
+      MaxStamina: 0
+      HealthRegenPerSec: 0
+      ManaRegenPerSec: 0
+      StaminaRegenPerSec: 0
+      HungerDecayPerSec: 0
+      SanityRegenPerSec: 0
+      Strength: 0
+      Agility: 0
+      Intelligence: 0
+      Vitality: 0
+      Wisdom: 0
+      Armor: 0
+      BaseDamage: 0
+      CritChance: 0
+      CritDamagePct: 0
+    SellPrice: 0
+    Affixes: []
 --- !u!114 &1759791462
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36037,9 +36809,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialItem:
-    hasValue: 1
+    hasValue: 0
     value:
       sprite: {fileID: 21300000, guid: 45ab5c35e77274643b9dc65e53a4c6d8, type: 3}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 764660198}
   placedItemImage: {fileID: 0}
 --- !u!1 &1788534464
@@ -36992,6 +37789,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1858339528}
   placedItemImage: {fileID: 0}
 --- !u!1001 &1828117044
@@ -37146,10 +37968,10 @@ RectTransform:
   - {fileID: 852966781}
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 87, y: -236.88}
-  m_SizeDelta: {x: 150, y: 12.38}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1831008808
 MonoBehaviour:
@@ -38222,6 +39044,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 268083682}
   placedItemImage: {fileID: 0}
 --- !u!1 &1877505825
@@ -40131,10 +40978,10 @@ RectTransform:
   - {fileID: 306258729}
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 87, y: -273.64}
-  m_SizeDelta: {x: 150, y: 12.38}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1924510701
 MonoBehaviour:
@@ -41709,7 +42556,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1997924746}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -41722,7 +42569,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 17e5a0649f629284f9c28e73326b9a1b, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -42290,6 +43137,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 1043868754}
   placedItemImage: {fileID: 0}
 --- !u!1 &2054568162
@@ -42596,7 +43468,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2086056340}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -42609,7 +43481,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b259bce8f8c0e374f80aada828bcba93, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -43109,10 +43981,10 @@ RectTransform:
   - {fileID: 77814108}
   m_Father: {fileID: 377061559}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 87, y: -200.12}
-  m_SizeDelta: {x: 150, y: 12.38}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2125099045
 MonoBehaviour:
@@ -43366,6 +44238,31 @@ MonoBehaviour:
     hasValue: 0
     value:
       sprite: {fileID: 0}
+      DefId: 
+      ItemLevel: 0
+      Rarity: 0
+      ScaledStats:
+        MaxHealth: 0
+        MaxMana: 0
+        MaxHunger: 0
+        MaxSanity: 0
+        MaxStamina: 0
+        HealthRegenPerSec: 0
+        ManaRegenPerSec: 0
+        StaminaRegenPerSec: 0
+        HungerDecayPerSec: 0
+        SanityRegenPerSec: 0
+        Strength: 0
+        Agility: 0
+        Intelligence: 0
+        Vitality: 0
+        Wisdom: 0
+        Armor: 0
+        BaseDamage: 0
+        CritChance: 0
+        CritDamagePct: 0
+      SellPrice: 0
+      Affixes: []
   itemIcon: {fileID: 817539059}
   placedItemImage: {fileID: 0}
 --- !u!1 &2135978199
@@ -43622,11 +44519,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8395025236457800239, guid: 43e29144da9084842b11631c97ecb1e9, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8395025236457800239, guid: 43e29144da9084842b11631c97ecb1e9, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -43870,3 +44767,4 @@ SceneRoots:
   - {fileID: 1103066203}
   - {fileID: 1623513876}
   - {fileID: 629691776}
+  - {fileID: 1548378944}
