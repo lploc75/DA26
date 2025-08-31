@@ -8,11 +8,8 @@ namespace Scripts.Inventory
 {
     /// <summary>
     /// Quản lý tooltip theo cơ chế raycast tag (giống InventorySlotItemGrab).
-    /// - Chỉ hover những slot có vật phẩm (IsEmpty() == false).
-    /// - Log index / row / col khi ENTER/EXIT.
-    /// - Không can thiệp drag&drop (không implement BeginDrag/Drag/EndDrag).
-    /// - Tooltip tự tránh out screen (do TooltipSimple đảm nhiệm).
-    /// Gắn script này lên GameObject 'Inventory' (cha của các InventorySlot).
+    /// - Hover slot có Item => hiển thị Tooltip.
+    /// - Không can thiệp drag/drop.
     /// </summary>
     public class InventoryHoverTooltip : MonoBehaviour
     {
@@ -20,15 +17,16 @@ namespace Scripts.Inventory
 
         [Header("Refs")]
         [SerializeField] private Inventory inventory;   // tham chiếu tới Inventory chứa các InventorySlot
-        [SerializeField] private Canvas tooltipCanvas;  // Canvas chứa TooltipSimple (nếu cần check thêm)
+        [SerializeField] private Canvas tooltipCanvas;  // Canvas chứa Tooltip
+        [SerializeField] private TooltipPresenter presenter; // mới: gán panel hiển thị nội dung
 
         [Header("Behaviour")]
-        public float postReleaseCooldown = 0.15f;       // nghỉ ngắn sau khi thả chuột để tooltip không bật lại ngay
+        public float postReleaseCooldown = 0.15f;
 
         // state
-        private InventorySlot _currentSlot;             // slot đang hover
+        private InventorySlot _currentSlot;
         private int _currentIndex = -1, _row = -1, _col = -1;
-        private float _reenableTime;                    // thời điểm cho phép bật lại sau khi thả chuột
+        private float _reenableTime;
 
         void Reset()
         {
@@ -37,50 +35,42 @@ namespace Scripts.Inventory
 
         void Update()
         {
-            // Nếu nhấn/giữ chuột (chuẩn bị kéo) -> ẩn tooltip
             if (Input.GetMouseButtonDown(0))
                 HideTooltip();
 
-            // Khi nhả chuột -> đặt cooldown
             if (Input.GetMouseButtonUp(0))
                 _reenableTime = Time.unscaledTime + postReleaseCooldown;
 
-            // Raycast theo tag như code drag của bạn
             var slot = RaycastSlotUnderMouse(Input.mousePosition, InventorySlotTag) as InventorySlot;
 
-            // Nếu không trỏ vào slot hợp lệ -> EXIT nếu đang có slot trước đó
-            if (slot == null)
+            if (slot == null || slot.IsEmpty())
             {
                 if (_currentSlot != null)
                     LogExitAndClear();
                 return;
             }
 
-            // Chỉ xử lý slot có item
-            if (slot.IsEmpty())
-            {
-                if (_currentSlot != null)
-                    LogExitAndClear();
-                return;
-            }
-
-            // Tính index/row/col theo GridLayoutGroup của parent
             ComputeIndexRowCol(slot, out int idx, out int row, out int col);
 
-            // Nếu chuyển sang slot mới -> EXIT slot cũ + ENTER slot mới
             if (_currentSlot != slot)
             {
-                if (_currentSlot != null)
-                    LogExitAndClear();
+                if (_currentSlot != null) LogExitAndClear();
 
                 _currentSlot = slot;
                 _currentIndex = idx;
                 _row = row;
                 _col = col;
 
-                // Đang giữ chuột hoặc còn cooldown -> không bật tooltip
+                // InventoryHoverTooltip.cs — ngay chỗ ENTER slot mới:
                 if (!Input.GetMouseButton(0) && Time.unscaledTime >= _reenableTime)
                 {
+                    if (presenter != null && _currentSlot.Item != null)
+                    {
+                        var it = _currentSlot.Item;
+                        var def = it.CachedDef ?? ItemDatabase.Instance?.GetItemById(it.DefId);
+                        Debug.Log($"[Tooltip] ShowFor → {def?.DisplayName ?? it.DefId} | Lv{it.ItemLevel} | {it.Rarity} | Price {it.SellPrice}");
+                        presenter.ShowFor(it);
+                    }
                     if (TooltipSimple.I != null)
                     {
                         TooltipSimple.I.Show();
@@ -88,15 +78,11 @@ namespace Scripts.Inventory
                     }
                 }
 
-                // Log ENTER có cột/hàng
-                if (row >= 0 && col >= 0)
-                    Debug.Log($"[HOVER ENTER] {_currentSlot.name} -> index {_currentIndex} (row {_row}, col {_col})");
-                else
-                    Debug.Log($"[HOVER ENTER] {_currentSlot.name} -> index {_currentIndex}");
+
+                Debug.Log($"[HOVER ENTER] {_currentSlot.name} -> index {_currentIndex} (row {_row}, col {_col})");
             }
             else
             {
-                // Đang đứng trên cùng một slot -> cập nhật vị trí tooltip
                 if (TooltipSimple.I != null && TooltipSimple.I.gameObject.activeSelf)
                     TooltipSimple.I.MoveTo(Input.mousePosition);
             }
@@ -112,15 +98,12 @@ namespace Scripts.Inventory
 
         private void HideTooltip()
         {
+            if (presenter != null) presenter.Hide();
             if (TooltipSimple.I != null && TooltipSimple.I.gameObject.activeSelf)
                 TooltipSimple.I.Hide();
         }
 
         // ===== helpers =====
-
-        /// <summary>
-        /// Raycast theo tag như InventorySlotItemGrab.FindSlot
-        /// </summary>
         private static Slot RaycastSlotUnderMouse(Vector3 mousePosition, string tag)
         {
             if (EventSystem.current == null) return null;
@@ -139,10 +122,6 @@ namespace Scripts.Inventory
             return slotGo ? slotGo.GetComponentInParent<Slot>() : null;
         }
 
-        /// <summary>
-        /// Tính index/row/col theo GridLayoutGroup cha của slot.
-        /// Row/Col chỉ có khi GridLayoutGroup dùng FixedColumnCount.
-        /// </summary>
         private static void ComputeIndexRowCol(InventorySlot slot, out int index, out int row, out int col)
         {
             var parent = slot.transform.parent as RectTransform;
