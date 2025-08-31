@@ -14,6 +14,15 @@ public class TooltipPresenter : MonoBehaviour
     public TMP_Text rarityTMP;
     public TMP_Text levelTMP;
 
+    [Header("Price")]
+    public TMP_Text priceTMP;
+    [Tooltip("Đuôi đơn vị vàng hiển thị sau số (vd: ' g')")]
+    public string goldSuffix = " g";
+    [Tooltip("Rút gọn 1.2K / 3.4M thay vì số đầy đủ")]
+    public bool compactGold = true;
+    [Tooltip("Hiển thị dấu phân cách hàng nghìn nếu không rút gọn")]
+    public bool thousandSep = true;
+
     [System.Serializable]
     public class AttrLine
     {
@@ -25,7 +34,7 @@ public class TooltipPresenter : MonoBehaviour
     [Header("Attribute Lines (6 lines)")]
     public AttrLine[] lines = new AttrLine[6];
 
-    [Header("Config (chỉ dùng để lấy màu rarity)")]
+    [Header("Config (chỉ dùng màu theo rarity)")]
     public RarityConfig rarityConfig;
     public bool colorize = true;
 
@@ -41,6 +50,9 @@ public class TooltipPresenter : MonoBehaviour
         if (typeImage) typeImage.sprite = def.TypeIcon;
         if (rarityTMP) rarityTMP.text = Paint(uiItem.Rarity.ToString(), RarityColor(uiItem.Rarity));
         if (levelTMP) levelTMP.text = uiItem.ItemLevel.ToString();
+
+        // Price
+        if (priceTMP) priceTMP.text = FormatGold(uiItem.SellPrice);
 
         // Rows: 2 base + affix đã roll (tối đa 4 để vừa UI)
         var rows = BuildRows(def, uiItem);
@@ -159,9 +171,15 @@ public class TooltipPresenter : MonoBehaviour
         for (int i = 0; i < lines.Length; i++)
         {
             var l = lines[i];
-            if (l == null || l.label == null || l.value == null) continue;
+            var go = (l?.root) ? l.root : l?.label?.gameObject;
 
-            var go = l.root ? l.root : l.label.gameObject;
+            // Thiếu ref -> ẩn dòng và cảnh báo
+            if (l == null || l.label == null || l.value == null)
+            {
+                if (go) go.SetActive(false);
+                if (l != null) Debug.LogWarning($"[TooltipPresenter] Missing ref at line {i} (label or value).");
+                continue;
+            }
 
             if (i < rows.Count)
             {
@@ -195,6 +213,17 @@ public class TooltipPresenter : MonoBehaviour
         return $"{sign}{Mathf.RoundToInt(Mathf.Abs(val))}";
     }
 
+    string FormatGold(int v)
+    {
+        if (compactGold)
+        {
+            if (v >= 1_000_000) return $"{v / 1_000_000f:0.#}M{goldSuffix}";
+            if (v >= 1_000) return $"{v / 1_000f:0.#}K{goldSuffix}";
+            return $"{v}{goldSuffix}";
+        }
+        return (thousandSep ? v.ToString("#,0") : v.ToString()) + goldSuffix;
+    }
+
     string Paint(string s, Color c) => $"<color=#{ColorUtility.ToHtmlStringRGB(c)}>{s}</color>";
 
     Color RarityColor(Rarity r) => r switch
@@ -206,4 +235,19 @@ public class TooltipPresenter : MonoBehaviour
         Rarity.Legendary => new Color32(255, 170, 30, 255),
         _ => Color.white
     };
+
+    // Tự bắt value TMP khi quên kéo trong Inspector
+    void OnValidate()
+    {
+        if (lines == null) return;
+        for (int i = 0; i < lines.Length; i++)
+        {
+            var l = lines[i];
+            if (l != null && l.label != null && l.value == null)
+            {
+                var child = l.label.GetComponentInChildren<TMP_Text>(true);
+                if (child != null && child != l.label) lines[i].value = child;
+            }
+        }
+    }
 }

@@ -8471,6 +8471,10 @@ MonoBehaviour:
   typeImage: {fileID: 0}
   rarityTMP: {fileID: 1987569189}
   levelTMP: {fileID: 1766171804}
+  priceTMP: {fileID: 1278779761}
+  goldSuffix: G
+  compactGold: 1
+  thousandSep: 1
   lines:
   - label: {fileID: 2125099046}
     value: {fileID: 77814109}
