@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: fc3169da7c9027942a9b7222c8b3fc0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6674860505451605020
+    second: Imp2_Death_with_shadow_0
+  - first:
+      213: 3504202118744825559
+    second: Imp2_Death_with_shadow_1
+  - first:
+      213: 1270613845146083892
+    second: Imp2_Death_with_shadow_2
+  - first:
+      213: -5033677589654393617
+    second: Imp2_Death_with_shadow_3
+  - first:
+      213: -5516273759864623695
+    second: Imp2_Death_with_shadow_4
+  - first:
+      213: 8807233450749909298
+    second: Imp2_Death_with_shadow_5
+  - first:
+      213: 6016361374772152778
+    second: Imp2_Death_with_shadow_6
+  - first:
+      213: -7186732566810696360
+    second: Imp2_Death_with_shadow_7
+  - first:
+      213: -5996332402469965445
+    second: Imp2_Death_with_shadow_8
+  - first:
+      213: -5579483975972690664
+    second: Imp2_Death_with_shadow_9
+  - first:
+      213: 8474718436732570816
+    second: Imp2_Death_with_shadow_10
+  - first:
+      213: -8995865023126471942
+    second: Imp2_Death_with_shadow_11
+  - first:
+      213: -5687098042268108399
+    second: Imp2_Death_with_shadow_12
+  - first:
+      213: 640732618363238895
+    second: Imp2_Death_with_shadow_13
+  - first:
+      213: -8212276588129851682
+    second: Imp2_Death_with_shadow_14
+  - first:
+      213: 6753879497027042301
+    second: Imp2_Death_with_shadow_15
+  - first:
+      213: 5572389770920190915
+    second: Imp2_Death_with_shadow_16
+  - first:
+      213: -9098069496128243463
+    second: Imp2_Death_with_shadow_17
+  - first:
+      213: 3647067751548196727
+    second: Imp2_Death_with_shadow_18
+  - first:
+      213: 7674417299103816716
+    second: Imp2_Death_with_shadow_19
+  - first:
+      213: 4799938258862833322
+    second: Imp2_Death_with_shadow_20
+  - first:
+      213: 6021070273221082749
+    second: Imp2_Death_with_shadow_21
+  - first:
+      213: 7958096069306654452
+    second: Imp2_Death_with_shadow_22
+  - first:
+      213: 2585102653471879304
+    second: Imp2_Death_with_shadow_23
+  - first:
+      213: 7662468894738264269
+    second: Imp2_Death_with_shadow_24
+  - first:
+      213: 8185697923297026289
+    second: Imp2_Death_with_shadow_25
+  - first:
+      213: -5120576687624060634
+    second: Imp2_Death_with_shadow_26
+  - first:
+      213: -9217243363857226722
+    second: Imp2_Death_with_shadow_27
+  - first:
+      213: -550305140493969641
+    second: Imp2_Death_with_shadow_28
+  - first:
+      213: 1299167524744257153
+    second: Imp2_Death_with_shadow_29
+  - first:
+      213: -5820985336761985826
+    second: Imp2_Death_with_shadow_30
+  - first:
+      213: 238291617026119316
+    second: Imp2_Death_with_shadow_31
+  - first:
+      213: -3481330282596723061
+    second: Imp2_Death_with_shadow_32
+  - first:
+      213: -6649972576811315549
+    second: Imp2_Death_with_shadow_33
+  - first:
+      213: 3912291235008845442
+    second: Imp2_Death_with_shadow_34
+  - first:
+      213: -609783293801768957
+    second: Imp2_Death_with_shadow_35
+  - first:
+      213: 4096348323864447205
+    second: Imp2_Death_with_shadow_36
+  - first:
+      213: -5020695153024238324
+    second: Imp2_Death_with_shadow_37
+  - first:
+      213: 1386350588624482901
+    second: Imp2_Death_with_shadow_38
+  - first:
+      213: 6437785334142086994
+    second: Imp2_Death_with_shadow_39
+  - first:
+      213: -9181823993760863592
+    second: Imp2_Death_with_shadow_40
+  - first:
+      213: 2323492406033760859
+    second: Imp2_Death_with_shadow_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 209
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c2ab8c34ed1ac50800000000000000
+      internalID: 6674860505451605020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 209
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ded4fcc24d61a030800000000000000
+      internalID: 3504202118744825559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 209
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43220a66f8022a110800000000000000
+      internalID: 1270613845146083892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 209
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec2ecad6e8c42ab0800000000000000
+      internalID: -5033677589654393617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 209
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bde57bed324273b0800000000000000
+      internalID: -5516273759864623695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 237
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239d2e52924993a70800000000000000
+      internalID: 8807233450749909298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 209
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9cca75bc86e7350800000000000000
+      internalID: 6016361374772152778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 169
+        width: 39
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8556483bec8934c90800000000000000
+      internalID: -7186732566810696360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 208
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71fc9b237fb8cca0800000000000000
+      internalID: -5996332402469965445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 207
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815e92e92e0b192b0800000000000000
+      internalID: -5579483975972690664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 207
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc06e8648f3c9570800000000000000
+      internalID: 8474718436732570816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 145
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa7f217c64482380800000000000000
+      internalID: -8995865023126471942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 145
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1993acb467e5311b0800000000000000
+      internalID: -5687098042268108399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 145
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9fb81fbe654e800800000000000000
+      internalID: 640732618363238895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 145
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6634f14f1280e80800000000000000
+      internalID: -8212276588129851682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 145
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb37147e999abd50800000000000000
+      internalID: 6753879497027042301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 173
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3e7bd09fa155d40800000000000000
+      internalID: 5572389770920190915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 145
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f875753ff92db180800000000000000
+      internalID: -9098069496128243463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 143
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77710da0cccfc9230800000000000000
+      internalID: 3647067751548196727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 144
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c123b6fd1018a60800000000000000
+      internalID: 7674417299103816716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 143
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae735f4a6ecc9240800000000000000
+      internalID: 4799938258862833322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 143
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7eb10333832f8350800000000000000
+      internalID: 6021070273221082749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 81
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe94731636d07e60800000000000000
+      internalID: 7958096069306654452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 81
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8807c18ba2120e320800000000000000
+      internalID: 2585102653471879304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 81
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0ba5dbcde865a60800000000000000
+      internalID: 7662468894738264269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 81
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0a5cc34e0799170800000000000000
+      internalID: 8185697923297026289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6218501f1ae00f8b0800000000000000
+      internalID: -5120576687624060634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 81
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14a6f0eef5c51080800000000000000
+      internalID: -9217243363857226722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 80
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71719cee36cec58f0800000000000000
+      internalID: -550305140493969641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 81
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eda100bf1970210800000000000000
+      internalID: 1299167524744257153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 80
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed45b875da4b73fa0800000000000000
+      internalID: -5820985336761985826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 80
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4969bc196f49e4300800000000000000
+      internalID: 238291617026119316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8613088d84dfafc0800000000000000
+      internalID: -3481330282596723061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 17
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae8219ac2d86b3a0800000000000000
+      internalID: -6649972576811315549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 17
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286939866204b4630800000000000000
+      internalID: 3912291235008845442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 17
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3085af6335d9987f0800000000000000
+      internalID: -609783293801768957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 17
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e80530e81729d830800000000000000
+      internalID: 4096348323864447205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 17
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0df67eeb58e25ab0800000000000000
+      internalID: -5020695153024238324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_38
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 16
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552bd11e38e4d3310800000000000000
+      internalID: 1386350588624482901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 17
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f22cd07ab975950800000000000000
+      internalID: 6437785334142086994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_40
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 16
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aa9bd99bb939080800000000000000
+      internalID: -9181823993760863592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Imp2_Death_with_shadow_41
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 16
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52c5fb6804be3020800000000000000
+      internalID: 2323492406033760859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
