@@ -26673,7 +26673,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: INT
+          m_StringArgument: WIS
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1299201524
@@ -27181,7 +27181,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: WIS
+          m_StringArgument: INT
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1348314540
@@ -31196,6 +31196,7 @@ MonoBehaviour:
     ManaRegen: 0
     Level: 0
     RemainPoints: 0
+  dbManager: {fileID: 0}
 --- !u!4 &1532017028
 Transform:
   m_ObjectHideFlags: 0

@@ -1,4 +1,12 @@
-BaseStats.cs -> không reference script nào trong nhóm
-CharacterStats.cs -> reference BaseStats
-PlayerStatsManager.cs -> reference BaseStats, CharacterStats
-StatsUIManager.cs -> reference PlayerStatsManager (gián tiếp CharacterStats)
+BaseStats.cs → không reference script nào trong nhóm
+
+PlayerStatsManager.cs → reference BaseStats, CharacterStats, DatabaseManager
+
+StatsUIManager.cs → reference PlayerStatsManager (gián tiếp reference CharacterStats)
+
+DatabaseManager.cs → không reference script nào trong nhóm (chỉ reference PlayerData trong DTO, ngoài StatsSystem)
+
+/DTO
+CharacterStats.cs → reference BaseStats
+/Database
+DatabaseManager.cs → quản lí save load sqlite
