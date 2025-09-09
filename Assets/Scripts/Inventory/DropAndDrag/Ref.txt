@@ -1,0 +1,72 @@
+1) DragItemHolder.cs
+Chức năng: Controller singleton giữ trạng thái kéo/thả: icon theo chuột, slot nguồn/đích, item đang kéo.
+API chính:
+- StartDrag(Slot source), DropItem(), TargetSlotToDrop(Slot), RemoveTarget(Slot), GetDraggedSlot()
+Phụ thuộc:
+- UnityEngine.UI (Image), Input, Slot, Item
+Được gọi bởi:
+- SlotItemGrab (kéo từ một Slot cụ thể)
+- InventorySlotItemGrab (kéo bằng raycast khu Inventory)
+- InventorySlotItemDropTarget / SlotItemDropTarget (đặt placeholder khi trỏ vào vùng hợp lệ)
+
+----------------------------------------------------------------
+2) EquipmentSlot.cs
+Chức năng: Slot trang bị (kế thừa Slot). Điểm mở rộng để validate loại item phù hợp với ô trang bị.
+Được gọi bởi:
+- InventorySlotItemGrab (khi raycast thả vào EquipmentSlot)
+- SlotItemDropTarget (khi trỏ vào ô này)
+
+----------------------------------------------------------------
+3) Inventory.cs
+Chức năng: Quản lý danh sách InventorySlot và các thao tác cấp cao.
+API chính:
+- HasFreeSpace(), GetNextEmptySlotForItem(), AddItem(Item), RemoveBlanks(), SwapItems(int,int)
+Được gọi bởi:
+- LootTestSpawner (để AddItem khi spawn test)
+- InventorySlotItemDropTarget (để tìm ô trống kế tiếp)
+- InventorySlotItemGrab (khởi tạo danh sách _slots)
+
+----------------------------------------------------------------
+4) InventorySlot.cs
+Chức năng: Ô trong túi, kế thừa Slot; log khi đặt/xóa item.
+
+----------------------------------------------------------------
+5) InventorySlotItemDropTarget.cs
+Chức năng: Khi con trỏ đang kéo đi vào vùng “kho đồ”, tự chọn ô trống kế tiếp và hiển thị placeholder. Rời vùng thì bỏ placeholder.
+
+----------------------------------------------------------------
+6) InventorySlotItemGrab.cs
+Chức năng: Kéo/thả bằng raycast qua tag (InventorySlot/EquipmentSlot). Hỗ trợ swap giữa các ô trong túi, cấm thả vào ô trống.
+
+----------------------------------------------------------------
+7) NullableSerializableField.cs
+Chức năng: Wrapper cho trường “nullable” trong Inspector:
+- NullableSerializableObjectField<T>, NullableSerializableStructField<T>, cờ hasValue.
+Dùng bởi:
+- Slot.initialItem (cho phép gán Item ban đầu tùy chọn).
+
+----------------------------------------------------------------
+8) Slot.cs
+Chức năng: Lớp nền cho mọi Slot (bag/equip). Quản lý Item hiện tại, icon, placeholder, đồng bộ UI.
+API chính:
+- PlaceItem(Item), PlaceholdItem(Item), RemovePlaceholder(), ClearSlot(), ResetVisual(), ShowItem()
+Phụ thuộc: UnityEngine.UI (Image), NullableSerializableObjectField<Item>
+
+----------------------------------------------------------------
+9) SlotItemDropTarget.cs
+Chức năng: Drop-target cho một Slot cụ thể. Nếu đang kéo và Slot trống → hiện placeholder; rời thì bỏ placeholder.
+
+----------------------------------------------------------------
+10) SlotItemGrab.cs
+Chức năng: Kéo item từ một Slot cụ thể (IBeginDrag/IDrag/IEndDrag) bằng DragItemHolder.
+
+================================================================
+Gợi ý nhóm tính năng / folder
+- Scripts/UI/Inventory: Slot.cs, InventorySlot.cs, EquipmentSlot.cs, Inventory.cs
+- Scripts/UI/Inventory/Input: DragItemHolder.cs, SlotItemGrab.cs, InventorySlotItemGrab.cs, SlotItemDropTarget.cs, InventorySlotItemDropTarget.cs
+- Scripts/Core: NullableSerializableField.cs
+
+Sơ đồ phụ thuộc (tinh gọn, từ trái là “bị phụ thuộc” → sang phải là “phụ thuộc”):
+[Item/Slot data] → [Slot.cs] → (InventorySlot.cs, EquipmentSlot.cs)
+[DragItemHolder] ← (SlotItemGrab, InventorySlotItemGrab, SlotItemDropTarget, InventorySlotItemDropTarget)
+[Inventory] ← (InventorySlotItemGrab, InventorySlotItemDropTarget)
