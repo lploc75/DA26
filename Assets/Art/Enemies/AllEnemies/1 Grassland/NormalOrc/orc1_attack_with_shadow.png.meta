@@ -207,6 +207,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1059,7 +1072,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orc1_attack_with_shadow_0: -3507669558810775401
+      orc1_attack_with_shadow_1: -6404672108187133231
+      orc1_attack_with_shadow_10: 3891866667087720039
+      orc1_attack_with_shadow_11: 5484140960997379596
+      orc1_attack_with_shadow_12: 1034277845244510920
+      orc1_attack_with_shadow_13: 4842674838708352486
+      orc1_attack_with_shadow_14: 8292334111092218196
+      orc1_attack_with_shadow_15: -8413797025002687905
+      orc1_attack_with_shadow_16: -1049305284393044150
+      orc1_attack_with_shadow_17: 7623118434390968046
+      orc1_attack_with_shadow_18: -1019722942368641868
+      orc1_attack_with_shadow_19: -4177089597408021670
+      orc1_attack_with_shadow_2: -8019133666305550587
+      orc1_attack_with_shadow_20: 7973656656596376021
+      orc1_attack_with_shadow_21: -5224171866356495386
+      orc1_attack_with_shadow_22: -1708301981050533211
+      orc1_attack_with_shadow_23: -3318209797318267433
+      orc1_attack_with_shadow_24: -7130781604777637834
+      orc1_attack_with_shadow_25: -3168459061409053859
+      orc1_attack_with_shadow_26: -6051795895058461462
+      orc1_attack_with_shadow_27: 2827078627896124116
+      orc1_attack_with_shadow_28: 3815859058196039447
+      orc1_attack_with_shadow_29: -6173893533236545380
+      orc1_attack_with_shadow_3: 9080461575336162137
+      orc1_attack_with_shadow_30: 1249933431659442595
+      orc1_attack_with_shadow_31: 1331959102931997206
+      orc1_attack_with_shadow_32: 7623015118752245048
+      orc1_attack_with_shadow_33: -8288919292505970947
+      orc1_attack_with_shadow_34: -4957248934509718094
+      orc1_attack_with_shadow_35: 2250065414605932576
+      orc1_attack_with_shadow_36: 2110880009463379415
+      orc1_attack_with_shadow_37: 7795095587623546669
+      orc1_attack_with_shadow_4: 3457729104268171394
+      orc1_attack_with_shadow_5: -7543385524161741284
+      orc1_attack_with_shadow_6: -4523924337386588286
+      orc1_attack_with_shadow_7: -6256192333271696716
+      orc1_attack_with_shadow_8: 642269433490973215
+      orc1_attack_with_shadow_9: 2070879823302362173
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

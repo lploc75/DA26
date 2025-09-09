@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost1_Hurt_with_shadow_0: 6794459463712653947
+      Ghost1_Hurt_with_shadow_1: -5514465686960013082
+      Ghost1_Hurt_with_shadow_10: -3606764461517292991
+      Ghost1_Hurt_with_shadow_11: -1308019562684815811
+      Ghost1_Hurt_with_shadow_12: -1612868394104643994
+      Ghost1_Hurt_with_shadow_13: -4157499461934282628
+      Ghost1_Hurt_with_shadow_14: 5740007222464867104
+      Ghost1_Hurt_with_shadow_15: -6431850796646852399
+      Ghost1_Hurt_with_shadow_2: 7492386228785505154
+      Ghost1_Hurt_with_shadow_3: 3322203432388094992
+      Ghost1_Hurt_with_shadow_4: 1457920397678404216
+      Ghost1_Hurt_with_shadow_5: -5716282060364448794
+      Ghost1_Hurt_with_shadow_6: -1377492803879255697
+      Ghost1_Hurt_with_shadow_7: -7103479767893473477
+      Ghost1_Hurt_with_shadow_8: -5658055823720191926
+      Ghost1_Hurt_with_shadow_9: 8185229503236782323
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

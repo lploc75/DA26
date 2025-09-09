@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton2_Run_with_shadow_0: -3134999263712584673
+      Skeleton2_Run_with_shadow_1: -528081621410693205
+      Skeleton2_Run_with_shadow_10: -5415919678615497894
+      Skeleton2_Run_with_shadow_11: 4974806088448015962
+      Skeleton2_Run_with_shadow_12: -7902122734542092341
+      Skeleton2_Run_with_shadow_13: 7365401099236638478
+      Skeleton2_Run_with_shadow_14: 102204254659146964
+      Skeleton2_Run_with_shadow_15: -3865602487992914780
+      Skeleton2_Run_with_shadow_16: -1122783493333481873
+      Skeleton2_Run_with_shadow_17: -709092071461424775
+      Skeleton2_Run_with_shadow_18: -5969027949853185662
+      Skeleton2_Run_with_shadow_19: -5664840778793234870
+      Skeleton2_Run_with_shadow_2: -4279727507046828158
+      Skeleton2_Run_with_shadow_20: 8931295458351219474
+      Skeleton2_Run_with_shadow_21: -7428706091662447403
+      Skeleton2_Run_with_shadow_22: 1090861680839714318
+      Skeleton2_Run_with_shadow_23: 2554371343142523378
+      Skeleton2_Run_with_shadow_24: -4595436459300594802
+      Skeleton2_Run_with_shadow_25: -2479084886979408066
+      Skeleton2_Run_with_shadow_26: 7418217091162399664
+      Skeleton2_Run_with_shadow_27: -3165451093905189072
+      Skeleton2_Run_with_shadow_28: 1392984209103707965
+      Skeleton2_Run_with_shadow_29: 8999710686117048746
+      Skeleton2_Run_with_shadow_3: 1208315500267262526
+      Skeleton2_Run_with_shadow_30: -7007067947203816379
+      Skeleton2_Run_with_shadow_31: 6820034185204797666
+      Skeleton2_Run_with_shadow_4: -7025583373591188957
+      Skeleton2_Run_with_shadow_5: -985270542811511366
+      Skeleton2_Run_with_shadow_6: -4538818926444759319
+      Skeleton2_Run_with_shadow_7: 2930363137555634387
+      Skeleton2_Run_with_shadow_8: -2555940360879613612
+      Skeleton2_Run_with_shadow_9: -8884790317975136743
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

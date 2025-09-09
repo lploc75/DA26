@@ -435,6 +435,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2959,7 +2972,121 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Plant3_Death_with_shadow_0: -6188280395297659673
+      Plant3_Death_with_shadow_1: 3772071996078671267
+      Plant3_Death_with_shadow_10: 5825508231952035114
+      Plant3_Death_with_shadow_100: 1891243192396197097
+      Plant3_Death_with_shadow_101: 7538542332315818443
+      Plant3_Death_with_shadow_102: 3834888884851887878
+      Plant3_Death_with_shadow_103: 5817667298191584506
+      Plant3_Death_with_shadow_104: -427848633562560403
+      Plant3_Death_with_shadow_105: -7196417342791751480
+      Plant3_Death_with_shadow_106: -2381992169838689508
+      Plant3_Death_with_shadow_107: -1565273492311358352
+      Plant3_Death_with_shadow_108: 8852915077773812536
+      Plant3_Death_with_shadow_109: -8382426369412496184
+      Plant3_Death_with_shadow_11: 2435076318371969677
+      Plant3_Death_with_shadow_110: 3661805156396064228
+      Plant3_Death_with_shadow_111: -3739740543218823172
+      Plant3_Death_with_shadow_112: -8671095621244317215
+      Plant3_Death_with_shadow_113: 6186802731558432321
+      Plant3_Death_with_shadow_12: -2514599795774727028
+      Plant3_Death_with_shadow_13: 4695724989115732563
+      Plant3_Death_with_shadow_14: 1563256368161552026
+      Plant3_Death_with_shadow_15: -3476024671747977190
+      Plant3_Death_with_shadow_16: -2460329266907034046
+      Plant3_Death_with_shadow_17: 3384504278897100677
+      Plant3_Death_with_shadow_18: -2628616736719019587
+      Plant3_Death_with_shadow_19: 7883784864790760810
+      Plant3_Death_with_shadow_2: 2412788046275009659
+      Plant3_Death_with_shadow_20: -6714951728189368391
+      Plant3_Death_with_shadow_21: -5530140438793085960
+      Plant3_Death_with_shadow_22: -6960615928607270530
+      Plant3_Death_with_shadow_23: 4539437545559928913
+      Plant3_Death_with_shadow_24: 4465549273270909132
+      Plant3_Death_with_shadow_25: 348947041279961160
+      Plant3_Death_with_shadow_26: 8279570069928130871
+      Plant3_Death_with_shadow_27: -5728368762462848730
+      Plant3_Death_with_shadow_28: -415140738993190023
+      Plant3_Death_with_shadow_29: 4385776419493410981
+      Plant3_Death_with_shadow_3: -4822908392015031004
+      Plant3_Death_with_shadow_30: -6930601362838718376
+      Plant3_Death_with_shadow_31: 6778159348573790435
+      Plant3_Death_with_shadow_32: 2120511306224383337
+      Plant3_Death_with_shadow_33: -3414186300827210439
+      Plant3_Death_with_shadow_34: -1371945621926526969
+      Plant3_Death_with_shadow_35: 9215825300198392744
+      Plant3_Death_with_shadow_36: 1741231393905362985
+      Plant3_Death_with_shadow_37: -7656381864660971370
+      Plant3_Death_with_shadow_38: -1218383801159312772
+      Plant3_Death_with_shadow_39: 2693175032270037391
+      Plant3_Death_with_shadow_4: -5251900648582716930
+      Plant3_Death_with_shadow_40: -6674293348559318950
+      Plant3_Death_with_shadow_41: -9004142539354049821
+      Plant3_Death_with_shadow_42: 1761959521808869602
+      Plant3_Death_with_shadow_43: -3630903355089010942
+      Plant3_Death_with_shadow_44: 1284184089734978029
+      Plant3_Death_with_shadow_45: -8592995531529163102
+      Plant3_Death_with_shadow_46: -2260396341448488320
+      Plant3_Death_with_shadow_47: -3547775007403141312
+      Plant3_Death_with_shadow_48: 3554266433735603127
+      Plant3_Death_with_shadow_49: -157101114112405039
+      Plant3_Death_with_shadow_5: -1957925144895834984
+      Plant3_Death_with_shadow_50: 2418350813163089266
+      Plant3_Death_with_shadow_51: 3578976936681575949
+      Plant3_Death_with_shadow_52: 6451440016348505302
+      Plant3_Death_with_shadow_53: -6519204703774467578
+      Plant3_Death_with_shadow_54: 3116722798982507973
+      Plant3_Death_with_shadow_55: -8571629238575915937
+      Plant3_Death_with_shadow_56: -8452875369965765289
+      Plant3_Death_with_shadow_57: 6920512121196715532
+      Plant3_Death_with_shadow_58: -184501624669874039
+      Plant3_Death_with_shadow_59: 2523455770450204621
+      Plant3_Death_with_shadow_6: 3772514355029037335
+      Plant3_Death_with_shadow_60: 7086533462512387311
+      Plant3_Death_with_shadow_61: -3998335523433311215
+      Plant3_Death_with_shadow_62: 1231924864312442395
+      Plant3_Death_with_shadow_63: 5605587851605540392
+      Plant3_Death_with_shadow_64: -2823402987814924832
+      Plant3_Death_with_shadow_65: -7368032789046955787
+      Plant3_Death_with_shadow_66: -5455193067478839294
+      Plant3_Death_with_shadow_67: 2179017521021394258
+      Plant3_Death_with_shadow_68: -4836650772666821225
+      Plant3_Death_with_shadow_69: -6874695929469985523
+      Plant3_Death_with_shadow_7: -2379958001625342051
+      Plant3_Death_with_shadow_70: -7903385910382965983
+      Plant3_Death_with_shadow_71: 8317183376457451256
+      Plant3_Death_with_shadow_72: -3313063541691065102
+      Plant3_Death_with_shadow_73: -3904514442797243878
+      Plant3_Death_with_shadow_74: -3885172869716340721
+      Plant3_Death_with_shadow_75: 224123109073859751
+      Plant3_Death_with_shadow_76: -1991872942757516610
+      Plant3_Death_with_shadow_77: 3334214697362821179
+      Plant3_Death_with_shadow_78: -3554321920791343099
+      Plant3_Death_with_shadow_79: -7444923412261711075
+      Plant3_Death_with_shadow_8: 4869704272640764184
+      Plant3_Death_with_shadow_80: -714030253061063131
+      Plant3_Death_with_shadow_81: -6127220037428160415
+      Plant3_Death_with_shadow_82: 2182390200459934949
+      Plant3_Death_with_shadow_83: 5611660369910841177
+      Plant3_Death_with_shadow_84: -7860757459053471890
+      Plant3_Death_with_shadow_85: -5697242502153256205
+      Plant3_Death_with_shadow_86: 7795301309094563085
+      Plant3_Death_with_shadow_87: -380634944856001770
+      Plant3_Death_with_shadow_88: -4276681848664180595
+      Plant3_Death_with_shadow_89: -6213123819226794540
+      Plant3_Death_with_shadow_9: -5568447953849919944
+      Plant3_Death_with_shadow_90: 6811984876441262250
+      Plant3_Death_with_shadow_91: 4045467963098068578
+      Plant3_Death_with_shadow_92: 7397625639212416568
+      Plant3_Death_with_shadow_93: 4185238465903048030
+      Plant3_Death_with_shadow_94: 2445027295971282319
+      Plant3_Death_with_shadow_95: -7189340108640840718
+      Plant3_Death_with_shadow_96: -7599664383394745445
+      Plant3_Death_with_shadow_97: -3241039401169077465
+      Plant3_Death_with_shadow_98: 6596568650612653422
+      Plant3_Death_with_shadow_99: 3661321750028038182
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

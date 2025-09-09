@@ -237,6 +237,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1309,7 +1322,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beholder2_Walk_with_shadow_0: 4033717774801926734
+      Beholder2_Walk_with_shadow_1: -8442175518885223270
+      Beholder2_Walk_with_shadow_10: -105410962963936536
+      Beholder2_Walk_with_shadow_11: 9197284943142664405
+      Beholder2_Walk_with_shadow_12: 3366102956350924315
+      Beholder2_Walk_with_shadow_13: -4085513561831837350
+      Beholder2_Walk_with_shadow_14: -4346973784410558733
+      Beholder2_Walk_with_shadow_15: 2126486061649523198
+      Beholder2_Walk_with_shadow_16: 5961608049709264741
+      Beholder2_Walk_with_shadow_17: 3864586522078443312
+      Beholder2_Walk_with_shadow_18: -3041309017345337163
+      Beholder2_Walk_with_shadow_19: -4634291261438208187
+      Beholder2_Walk_with_shadow_2: -271610903698609602
+      Beholder2_Walk_with_shadow_20: 1406383546721557783
+      Beholder2_Walk_with_shadow_21: -1552433519771813295
+      Beholder2_Walk_with_shadow_22: 2655258025250416850
+      Beholder2_Walk_with_shadow_23: -2708875657485172438
+      Beholder2_Walk_with_shadow_24: 8837076192129556973
+      Beholder2_Walk_with_shadow_25: -7110161931181791695
+      Beholder2_Walk_with_shadow_26: -3260160908696502318
+      Beholder2_Walk_with_shadow_27: -6172050799208009529
+      Beholder2_Walk_with_shadow_28: 5379274663303942832
+      Beholder2_Walk_with_shadow_29: 4572411177445213614
+      Beholder2_Walk_with_shadow_3: -3536420461605229913
+      Beholder2_Walk_with_shadow_30: -4530653553823488617
+      Beholder2_Walk_with_shadow_31: -3068611774505676965
+      Beholder2_Walk_with_shadow_32: -1062231532255488092
+      Beholder2_Walk_with_shadow_33: -786303930822991286
+      Beholder2_Walk_with_shadow_34: -1387133080156450332
+      Beholder2_Walk_with_shadow_35: -1901949244837969425
+      Beholder2_Walk_with_shadow_36: 3506235694632764589
+      Beholder2_Walk_with_shadow_37: -8945188892065657133
+      Beholder2_Walk_with_shadow_38: -2350728535204172713
+      Beholder2_Walk_with_shadow_39: -960425542996598123
+      Beholder2_Walk_with_shadow_4: 7341282367482362630
+      Beholder2_Walk_with_shadow_40: -9104668635771376982
+      Beholder2_Walk_with_shadow_41: -5132456808640318914
+      Beholder2_Walk_with_shadow_42: 5815215813075974465
+      Beholder2_Walk_with_shadow_43: -7917618565991820145
+      Beholder2_Walk_with_shadow_44: -1740197778431826897
+      Beholder2_Walk_with_shadow_45: 2343479380922352632
+      Beholder2_Walk_with_shadow_46: 8134720719961523297
+      Beholder2_Walk_with_shadow_47: -5162297731146238442
+      Beholder2_Walk_with_shadow_5: -6141633514410836650
+      Beholder2_Walk_with_shadow_6: 5284299268771143623
+      Beholder2_Walk_with_shadow_7: 4429645230675220151
+      Beholder2_Walk_with_shadow_8: 7040352748531789722
+      Beholder2_Walk_with_shadow_9: 6712464603175703003
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

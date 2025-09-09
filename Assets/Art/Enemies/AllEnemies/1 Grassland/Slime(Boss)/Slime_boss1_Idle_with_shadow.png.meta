@@ -231,6 +231,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1259,7 +1272,53 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime_boss1_Idle_with_shadow_0: 7135061724225640242
+      Slime_boss1_Idle_with_shadow_1: 6251257591774338762
+      Slime_boss1_Idle_with_shadow_10: 7219473064040199733
+      Slime_boss1_Idle_with_shadow_11: 4427517857391780120
+      Slime_boss1_Idle_with_shadow_12: 3515188240260839210
+      Slime_boss1_Idle_with_shadow_13: 4629984170544855892
+      Slime_boss1_Idle_with_shadow_14: 3298139094207977295
+      Slime_boss1_Idle_with_shadow_15: 7111600743791191849
+      Slime_boss1_Idle_with_shadow_16: -6409174630954569398
+      Slime_boss1_Idle_with_shadow_17: 6659539852586383322
+      Slime_boss1_Idle_with_shadow_18: -5332115498815314897
+      Slime_boss1_Idle_with_shadow_19: -3315603246926592122
+      Slime_boss1_Idle_with_shadow_2: 4443372425423069994
+      Slime_boss1_Idle_with_shadow_20: 4359117242836772357
+      Slime_boss1_Idle_with_shadow_21: 5257853983014534742
+      Slime_boss1_Idle_with_shadow_22: 573601838166900933
+      Slime_boss1_Idle_with_shadow_23: -4151702121724460204
+      Slime_boss1_Idle_with_shadow_24: -5014095291704164547
+      Slime_boss1_Idle_with_shadow_25: -3159767879694827360
+      Slime_boss1_Idle_with_shadow_26: 1738063523625842138
+      Slime_boss1_Idle_with_shadow_27: 2986611258414707602
+      Slime_boss1_Idle_with_shadow_28: 7736443440650837581
+      Slime_boss1_Idle_with_shadow_29: 1028025025081690532
+      Slime_boss1_Idle_with_shadow_3: -3441776682443132969
+      Slime_boss1_Idle_with_shadow_30: -7569988047108485506
+      Slime_boss1_Idle_with_shadow_31: -6335109958598781121
+      Slime_boss1_Idle_with_shadow_32: 2949571429941553736
+      Slime_boss1_Idle_with_shadow_33: 8550981869122645782
+      Slime_boss1_Idle_with_shadow_34: 2700214482691430241
+      Slime_boss1_Idle_with_shadow_35: -5520196795121282073
+      Slime_boss1_Idle_with_shadow_36: 7633831261815079736
+      Slime_boss1_Idle_with_shadow_37: 4944365468077904790
+      Slime_boss1_Idle_with_shadow_38: -3109026995855142733
+      Slime_boss1_Idle_with_shadow_39: 6961435919352809774
+      Slime_boss1_Idle_with_shadow_4: 7332467546078036481
+      Slime_boss1_Idle_with_shadow_40: 8582098031755261946
+      Slime_boss1_Idle_with_shadow_41: 6140505907749076487
+      Slime_boss1_Idle_with_shadow_42: 340584855277115418
+      Slime_boss1_Idle_with_shadow_43: 8143288375971151359
+      Slime_boss1_Idle_with_shadow_44: 659817053195181510
+      Slime_boss1_Idle_with_shadow_45: -2179729630947529325
+      Slime_boss1_Idle_with_shadow_5: -6625653068181790859
+      Slime_boss1_Idle_with_shadow_6: -61536748152119491
+      Slime_boss1_Idle_with_shadow_7: 3972959701287774251
+      Slime_boss1_Idle_with_shadow_8: -8445054559906567001
+      Slime_boss1_Idle_with_shadow_9: 3051091822655305532
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

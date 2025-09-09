@@ -1004,12 +1004,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: e2716e5920328714587eabc2bed3f88d, type: 3}
-  itemIcon: {fileID: 1518060107}
-  placedItemImage: {fileID: 0}
 --- !u!1 &162808451
 GameObject:
   m_ObjectHideFlags: 0
@@ -1060,12 +1054,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 2064513809}
-  placedItemImage: {fileID: 0}
 --- !u!1 &168310566
 GameObject:
   m_ObjectHideFlags: 0
@@ -1559,12 +1547,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: b259bce8f8c0e374f80aada828bcba93, type: 3}
-  itemIcon: {fileID: 1895882622}
-  placedItemImage: {fileID: 0}
 --- !u!1 &191275082
 GameObject:
   m_ObjectHideFlags: 0
@@ -2570,12 +2552,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 1847764590}
-  placedItemImage: {fileID: 0}
 --- !u!1 &271975817
 GameObject:
   m_ObjectHideFlags: 0
@@ -2701,12 +2677,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 857246764}
-  placedItemImage: {fileID: 0}
 --- !u!1 &282377848
 GameObject:
   m_ObjectHideFlags: 0
@@ -3581,7 +3551,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d17f7b1c7184dabaf520e308c56faf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 355774092}
+  slot: {fileID: 0}
 --- !u!114 &355774091
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3594,7 +3564,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3bf0eba7e7a4b7b92c3fe1d8df56b00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 355774092}
+  slot: {fileID: 0}
 --- !u!114 &355774092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3607,12 +3577,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: 929ebf14b4b3e8343944e2fda867d5a6, type: 3}
-  itemIcon: {fileID: 1239941481}
-  placedItemImage: {fileID: 174647316}
 --- !u!1 &361523284
 GameObject:
   m_ObjectHideFlags: 0
@@ -4414,12 +4378,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 455392350}
-  placedItemImage: {fileID: 0}
 --- !u!1 &437536150
 GameObject:
   m_ObjectHideFlags: 0
@@ -4696,12 +4654,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: e181467b6b0aa3e4fad9ee1500b5229a, type: 3}
-  itemIcon: {fileID: 2052032040}
-  placedItemImage: {fileID: 0}
 --- !u!1 &467415000
 GameObject:
   m_ObjectHideFlags: 0
@@ -4731,11 +4683,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a4d6bf571c00634da783f49fe85d7f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inventoryPanel: {fileID: 0}
-  woodSwordIcon: {fileID: -8094820964134931004, guid: 267a7fe854a8b0b4ebc6a23428663c6c, type: 3}
-  leatherArmorIcon: {fileID: 5760221957796717935, guid: bca87d5e2b9319b44b358bbd0dedd028, type: 3}
-  capIcon: {fileID: 1549902729761913703, guid: fb20746694d1e0b44b31b9b5d0290b00, type: 3}
-  amuletIcon: {fileID: 3452469331625771716, guid: 9914f0d5afbade7439978e08cbd9a3e6, type: 3}
 --- !u!4 &467415002
 Transform:
   m_ObjectHideFlags: 0
@@ -4954,7 +4901,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d17f7b1c7184dabaf520e308c56faf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 475085923}
+  slot: {fileID: 0}
 --- !u!114 &475085922
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4967,7 +4914,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3bf0eba7e7a4b7b92c3fe1d8df56b00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 475085923}
+  slot: {fileID: 0}
 --- !u!114 &475085923
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4980,12 +4927,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 1023357945}
-  placedItemImage: {fileID: 174185396}
 --- !u!1 &490338143
 GameObject:
   m_ObjectHideFlags: 0
@@ -5036,12 +4977,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 1191574403}
-  placedItemImage: {fileID: 0}
 --- !u!1 &496151278
 GameObject:
   m_ObjectHideFlags: 0
@@ -5509,12 +5444,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: 47825a1a0b22c804d91455ad62a710da, type: 3}
-  itemIcon: {fileID: 216947883}
-  placedItemImage: {fileID: 0}
 --- !u!1 &536381648
 GameObject:
   m_ObjectHideFlags: 0
@@ -5958,6 +5887,7 @@ MonoBehaviour:
     ManaRegen: 0
     Level: 0
     RemainPoints: 0
+  dbManager: {fileID: 746469376}
 --- !u!4 &554339010
 Transform:
   m_ObjectHideFlags: 0
@@ -6143,12 +6073,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: 6a563d5c3d2eb514b8d1a73b68233439, type: 3}
-  itemIcon: {fileID: 1096967426}
-  placedItemImage: {fileID: 0}
 --- !u!1 &569953514
 GameObject:
   m_ObjectHideFlags: 0
@@ -6335,12 +6259,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 1481498808}
-  placedItemImage: {fileID: 0}
 --- !u!1 &583916779
 GameObject:
   m_ObjectHideFlags: 0
@@ -6391,12 +6309,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 1527083773}
-  placedItemImage: {fileID: 0}
 --- !u!1 &591936998
 GameObject:
   m_ObjectHideFlags: 0
@@ -6837,6 +6749,31 @@ MonoBehaviour:
   dragging: 0
   dragItem:
     sprite: {fileID: 0}
+    DefId: 
+    ItemLevel: 0
+    Rarity: 0
+    ScaledStats:
+      MaxHealth: 0
+      MaxMana: 0
+      MaxHunger: 0
+      MaxSanity: 0
+      MaxStamina: 0
+      HealthRegenPerSec: 0
+      ManaRegenPerSec: 0
+      StaminaRegenPerSec: 0
+      HungerDecayPerSec: 0
+      SanityRegenPerSec: 0
+      Strength: 0
+      Agility: 0
+      Intelligence: 0
+      Vitality: 0
+      Wisdom: 0
+      Armor: 0
+      BaseDamage: 0
+      CritChance: 0
+      CritDamagePct: 0
+    SellPrice: 0
+    Affixes: []
 --- !u!114 &621603088
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7857,12 +7794,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 909254179}
-  placedItemImage: {fileID: 0}
 --- !u!1 &682607598
 GameObject:
   m_ObjectHideFlags: 0
@@ -8179,7 +8110,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: INT
+          m_StringArgument: WIS
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &700735421
@@ -8348,7 +8279,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d17f7b1c7184dabaf520e308c56faf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 705279193}
+  slot: {fileID: 0}
 --- !u!114 &705279192
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8361,7 +8292,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3bf0eba7e7a4b7b92c3fe1d8df56b00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 705279193}
+  slot: {fileID: 0}
 --- !u!114 &705279193
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8374,12 +8305,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 1936125695}
-  placedItemImage: {fileID: 107873733}
 --- !u!1 &714220420
 GameObject:
   m_ObjectHideFlags: 0
@@ -8530,6 +8455,50 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 724100233}
   m_CullTransparentMesh: 1
+--- !u!1 &746469375
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 746469377}
+  - component: {fileID: 746469376}
+  m_Layer: 0
+  m_Name: DB Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &746469376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 746469375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbb1aa8e137b6d8439901e5ffb3336b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &746469377
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 746469375}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 401.08923, y: 232.10434, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &757067792
 GameObject:
   m_ObjectHideFlags: 0
@@ -9013,12 +8982,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 1819748295}
-  placedItemImage: {fileID: 0}
 --- !u!1 &857246762
 GameObject:
   m_ObjectHideFlags: 0
@@ -9144,12 +9107,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 1796302917}
-  placedItemImage: {fileID: 0}
 --- !u!1 &909254177
 GameObject:
   m_ObjectHideFlags: 0
@@ -10047,12 +10004,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 927022985}
-  placedItemImage: {fileID: 0}
 --- !u!1 &960955983
 GameObject:
   m_ObjectHideFlags: 0
@@ -10474,12 +10425,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: 8a6153cab18c2cf429ff511d0d2f3ff9, type: 3}
-  itemIcon: {fileID: 1331441721}
-  placedItemImage: {fileID: 0}
 --- !u!1 &1023357943
 GameObject:
   m_ObjectHideFlags: 0
@@ -10605,12 +10550,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: 17e5a0649f629284f9c28e73326b9a1b, type: 3}
-  itemIcon: {fileID: 1797906011}
-  placedItemImage: {fileID: 0}
 --- !u!1 &1027694443
 GameObject:
   m_ObjectHideFlags: 0
@@ -10661,12 +10600,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 271975819}
-  placedItemImage: {fileID: 0}
 --- !u!1 &1041423486
 GameObject:
   m_ObjectHideFlags: 0
@@ -10856,7 +10789,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d17f7b1c7184dabaf520e308c56faf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 1048230861}
+  slot: {fileID: 0}
 --- !u!114 &1048230860
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10869,7 +10802,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3bf0eba7e7a4b7b92c3fe1d8df56b00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 1048230861}
+  slot: {fileID: 0}
 --- !u!114 &1048230861
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10882,12 +10815,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: fa642fb4bb5d5a746802548a69fb7994, type: 3}
-  itemIcon: {fileID: 326597531}
-  placedItemImage: {fileID: 2037948267}
 --- !u!1 &1049976064
 GameObject:
   m_ObjectHideFlags: 0
@@ -11471,12 +11398,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 220186706}
-  placedItemImage: {fileID: 0}
 --- !u!1 &1118017687
 GameObject:
   m_ObjectHideFlags: 0
@@ -11527,12 +11448,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: 0f28069593b50814a962edf881ff3857, type: 3}
-  itemIcon: {fileID: 43837445}
-  placedItemImage: {fileID: 0}
 --- !u!1 &1119814255
 GameObject:
   m_ObjectHideFlags: 0
@@ -12441,12 +12356,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: 294ce061a6ab6044eaf5a9c9473a38dc, type: 3}
-  itemIcon: {fileID: 1934607288}
-  placedItemImage: {fileID: 0}
 --- !u!1 &1235340839
 GameObject:
   m_ObjectHideFlags: 0
@@ -12500,7 +12409,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d17f7b1c7184dabaf520e308c56faf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 1235340843}
+  slot: {fileID: 0}
 --- !u!114 &1235340842
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12513,7 +12422,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3bf0eba7e7a4b7b92c3fe1d8df56b00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 1235340843}
+  slot: {fileID: 0}
 --- !u!114 &1235340843
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12526,12 +12435,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: b259bce8f8c0e374f80aada828bcba93, type: 3}
-  itemIcon: {fileID: 724100235}
-  placedItemImage: {fileID: 1960336108}
 --- !u!1 &1239941479
 GameObject:
   m_ObjectHideFlags: 0
@@ -13079,12 +12982,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: 45ab5c35e77274643b9dc65e53a4c6d8, type: 3}
-  itemIcon: {fileID: 1522266628}
-  placedItemImage: {fileID: 0}
 --- !u!1 &1268010102
 GameObject:
   m_ObjectHideFlags: 0
@@ -13210,12 +13107,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: 5c99ae1e6ada67540bb7da32fb57884d, type: 3}
-  itemIcon: {fileID: 1128729585}
-  placedItemImage: {fileID: 0}
 --- !u!1 &1283481587
 GameObject:
   m_ObjectHideFlags: 0
@@ -13266,12 +13157,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 1335212575}
-  placedItemImage: {fileID: 0}
 --- !u!1 &1291247991
 GameObject:
   m_ObjectHideFlags: 0
@@ -13322,12 +13207,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 2069638103}
-  placedItemImage: {fileID: 0}
 --- !u!1 &1304734554
 GameObject:
   m_ObjectHideFlags: 0
@@ -14922,12 +14801,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: 57498e0c095b7ee4b88abdadf8231b60, type: 3}
-  itemIcon: {fileID: 2131137773}
-  placedItemImage: {fileID: 0}
 --- !u!1 &1412246398
 GameObject:
   m_ObjectHideFlags: 0
@@ -17173,7 +17046,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d17f7b1c7184dabaf520e308c56faf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 1617312295}
+  slot: {fileID: 0}
 --- !u!114 &1617312294
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17186,7 +17059,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3bf0eba7e7a4b7b92c3fe1d8df56b00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 1617312295}
+  slot: {fileID: 0}
 --- !u!114 &1617312295
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17199,12 +17072,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: a35a45ead39df5e4ca4d2f1993487336, type: 3}
-  itemIcon: {fileID: 0}
-  placedItemImage: {fileID: 349812148}
 --- !u!1 &1621783507
 GameObject:
   m_ObjectHideFlags: 0
@@ -18874,7 +18741,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d17f7b1c7184dabaf520e308c56faf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 1775634438}
+  slot: {fileID: 0}
 --- !u!114 &1775634437
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18887,7 +18754,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3bf0eba7e7a4b7b92c3fe1d8df56b00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 1775634438}
+  slot: {fileID: 0}
 --- !u!114 &1775634438
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18900,12 +18767,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: 4bf8d08c18c96b64ea29a82f73e21dfd, type: 3}
-  itemIcon: {fileID: 1360262333}
-  placedItemImage: {fileID: 936820195}
 --- !u!1 &1776791165
 GameObject:
   m_ObjectHideFlags: 0
@@ -19092,12 +18953,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: 85c4ce378ec8620499f8757fe650b99b, type: 3}
-  itemIcon: {fileID: 26774855}
-  placedItemImage: {fileID: 0}
 --- !u!1 &1794790223
 GameObject:
   m_ObjectHideFlags: 0
@@ -19496,7 +19351,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d17f7b1c7184dabaf520e308c56faf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 1825483265}
+  slot: {fileID: 0}
 --- !u!114 &1825483264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19509,7 +19364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3bf0eba7e7a4b7b92c3fe1d8df56b00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slot: {fileID: 1825483265}
+  slot: {fileID: 0}
 --- !u!114 &1825483265
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19522,12 +19377,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: 7bb8f34640077064c9d5b568a218b17e, type: 3}
-  itemIcon: {fileID: 937442002}
-  placedItemImage: {fileID: 205776040}
 --- !u!1 &1825523142
 GameObject:
   m_ObjectHideFlags: 0
@@ -20173,7 +20022,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: WIS
+          m_StringArgument: INT
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1933263089
@@ -21573,12 +21422,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 1
-    value:
-      sprite: {fileID: 21300000, guid: c4767f548b169934aa4cd57008a057ed, type: 3}
-  itemIcon: {fileID: 1657016221}
-  placedItemImage: {fileID: 0}
 --- !u!1 &2061646882
 GameObject:
   m_ObjectHideFlags: 0
@@ -22126,12 +21969,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dfb6b21da0b4497aa4cb2dd7e96ab99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialItem:
-    hasValue: 0
-    value:
-      sprite: {fileID: 0}
-  itemIcon: {fileID: 80672327}
-  placedItemImage: {fileID: 0}
 --- !u!1 &2105570502
 GameObject:
   m_ObjectHideFlags: 0
@@ -22730,3 +22567,4 @@ SceneRoots:
   - {fileID: 1994514487}
   - {fileID: 282377850}
   - {fileID: 554339010}
+  - {fileID: 746469377}

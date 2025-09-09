@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lich3_Hurt_with_shadow_0: -2379989862477763392
+      Lich3_Hurt_with_shadow_1: -5755378445119414199
+      Lich3_Hurt_with_shadow_10: -302153734808875281
+      Lich3_Hurt_with_shadow_11: 3582403257783869083
+      Lich3_Hurt_with_shadow_12: -5428952893310788798
+      Lich3_Hurt_with_shadow_13: 1971612744906810763
+      Lich3_Hurt_with_shadow_14: -6797005881197049658
+      Lich3_Hurt_with_shadow_15: 7226581877611159369
+      Lich3_Hurt_with_shadow_2: -8687006530833788117
+      Lich3_Hurt_with_shadow_3: 6788980663323524213
+      Lich3_Hurt_with_shadow_4: -664971411308891997
+      Lich3_Hurt_with_shadow_5: 2504550182091914283
+      Lich3_Hurt_with_shadow_6: -3771000292290382464
+      Lich3_Hurt_with_shadow_7: -7406753527885750860
+      Lich3_Hurt_with_shadow_8: 894368854527789591
+      Lich3_Hurt_with_shadow_9: 786207696429318907
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

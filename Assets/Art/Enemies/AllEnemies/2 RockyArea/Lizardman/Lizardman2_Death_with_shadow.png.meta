@@ -177,6 +177,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -809,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardman2_Death_with_shadow_0: 2944385451833078745
+      Lizardman2_Death_with_shadow_1: 5888905951518704110
+      Lizardman2_Death_with_shadow_10: -6457420386381560980
+      Lizardman2_Death_with_shadow_11: -4670770710178469453
+      Lizardman2_Death_with_shadow_12: -2936535232596275630
+      Lizardman2_Death_with_shadow_13: -408858158909164311
+      Lizardman2_Death_with_shadow_14: 1492339215133779734
+      Lizardman2_Death_with_shadow_15: -165996560762591824
+      Lizardman2_Death_with_shadow_16: 8526854732860204353
+      Lizardman2_Death_with_shadow_17: -8146818557132764829
+      Lizardman2_Death_with_shadow_18: -4584456995104291984
+      Lizardman2_Death_with_shadow_19: -8115102311366781227
+      Lizardman2_Death_with_shadow_2: -6186534381593479815
+      Lizardman2_Death_with_shadow_20: 2948555574750278679
+      Lizardman2_Death_with_shadow_21: 4208287201598136463
+      Lizardman2_Death_with_shadow_22: 6177088877175622227
+      Lizardman2_Death_with_shadow_23: -820986288374358866
+      Lizardman2_Death_with_shadow_24: 6007566711628790561
+      Lizardman2_Death_with_shadow_25: -3497119570589076229
+      Lizardman2_Death_with_shadow_26: 2120119445541297916
+      Lizardman2_Death_with_shadow_27: -959112060603048412
+      Lizardman2_Death_with_shadow_3: -4996320789203735993
+      Lizardman2_Death_with_shadow_4: 9118898966721206518
+      Lizardman2_Death_with_shadow_5: 1469209823886704298
+      Lizardman2_Death_with_shadow_6: 6972268357975219621
+      Lizardman2_Death_with_shadow_7: 917749542309571533
+      Lizardman2_Death_with_shadow_8: 5743682831985930415
+      Lizardman2_Death_with_shadow_9: 819129872760050278
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

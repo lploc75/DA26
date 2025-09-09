@@ -402,6 +402,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2684,7 +2697,110 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost1_Attack_with_shadow_0: -5169552088482414174
+      Ghost1_Attack_with_shadow_1: 896964934453110164
+      Ghost1_Attack_with_shadow_10: -6053592205124331712
+      Ghost1_Attack_with_shadow_100: -3144106344113155625
+      Ghost1_Attack_with_shadow_101: -2278872977791436723
+      Ghost1_Attack_with_shadow_102: -1429618833202419035
+      Ghost1_Attack_with_shadow_11: 8274414775544844622
+      Ghost1_Attack_with_shadow_12: -8104851423342284513
+      Ghost1_Attack_with_shadow_13: -5312391552159851680
+      Ghost1_Attack_with_shadow_14: -4468928854458896631
+      Ghost1_Attack_with_shadow_15: 4320278935428369722
+      Ghost1_Attack_with_shadow_16: -2845082299727168528
+      Ghost1_Attack_with_shadow_17: 354631226368833931
+      Ghost1_Attack_with_shadow_18: 7285195054924994519
+      Ghost1_Attack_with_shadow_19: 2633013566186897504
+      Ghost1_Attack_with_shadow_2: 7384454352920086316
+      Ghost1_Attack_with_shadow_20: 3676977619352374417
+      Ghost1_Attack_with_shadow_21: 6453497454649720850
+      Ghost1_Attack_with_shadow_22: -8516678047664675648
+      Ghost1_Attack_with_shadow_23: 6070645473739984910
+      Ghost1_Attack_with_shadow_24: 3587081786003110186
+      Ghost1_Attack_with_shadow_25: -792084726682957540
+      Ghost1_Attack_with_shadow_26: -1073630505408592968
+      Ghost1_Attack_with_shadow_27: -5254259581121659229
+      Ghost1_Attack_with_shadow_28: -2024337657196387967
+      Ghost1_Attack_with_shadow_29: -4370653839127090882
+      Ghost1_Attack_with_shadow_3: 35183366440628363
+      Ghost1_Attack_with_shadow_30: -6884172368577300052
+      Ghost1_Attack_with_shadow_31: -4410368071987663844
+      Ghost1_Attack_with_shadow_32: 6032438141190481294
+      Ghost1_Attack_with_shadow_33: -5494176095203056646
+      Ghost1_Attack_with_shadow_34: 7546938807525553804
+      Ghost1_Attack_with_shadow_35: -4678041018971890120
+      Ghost1_Attack_with_shadow_36: -865276243289068312
+      Ghost1_Attack_with_shadow_37: -152214422985128820
+      Ghost1_Attack_with_shadow_38: 5209328610858127702
+      Ghost1_Attack_with_shadow_39: -2929201411986912815
+      Ghost1_Attack_with_shadow_4: -8336433323990775093
+      Ghost1_Attack_with_shadow_40: -6939402575256996303
+      Ghost1_Attack_with_shadow_41: -2397560232397668208
+      Ghost1_Attack_with_shadow_42: -6291258767719216627
+      Ghost1_Attack_with_shadow_43: 1583919679490354424
+      Ghost1_Attack_with_shadow_44: -8889194842305020368
+      Ghost1_Attack_with_shadow_45: 8624631359781276342
+      Ghost1_Attack_with_shadow_46: 1530451150465257162
+      Ghost1_Attack_with_shadow_47: -6175481792958703946
+      Ghost1_Attack_with_shadow_48: -7235645336483507443
+      Ghost1_Attack_with_shadow_49: -1462702972438824252
+      Ghost1_Attack_with_shadow_5: 8001001968068487341
+      Ghost1_Attack_with_shadow_50: -7224578989294370034
+      Ghost1_Attack_with_shadow_51: 2446167355890667612
+      Ghost1_Attack_with_shadow_52: 6782605574419570640
+      Ghost1_Attack_with_shadow_53: 5628493644395166771
+      Ghost1_Attack_with_shadow_54: -3790281767222095664
+      Ghost1_Attack_with_shadow_55: 6178129034708216078
+      Ghost1_Attack_with_shadow_56: 8727698682041005504
+      Ghost1_Attack_with_shadow_57: 4236112464693479119
+      Ghost1_Attack_with_shadow_58: 4367291325561569580
+      Ghost1_Attack_with_shadow_59: 92510533583174790
+      Ghost1_Attack_with_shadow_6: -5858746216662714891
+      Ghost1_Attack_with_shadow_60: 2874372175369836649
+      Ghost1_Attack_with_shadow_61: -5922456907032781482
+      Ghost1_Attack_with_shadow_62: 3716641394157537558
+      Ghost1_Attack_with_shadow_63: 5809142462580155957
+      Ghost1_Attack_with_shadow_64: -3087459577377134921
+      Ghost1_Attack_with_shadow_65: 7845418276040024229
+      Ghost1_Attack_with_shadow_66: -5104131775390135782
+      Ghost1_Attack_with_shadow_67: -5173250451683477934
+      Ghost1_Attack_with_shadow_68: 3786034549164219513
+      Ghost1_Attack_with_shadow_69: 8280075458577482515
+      Ghost1_Attack_with_shadow_7: 2493347369972951273
+      Ghost1_Attack_with_shadow_70: -8774701421592640101
+      Ghost1_Attack_with_shadow_71: 6176321087968601986
+      Ghost1_Attack_with_shadow_72: 4972143371778420968
+      Ghost1_Attack_with_shadow_73: -2637209239526743193
+      Ghost1_Attack_with_shadow_74: -8514140823921043636
+      Ghost1_Attack_with_shadow_75: -1466151701851430598
+      Ghost1_Attack_with_shadow_76: 4866040784677445991
+      Ghost1_Attack_with_shadow_77: 594757309624805480
+      Ghost1_Attack_with_shadow_78: 4831428281074187988
+      Ghost1_Attack_with_shadow_79: 6102880161833244906
+      Ghost1_Attack_with_shadow_8: -8450119626925887227
+      Ghost1_Attack_with_shadow_80: -827983864759143830
+      Ghost1_Attack_with_shadow_81: 4254239938721927787
+      Ghost1_Attack_with_shadow_82: 2780673861994078351
+      Ghost1_Attack_with_shadow_83: -5264038481980224057
+      Ghost1_Attack_with_shadow_84: 7552129328859788452
+      Ghost1_Attack_with_shadow_85: -5590311974038030983
+      Ghost1_Attack_with_shadow_86: -5868658346547133747
+      Ghost1_Attack_with_shadow_87: -2906022339630144293
+      Ghost1_Attack_with_shadow_88: 7271964315708204870
+      Ghost1_Attack_with_shadow_89: -1455628351063510895
+      Ghost1_Attack_with_shadow_9: 3856754104387240911
+      Ghost1_Attack_with_shadow_90: 7856539520695243732
+      Ghost1_Attack_with_shadow_91: -5230251804370745093
+      Ghost1_Attack_with_shadow_92: 3889386258622498535
+      Ghost1_Attack_with_shadow_93: 6448873635593315678
+      Ghost1_Attack_with_shadow_94: -7319127207825788990
+      Ghost1_Attack_with_shadow_95: 4964348362002450203
+      Ghost1_Attack_with_shadow_96: -5413553758134785299
+      Ghost1_Attack_with_shadow_97: -5010332253195122269
+      Ghost1_Attack_with_shadow_98: 5074536593025607539
+      Ghost1_Attack_with_shadow_99: 1721885060086820405
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
