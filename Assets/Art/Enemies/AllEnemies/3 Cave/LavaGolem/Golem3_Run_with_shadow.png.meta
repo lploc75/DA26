@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golem3_Run_with_shadow_0: -5799232038290719371
+      Golem3_Run_with_shadow_1: -426303088492080155
+      Golem3_Run_with_shadow_10: -7286683354740777830
+      Golem3_Run_with_shadow_11: -6005496452359913197
+      Golem3_Run_with_shadow_12: -8427776807671267813
+      Golem3_Run_with_shadow_13: -7983522617746091463
+      Golem3_Run_with_shadow_14: 8579562931468763413
+      Golem3_Run_with_shadow_15: -6039054469141605015
+      Golem3_Run_with_shadow_16: 7829822959610495144
+      Golem3_Run_with_shadow_17: -4866836016304954010
+      Golem3_Run_with_shadow_18: 1613805706049980453
+      Golem3_Run_with_shadow_19: 1089264131980294663
+      Golem3_Run_with_shadow_2: -7612620830302892330
+      Golem3_Run_with_shadow_20: -1045907718420921735
+      Golem3_Run_with_shadow_21: 8514247840040992148
+      Golem3_Run_with_shadow_22: -5411620207673311576
+      Golem3_Run_with_shadow_23: -4942446001385105441
+      Golem3_Run_with_shadow_24: -6474937445391452659
+      Golem3_Run_with_shadow_25: -2037982932733742510
+      Golem3_Run_with_shadow_26: 65622514367646981
+      Golem3_Run_with_shadow_27: -499548846318377745
+      Golem3_Run_with_shadow_28: -3889844641456036931
+      Golem3_Run_with_shadow_29: -2324952951558565852
+      Golem3_Run_with_shadow_3: -2124470539304044901
+      Golem3_Run_with_shadow_30: 6140477463046592927
+      Golem3_Run_with_shadow_31: 4611063537557484452
+      Golem3_Run_with_shadow_4: -1718808721088480422
+      Golem3_Run_with_shadow_5: 2409751402971617099
+      Golem3_Run_with_shadow_6: -3555976334353195567
+      Golem3_Run_with_shadow_7: -5767252716505316796
+      Golem3_Run_with_shadow_8: 8989703308093293584
+      Golem3_Run_with_shadow_9: -7142284557165621601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

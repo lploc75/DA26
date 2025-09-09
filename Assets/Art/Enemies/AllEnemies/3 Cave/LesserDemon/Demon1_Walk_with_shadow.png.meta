@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Demon1_Walk_with_shadow_0: 504192801024889520
+      Demon1_Walk_with_shadow_1: 4501675465871961471
+      Demon1_Walk_with_shadow_10: -3535336338046675808
+      Demon1_Walk_with_shadow_11: -392261164256789257
+      Demon1_Walk_with_shadow_12: -3565935388434288760
+      Demon1_Walk_with_shadow_13: -7309378739820025707
+      Demon1_Walk_with_shadow_14: 659148589855035910
+      Demon1_Walk_with_shadow_15: -4553497640508776320
+      Demon1_Walk_with_shadow_16: 2698856226978525950
+      Demon1_Walk_with_shadow_17: 7991642294486565373
+      Demon1_Walk_with_shadow_18: 6807487710820795153
+      Demon1_Walk_with_shadow_19: -3933097103849864493
+      Demon1_Walk_with_shadow_2: -1821108242914761763
+      Demon1_Walk_with_shadow_20: 1620883036050733903
+      Demon1_Walk_with_shadow_21: 2623763121163102392
+      Demon1_Walk_with_shadow_22: 1355286022317959110
+      Demon1_Walk_with_shadow_23: 505999393002237363
+      Demon1_Walk_with_shadow_3: 6161456737817639746
+      Demon1_Walk_with_shadow_4: -6697420452200134320
+      Demon1_Walk_with_shadow_5: 1166764347202283222
+      Demon1_Walk_with_shadow_6: 310442928376948094
+      Demon1_Walk_with_shadow_7: -2856646972808009
+      Demon1_Walk_with_shadow_8: 4583765098283253056
+      Demon1_Walk_with_shadow_9: 7488735126308677088
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

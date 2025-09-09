@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rat3_Walk_with_shadow_0: 9008992411365384175
+      Rat3_Walk_with_shadow_1: -7746815164091162614
+      Rat3_Walk_with_shadow_10: -5222952533449781738
+      Rat3_Walk_with_shadow_11: -4633946488029786715
+      Rat3_Walk_with_shadow_12: 6045862061759366408
+      Rat3_Walk_with_shadow_13: 2638078350557266299
+      Rat3_Walk_with_shadow_14: 3300788363325381020
+      Rat3_Walk_with_shadow_15: -7462942722295000889
+      Rat3_Walk_with_shadow_16: -6377935686055383691
+      Rat3_Walk_with_shadow_17: 4312298197625287058
+      Rat3_Walk_with_shadow_18: 4684190421656208135
+      Rat3_Walk_with_shadow_19: -6676294027292675618
+      Rat3_Walk_with_shadow_2: 7026748493510498242
+      Rat3_Walk_with_shadow_20: 8749256299462402093
+      Rat3_Walk_with_shadow_21: -6804635240848950233
+      Rat3_Walk_with_shadow_22: 1159320875370235296
+      Rat3_Walk_with_shadow_23: -2658186188963598564
+      Rat3_Walk_with_shadow_3: -4246524183564609812
+      Rat3_Walk_with_shadow_4: -2082909608966570635
+      Rat3_Walk_with_shadow_5: 4281274016740146629
+      Rat3_Walk_with_shadow_6: 1528940487530218359
+      Rat3_Walk_with_shadow_7: 6120492328820939090
+      Rat3_Walk_with_shadow_8: 6502692226451101693
+      Rat3_Walk_with_shadow_9: -9104283188452657753
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

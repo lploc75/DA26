@@ -261,6 +261,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1509,7 +1522,63 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime_boss1_Walk_with_shadow_0: -1921415128653852939
+      Slime_boss1_Walk_with_shadow_1: -2451101253944373730
+      Slime_boss1_Walk_with_shadow_10: 2886634796365369924
+      Slime_boss1_Walk_with_shadow_11: 4015411942524411736
+      Slime_boss1_Walk_with_shadow_12: -6616121232804522843
+      Slime_boss1_Walk_with_shadow_13: -8045729913457356573
+      Slime_boss1_Walk_with_shadow_14: 8888758035502316266
+      Slime_boss1_Walk_with_shadow_15: -1006120134783150047
+      Slime_boss1_Walk_with_shadow_16: -1194133928280764781
+      Slime_boss1_Walk_with_shadow_17: -5112834805212485924
+      Slime_boss1_Walk_with_shadow_18: 3241413583726096357
+      Slime_boss1_Walk_with_shadow_19: -6184211840763678356
+      Slime_boss1_Walk_with_shadow_2: -7297427463191941600
+      Slime_boss1_Walk_with_shadow_20: 816195333766036814
+      Slime_boss1_Walk_with_shadow_21: 1790325686964752277
+      Slime_boss1_Walk_with_shadow_22: 277478052124338470
+      Slime_boss1_Walk_with_shadow_23: -7949822204247183240
+      Slime_boss1_Walk_with_shadow_24: 4513047983552597083
+      Slime_boss1_Walk_with_shadow_25: -7971504369092767732
+      Slime_boss1_Walk_with_shadow_26: -3611786936488681893
+      Slime_boss1_Walk_with_shadow_27: -238719804156081374
+      Slime_boss1_Walk_with_shadow_28: 849832423315383276
+      Slime_boss1_Walk_with_shadow_29: 6537288908918568376
+      Slime_boss1_Walk_with_shadow_3: 1901179784641341029
+      Slime_boss1_Walk_with_shadow_30: 6074567633800219762
+      Slime_boss1_Walk_with_shadow_31: -5263211544863650589
+      Slime_boss1_Walk_with_shadow_32: 2620930992570282354
+      Slime_boss1_Walk_with_shadow_33: -2427415867206867037
+      Slime_boss1_Walk_with_shadow_34: 260440131209662221
+      Slime_boss1_Walk_with_shadow_35: 3514068751157535203
+      Slime_boss1_Walk_with_shadow_36: 871770920225611628
+      Slime_boss1_Walk_with_shadow_37: 7346863431198742003
+      Slime_boss1_Walk_with_shadow_38: 5603921489741471040
+      Slime_boss1_Walk_with_shadow_39: 7837375592451835813
+      Slime_boss1_Walk_with_shadow_4: 7352288864073252605
+      Slime_boss1_Walk_with_shadow_40: 2934851621642384965
+      Slime_boss1_Walk_with_shadow_41: 8194228248673401217
+      Slime_boss1_Walk_with_shadow_42: 3341663283335566426
+      Slime_boss1_Walk_with_shadow_43: -754046022236239348
+      Slime_boss1_Walk_with_shadow_44: 2099779057446299412
+      Slime_boss1_Walk_with_shadow_45: 5348079927748442290
+      Slime_boss1_Walk_with_shadow_46: 4061915946154430012
+      Slime_boss1_Walk_with_shadow_47: 1701719016163806630
+      Slime_boss1_Walk_with_shadow_48: 5539690006517792668
+      Slime_boss1_Walk_with_shadow_49: -9119355938496646151
+      Slime_boss1_Walk_with_shadow_5: -8939381307003623812
+      Slime_boss1_Walk_with_shadow_50: 4446550612432417611
+      Slime_boss1_Walk_with_shadow_51: -34663050087270816
+      Slime_boss1_Walk_with_shadow_52: 747819142691739578
+      Slime_boss1_Walk_with_shadow_53: 6496612532244059082
+      Slime_boss1_Walk_with_shadow_54: -3438123841944229872
+      Slime_boss1_Walk_with_shadow_55: -7904101158282073188
+      Slime_boss1_Walk_with_shadow_6: -4108423657234831242
+      Slime_boss1_Walk_with_shadow_7: 620308583690975371
+      Slime_boss1_Walk_with_shadow_8: -2602876509745235577
+      Slime_boss1_Walk_with_shadow_9: 3168868974547036561
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

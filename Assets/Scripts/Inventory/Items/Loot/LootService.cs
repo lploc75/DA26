@@ -53,7 +53,9 @@ public class LootService : MonoBehaviour
         );
 
         Debug.Log($"[DROP] {def.DisplayName} | Lv {lvl} | {rar} | Affixes {affixes.Count} | Price {price}");
-        return uiItem;
+        Debug.Log("Call save");
+        DatabaseManager.Instance.DB.SaveItem(uiItem);
+        return uiItem;       
     }
 
     // --- Helpers ---

@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardman3_Idle_with_shadow_0: 1280375941654476871
+      Lizardman3_Idle_with_shadow_1: -7520767661476543661
+      Lizardman3_Idle_with_shadow_10: 9060997185546266841
+      Lizardman3_Idle_with_shadow_11: 5130696448405910232
+      Lizardman3_Idle_with_shadow_12: 7714549922732341875
+      Lizardman3_Idle_with_shadow_13: -2080852861330357967
+      Lizardman3_Idle_with_shadow_14: -8342567558834153325
+      Lizardman3_Idle_with_shadow_15: 3671786068497563879
+      Lizardman3_Idle_with_shadow_2: 9090028966328642516
+      Lizardman3_Idle_with_shadow_3: -1342186998390855833
+      Lizardman3_Idle_with_shadow_4: 7348920512225281627
+      Lizardman3_Idle_with_shadow_5: -6387629640656808811
+      Lizardman3_Idle_with_shadow_6: 1642368911911003327
+      Lizardman3_Idle_with_shadow_7: -7102021832192938751
+      Lizardman3_Idle_with_shadow_8: -432142667013973714
+      Lizardman3_Idle_with_shadow_9: -2768266430541824399
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

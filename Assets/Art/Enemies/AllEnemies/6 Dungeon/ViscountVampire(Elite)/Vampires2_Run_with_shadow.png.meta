@@ -213,6 +213,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1109,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vampires2_Run_with_shadow_0: 4155790392161395933
+      Vampires2_Run_with_shadow_1: 6944190559123167704
+      Vampires2_Run_with_shadow_10: 4517441538372423884
+      Vampires2_Run_with_shadow_11: -3813756186838210794
+      Vampires2_Run_with_shadow_12: 8617707112396573714
+      Vampires2_Run_with_shadow_13: 440183227567646862
+      Vampires2_Run_with_shadow_14: -984180903677965300
+      Vampires2_Run_with_shadow_15: 1692612338737791902
+      Vampires2_Run_with_shadow_16: -5925966574345448645
+      Vampires2_Run_with_shadow_17: 9054046453042756815
+      Vampires2_Run_with_shadow_18: 3371036105665057622
+      Vampires2_Run_with_shadow_19: -9062343946521300541
+      Vampires2_Run_with_shadow_2: -3963269812488815243
+      Vampires2_Run_with_shadow_20: 8563997292942572697
+      Vampires2_Run_with_shadow_21: 3078801854004119524
+      Vampires2_Run_with_shadow_22: -5218037804778962139
+      Vampires2_Run_with_shadow_23: 8354608349898479348
+      Vampires2_Run_with_shadow_24: -4135375122178807164
+      Vampires2_Run_with_shadow_25: 4577423064837284764
+      Vampires2_Run_with_shadow_26: -799839771726145676
+      Vampires2_Run_with_shadow_27: 587919290590706216
+      Vampires2_Run_with_shadow_28: -6289768783051921598
+      Vampires2_Run_with_shadow_29: -1031330949213528467
+      Vampires2_Run_with_shadow_3: 5457551837174868314
+      Vampires2_Run_with_shadow_30: -7183479328288712510
+      Vampires2_Run_with_shadow_31: -2439162556459612175
+      Vampires2_Run_with_shadow_32: -4997297480577057195
+      Vampires2_Run_with_shadow_33: 3819555586961420485
+      Vampires2_Run_with_shadow_34: 1284163706642277521
+      Vampires2_Run_with_shadow_35: -3675093386362599775
+      Vampires2_Run_with_shadow_36: -5458403184648813450
+      Vampires2_Run_with_shadow_37: -5715838201221258146
+      Vampires2_Run_with_shadow_38: -6726975734593985225
+      Vampires2_Run_with_shadow_39: 1224375480116653082
+      Vampires2_Run_with_shadow_4: -3585628662609253332
+      Vampires2_Run_with_shadow_5: -6138322047948627585
+      Vampires2_Run_with_shadow_6: -4172526043987894170
+      Vampires2_Run_with_shadow_7: 5995337300272292299
+      Vampires2_Run_with_shadow_8: -3290766816382096024
+      Vampires2_Run_with_shadow_9: 4670384449090855519
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

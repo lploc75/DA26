@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Demon3_Idle_with_shadow_0: 5678705522267029427
+      Demon3_Idle_with_shadow_1: 8340107326055009277
+      Demon3_Idle_with_shadow_10: -3459153438178939880
+      Demon3_Idle_with_shadow_11: -6056480105811240948
+      Demon3_Idle_with_shadow_12: 7713087168952023840
+      Demon3_Idle_with_shadow_13: -6140016199034437488
+      Demon3_Idle_with_shadow_14: 1457261606817991256
+      Demon3_Idle_with_shadow_15: -278594929149164141
+      Demon3_Idle_with_shadow_2: -8645121036627804642
+      Demon3_Idle_with_shadow_3: -2470439207031515853
+      Demon3_Idle_with_shadow_4: 4995823229420871722
+      Demon3_Idle_with_shadow_5: -4785244630027813264
+      Demon3_Idle_with_shadow_6: -8825942918099382679
+      Demon3_Idle_with_shadow_7: -58659370581106500
+      Demon3_Idle_with_shadow_8: -2050405845584857002
+      Demon3_Idle_with_shadow_9: -6397154148124218211
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

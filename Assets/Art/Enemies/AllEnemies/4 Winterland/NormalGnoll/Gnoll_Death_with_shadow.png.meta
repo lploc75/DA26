@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gnoll_Death_with_shadow_0: -3774777227206731270
+      Gnoll_Death_with_shadow_1: 6999853450601357024
+      Gnoll_Death_with_shadow_10: -6349495704906314510
+      Gnoll_Death_with_shadow_11: 3962419796151393259
+      Gnoll_Death_with_shadow_12: 5592393178588462058
+      Gnoll_Death_with_shadow_13: 2862926138003834385
+      Gnoll_Death_with_shadow_14: 3534634339634144020
+      Gnoll_Death_with_shadow_15: 7978790562668373515
+      Gnoll_Death_with_shadow_16: 508519600443441906
+      Gnoll_Death_with_shadow_17: -112459482130766687
+      Gnoll_Death_with_shadow_18: 4791373224881763902
+      Gnoll_Death_with_shadow_19: 5926786979211975903
+      Gnoll_Death_with_shadow_2: -909258247455838660
+      Gnoll_Death_with_shadow_20: -8569675910450084577
+      Gnoll_Death_with_shadow_21: -2472360342450078233
+      Gnoll_Death_with_shadow_22: 7039429068053567540
+      Gnoll_Death_with_shadow_23: 3265726712645716354
+      Gnoll_Death_with_shadow_3: 6668146745009322221
+      Gnoll_Death_with_shadow_4: 5122349854091241139
+      Gnoll_Death_with_shadow_5: 4244996372552201994
+      Gnoll_Death_with_shadow_6: -8404575105181023537
+      Gnoll_Death_with_shadow_7: -7411822083585094005
+      Gnoll_Death_with_shadow_8: -8070816942890986511
+      Gnoll_Death_with_shadow_9: 2418338357394212064
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

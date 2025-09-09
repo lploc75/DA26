@@ -177,6 +177,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -809,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost1_Run_with_shadow_0: -212433081204796470
+      Ghost1_Run_with_shadow_1: -2553981246042317765
+      Ghost1_Run_with_shadow_10: -7651978191866714376
+      Ghost1_Run_with_shadow_11: -1233091330417606552
+      Ghost1_Run_with_shadow_12: 3772572190187884085
+      Ghost1_Run_with_shadow_13: 8633523106868844919
+      Ghost1_Run_with_shadow_14: -3702431603658452222
+      Ghost1_Run_with_shadow_15: 4188515048272811524
+      Ghost1_Run_with_shadow_16: -5517548109413068019
+      Ghost1_Run_with_shadow_17: 2301506878559473169
+      Ghost1_Run_with_shadow_18: -4764601522767543337
+      Ghost1_Run_with_shadow_19: -4549900640840389675
+      Ghost1_Run_with_shadow_2: -8877188606572939493
+      Ghost1_Run_with_shadow_20: 1243279174584368752
+      Ghost1_Run_with_shadow_21: -658410817925867615
+      Ghost1_Run_with_shadow_22: 7772131859514259127
+      Ghost1_Run_with_shadow_23: 30378999164432208
+      Ghost1_Run_with_shadow_24: 1577005332666539316
+      Ghost1_Run_with_shadow_25: -1523001029866738039
+      Ghost1_Run_with_shadow_26: -7867515103942532269
+      Ghost1_Run_with_shadow_27: -3909747525482553918
+      Ghost1_Run_with_shadow_3: -7738114647298362294
+      Ghost1_Run_with_shadow_4: 2803394064928960687
+      Ghost1_Run_with_shadow_5: 3348928663448776303
+      Ghost1_Run_with_shadow_6: 2055375993640915680
+      Ghost1_Run_with_shadow_7: -3953575091962078521
+      Ghost1_Run_with_shadow_8: 7494646461142809080
+      Ghost1_Run_with_shadow_9: 7022575438622378272
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

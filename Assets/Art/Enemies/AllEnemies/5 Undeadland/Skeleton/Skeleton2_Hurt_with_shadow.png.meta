@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton2_Hurt_with_shadow_0: -1534837871560144095
+      Skeleton2_Hurt_with_shadow_1: 1485150897002526756
+      Skeleton2_Hurt_with_shadow_10: -8063149311832475958
+      Skeleton2_Hurt_with_shadow_11: -7857603804269416862
+      Skeleton2_Hurt_with_shadow_12: 5443055693250626309
+      Skeleton2_Hurt_with_shadow_13: 1285432217024399682
+      Skeleton2_Hurt_with_shadow_14: -8709957512941170845
+      Skeleton2_Hurt_with_shadow_15: -4393222794648347032
+      Skeleton2_Hurt_with_shadow_2: -2601505537636959130
+      Skeleton2_Hurt_with_shadow_3: -1220486062764803190
+      Skeleton2_Hurt_with_shadow_4: 5358193331151118376
+      Skeleton2_Hurt_with_shadow_5: -3582425020958930735
+      Skeleton2_Hurt_with_shadow_6: 4432773092734963425
+      Skeleton2_Hurt_with_shadow_7: -7247326998094515969
+      Skeleton2_Hurt_with_shadow_8: -7411797801735054866
+      Skeleton2_Hurt_with_shadow_9: 5378649487282354588
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
