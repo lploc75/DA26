@@ -8746,6 +8746,50 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 4352671717524675007, guid: 76489bed8be8be44f9ae3c90be419e06, type: 3}
   m_PrefabInstance: {fileID: 381888620}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &383976786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 383976788}
+  - component: {fileID: 383976787}
+  m_Layer: 0
+  m_Name: DatabasePlayer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &383976787
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 383976786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbb1aa8e137b6d8439901e5ffb3336b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &383976788
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 383976786}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 614.2396, y: 291.7996, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &388411113
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30555,7 +30599,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.8148148, y: 0.8319328}
   m_AnchorMax: {x: 1, y: 0.9831933}
-  m_AnchoredPosition: {x: 0.000030517578, y: 10.000015}
+  m_AnchoredPosition: {x: 0.000030517578, y: 10}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1503747199
@@ -31196,7 +31240,7 @@ MonoBehaviour:
     ManaRegen: 0
     Level: 0
     RemainPoints: 0
-  dbManager: {fileID: 0}
+  dbManager: {fileID: 383976787}
 --- !u!4 &1532017028
 Transform:
   m_ObjectHideFlags: 0
@@ -37066,7 +37110,7 @@ GameObject:
   - component: {fileID: 1792274722}
   - component: {fileID: 1792274721}
   m_Layer: 0
-  m_Name: DatabaseManager
+  m_Name: DatabaseItem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44818,3 +44862,4 @@ SceneRoots:
   - {fileID: 629691776}
   - {fileID: 1548378944}
   - {fileID: 1792274722}
+  - {fileID: 383976788}
