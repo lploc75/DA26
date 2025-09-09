@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vampires1_Walk_with_shadow_0: 221765709071657554
+      Vampires1_Walk_with_shadow_1: 6763049587183392568
+      Vampires1_Walk_with_shadow_10: 6826517531845449506
+      Vampires1_Walk_with_shadow_11: 2485175089436360805
+      Vampires1_Walk_with_shadow_12: -7661405269482426532
+      Vampires1_Walk_with_shadow_13: -5723236248389763285
+      Vampires1_Walk_with_shadow_14: 7899497597024362209
+      Vampires1_Walk_with_shadow_15: 7638904744927997813
+      Vampires1_Walk_with_shadow_16: 6970913593254746432
+      Vampires1_Walk_with_shadow_17: 3557496583819357610
+      Vampires1_Walk_with_shadow_18: -757236646712221752
+      Vampires1_Walk_with_shadow_19: 1884173678726191691
+      Vampires1_Walk_with_shadow_2: 2020973303990203779
+      Vampires1_Walk_with_shadow_20: 2315534340720446507
+      Vampires1_Walk_with_shadow_21: 7123258871292162190
+      Vampires1_Walk_with_shadow_22: 3986340368931549804
+      Vampires1_Walk_with_shadow_23: 8597098045385776671
+      Vampires1_Walk_with_shadow_3: -6417878724354838575
+      Vampires1_Walk_with_shadow_4: 7774687530326564475
+      Vampires1_Walk_with_shadow_5: -8974120902603320875
+      Vampires1_Walk_with_shadow_6: 7832115028372445408
+      Vampires1_Walk_with_shadow_7: -5301377168554565486
+      Vampires1_Walk_with_shadow_8: 1762259920895315265
+      Vampires1_Walk_with_shadow_9: -1105029149840241691
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

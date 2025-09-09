@@ -261,6 +261,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1509,7 +1522,63 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ent2_Attack_with_shadow_0: -7967364959326961099
+      Ent2_Attack_with_shadow_1: 6706266351840901542
+      Ent2_Attack_with_shadow_10: -3383158981416309318
+      Ent2_Attack_with_shadow_11: -5439867760634819311
+      Ent2_Attack_with_shadow_12: -198856506737354683
+      Ent2_Attack_with_shadow_13: 729888658200780978
+      Ent2_Attack_with_shadow_14: 1354078009768234698
+      Ent2_Attack_with_shadow_15: 1710274432924296819
+      Ent2_Attack_with_shadow_16: 5451236415990601242
+      Ent2_Attack_with_shadow_17: 4516440667121914828
+      Ent2_Attack_with_shadow_18: 778686292481451296
+      Ent2_Attack_with_shadow_19: 2850878719570851857
+      Ent2_Attack_with_shadow_2: -6544095624523588626
+      Ent2_Attack_with_shadow_20: -5320919187340578043
+      Ent2_Attack_with_shadow_21: 5310707096149819514
+      Ent2_Attack_with_shadow_22: -9216657107538927157
+      Ent2_Attack_with_shadow_23: -6449056661593400613
+      Ent2_Attack_with_shadow_24: -937797028179958617
+      Ent2_Attack_with_shadow_25: 5433938438457431366
+      Ent2_Attack_with_shadow_26: -5105241538352053462
+      Ent2_Attack_with_shadow_27: -7693778480967143998
+      Ent2_Attack_with_shadow_28: -3780492763235158852
+      Ent2_Attack_with_shadow_29: 7742598591476874460
+      Ent2_Attack_with_shadow_3: -4320155371158092707
+      Ent2_Attack_with_shadow_30: -7980353056854869262
+      Ent2_Attack_with_shadow_31: -7563307425670441506
+      Ent2_Attack_with_shadow_32: -8763493280086223428
+      Ent2_Attack_with_shadow_33: 4256464435593256932
+      Ent2_Attack_with_shadow_34: -5858773386458194095
+      Ent2_Attack_with_shadow_35: -7597334621500892410
+      Ent2_Attack_with_shadow_36: -7002114137602532007
+      Ent2_Attack_with_shadow_37: 6800840891294797426
+      Ent2_Attack_with_shadow_38: 2917139737077190747
+      Ent2_Attack_with_shadow_39: -548226599860868929
+      Ent2_Attack_with_shadow_4: 3442691984631989095
+      Ent2_Attack_with_shadow_40: 6176058105475830280
+      Ent2_Attack_with_shadow_41: -3021387363076833755
+      Ent2_Attack_with_shadow_42: -3689291209483658357
+      Ent2_Attack_with_shadow_43: 35474304707423790
+      Ent2_Attack_with_shadow_44: 2382064471109784366
+      Ent2_Attack_with_shadow_45: 2400653591677936224
+      Ent2_Attack_with_shadow_46: 6535208369707714055
+      Ent2_Attack_with_shadow_47: -6913258577380595480
+      Ent2_Attack_with_shadow_48: 7494808184892376916
+      Ent2_Attack_with_shadow_49: 3601422316656739791
+      Ent2_Attack_with_shadow_5: 7375110751375424097
+      Ent2_Attack_with_shadow_50: 5913873527814197607
+      Ent2_Attack_with_shadow_51: 7308264410456808710
+      Ent2_Attack_with_shadow_52: -2498652235692745860
+      Ent2_Attack_with_shadow_53: 2418141042362035612
+      Ent2_Attack_with_shadow_54: -2003474195944277836
+      Ent2_Attack_with_shadow_55: -2876349595170656425
+      Ent2_Attack_with_shadow_6: 7803206161819223414
+      Ent2_Attack_with_shadow_7: -7327067539065510593
+      Ent2_Attack_with_shadow_8: -6130927120253863769
+      Ent2_Attack_with_shadow_9: -3911151790556012159
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

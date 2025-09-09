@@ -192,6 +192,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -934,7 +947,40 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mushroom3_Attack_with_shadow_0: -9183268100998844169
+      Mushroom3_Attack_with_shadow_1: 6749948187969808378
+      Mushroom3_Attack_with_shadow_10: 739467104547403025
+      Mushroom3_Attack_with_shadow_11: 2477107052813064983
+      Mushroom3_Attack_with_shadow_12: -5263400705355961074
+      Mushroom3_Attack_with_shadow_13: -5855682009086929345
+      Mushroom3_Attack_with_shadow_14: -6707514567667086829
+      Mushroom3_Attack_with_shadow_15: 7897150318179200180
+      Mushroom3_Attack_with_shadow_16: -2336999264089221395
+      Mushroom3_Attack_with_shadow_17: -5004717708865290035
+      Mushroom3_Attack_with_shadow_18: -7937636058537728131
+      Mushroom3_Attack_with_shadow_19: 5308487483571380683
+      Mushroom3_Attack_with_shadow_2: 5579735822198517504
+      Mushroom3_Attack_with_shadow_20: 6775659212993865745
+      Mushroom3_Attack_with_shadow_21: 1257315185283159086
+      Mushroom3_Attack_with_shadow_22: -1088259638133710437
+      Mushroom3_Attack_with_shadow_23: -4259598418300686354
+      Mushroom3_Attack_with_shadow_24: -324234103360131167
+      Mushroom3_Attack_with_shadow_25: -7160336411583519537
+      Mushroom3_Attack_with_shadow_26: -2178117561207916612
+      Mushroom3_Attack_with_shadow_27: -5742563694934458198
+      Mushroom3_Attack_with_shadow_28: -3215784533558651058
+      Mushroom3_Attack_with_shadow_29: -7243081574345806191
+      Mushroom3_Attack_with_shadow_3: -2835154885391781444
+      Mushroom3_Attack_with_shadow_30: 7885357662937729917
+      Mushroom3_Attack_with_shadow_31: -6422260963240534931
+      Mushroom3_Attack_with_shadow_32: 5276819196058252001
+      Mushroom3_Attack_with_shadow_4: 3121473942562762042
+      Mushroom3_Attack_with_shadow_5: 4338549154840095961
+      Mushroom3_Attack_with_shadow_6: 3161806751542731222
+      Mushroom3_Attack_with_shadow_7: 865460597655089031
+      Mushroom3_Attack_with_shadow_8: -2095845959953466720
+      Mushroom3_Attack_with_shadow_9: 1313334795864638779
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

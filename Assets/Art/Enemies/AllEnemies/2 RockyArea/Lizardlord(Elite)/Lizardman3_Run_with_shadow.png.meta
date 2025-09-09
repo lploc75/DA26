@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardman3_Run_with_shadow_0: 1453474645140635588
+      Lizardman3_Run_with_shadow_1: -5978970299031081905
+      Lizardman3_Run_with_shadow_10: -6472983499191257220
+      Lizardman3_Run_with_shadow_11: 714433717338710558
+      Lizardman3_Run_with_shadow_12: 4673983743213618499
+      Lizardman3_Run_with_shadow_13: 28537732204335523
+      Lizardman3_Run_with_shadow_14: -5533311762778212411
+      Lizardman3_Run_with_shadow_15: 8734762970877845589
+      Lizardman3_Run_with_shadow_16: 2096514785706883050
+      Lizardman3_Run_with_shadow_17: 8086599338791683514
+      Lizardman3_Run_with_shadow_18: -5125325550645991179
+      Lizardman3_Run_with_shadow_19: -1911710360149610942
+      Lizardman3_Run_with_shadow_2: 8375394335602454722
+      Lizardman3_Run_with_shadow_20: -4704221608162797922
+      Lizardman3_Run_with_shadow_21: 2279067564254055615
+      Lizardman3_Run_with_shadow_22: -3624616646273064682
+      Lizardman3_Run_with_shadow_23: -6762755593020233913
+      Lizardman3_Run_with_shadow_24: 8563489057414063236
+      Lizardman3_Run_with_shadow_25: -4869716159702108869
+      Lizardman3_Run_with_shadow_26: -8956290106228511060
+      Lizardman3_Run_with_shadow_27: 7576989548349372112
+      Lizardman3_Run_with_shadow_28: -3377939181675408185
+      Lizardman3_Run_with_shadow_29: -6220558542991737061
+      Lizardman3_Run_with_shadow_3: -2393255373990038086
+      Lizardman3_Run_with_shadow_30: 4778013021791635761
+      Lizardman3_Run_with_shadow_31: -972506597635710029
+      Lizardman3_Run_with_shadow_4: -6244223719629009175
+      Lizardman3_Run_with_shadow_5: 9133820311988605072
+      Lizardman3_Run_with_shadow_6: -7398337244161119331
+      Lizardman3_Run_with_shadow_7: 8687729392695224730
+      Lizardman3_Run_with_shadow_8: 3483451513317689542
+      Lizardman3_Run_with_shadow_9: -7852114933304811841
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

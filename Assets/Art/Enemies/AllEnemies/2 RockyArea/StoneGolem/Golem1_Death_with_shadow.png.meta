@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golem1_Death_with_shadow_0: -2360859915172648205
+      Golem1_Death_with_shadow_1: 5289179929395387795
+      Golem1_Death_with_shadow_10: 1166923056852678877
+      Golem1_Death_with_shadow_11: 6644699893555399945
+      Golem1_Death_with_shadow_12: 501595007867737544
+      Golem1_Death_with_shadow_13: -5653394407246015341
+      Golem1_Death_with_shadow_14: 2159887463487965220
+      Golem1_Death_with_shadow_15: 385607545988532090
+      Golem1_Death_with_shadow_16: -4999196381908031742
+      Golem1_Death_with_shadow_17: -3727188555719994265
+      Golem1_Death_with_shadow_18: -3747340358883331414
+      Golem1_Death_with_shadow_19: 1715292715494493208
+      Golem1_Death_with_shadow_2: -2689586235255299684
+      Golem1_Death_with_shadow_20: 3970780075626406777
+      Golem1_Death_with_shadow_21: 5294905165269576314
+      Golem1_Death_with_shadow_22: -7968058951088176865
+      Golem1_Death_with_shadow_23: 4081327363731088599
+      Golem1_Death_with_shadow_24: -7643179468741611345
+      Golem1_Death_with_shadow_25: 8556682321580314498
+      Golem1_Death_with_shadow_26: 9209172453679731284
+      Golem1_Death_with_shadow_27: -1133262086898598751
+      Golem1_Death_with_shadow_28: -5501278266880283207
+      Golem1_Death_with_shadow_29: -8896467804457529216
+      Golem1_Death_with_shadow_3: -5651656482483686403
+      Golem1_Death_with_shadow_30: -994252116737947820
+      Golem1_Death_with_shadow_31: 1719333542462696006
+      Golem1_Death_with_shadow_4: -5646928739016294960
+      Golem1_Death_with_shadow_5: 3658413015831600770
+      Golem1_Death_with_shadow_6: -2806174080579637236
+      Golem1_Death_with_shadow_7: 1713146748882102625
+      Golem1_Death_with_shadow_8: -4235413028351659778
+      Golem1_Death_with_shadow_9: -6525474226808395704
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orc2_death_with_shadow_0: 7522869305890103942
+      orc2_death_with_shadow_1: -3918226986528652945
+      orc2_death_with_shadow_10: 2302632234842223081
+      orc2_death_with_shadow_11: -5330757871512895291
+      orc2_death_with_shadow_12: -8522926752091602157
+      orc2_death_with_shadow_13: -5949698442595688151
+      orc2_death_with_shadow_14: 4740592017431677045
+      orc2_death_with_shadow_15: 4218244698464111419
+      orc2_death_with_shadow_16: 5741962430913304562
+      orc2_death_with_shadow_17: 1700817452091989525
+      orc2_death_with_shadow_18: -6526919553490690381
+      orc2_death_with_shadow_19: 376686411178409127
+      orc2_death_with_shadow_2: 7511770173669497526
+      orc2_death_with_shadow_20: 8232620214329771226
+      orc2_death_with_shadow_21: -4221694811947126400
+      orc2_death_with_shadow_22: -7951080519461728144
+      orc2_death_with_shadow_23: 4575206795315884261
+      orc2_death_with_shadow_24: -7532899886752460476
+      orc2_death_with_shadow_25: 8177617312651699731
+      orc2_death_with_shadow_26: -2227854817753315289
+      orc2_death_with_shadow_27: -4165791204816242969
+      orc2_death_with_shadow_28: -8483290146714189579
+      orc2_death_with_shadow_29: 8799748131838540657
+      orc2_death_with_shadow_3: -6989696270831465849
+      orc2_death_with_shadow_30: -7170044738118627180
+      orc2_death_with_shadow_31: 7152704835620068011
+      orc2_death_with_shadow_4: 4166741183732356649
+      orc2_death_with_shadow_5: -1513595011195686994
+      orc2_death_with_shadow_6: -1213565299305682545
+      orc2_death_with_shadow_7: -5200908898673902777
+      orc2_death_with_shadow_8: 2052588576657270838
+      orc2_death_with_shadow_9: 4868319505049475609
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mushroom3_Run_with_shadow_0: -5326278728128478113
+      Mushroom3_Run_with_shadow_1: 8903374450291614968
+      Mushroom3_Run_with_shadow_10: -4329162339597993558
+      Mushroom3_Run_with_shadow_11: 4269658512493100582
+      Mushroom3_Run_with_shadow_12: 2170350514221093280
+      Mushroom3_Run_with_shadow_13: -4463429306332902708
+      Mushroom3_Run_with_shadow_14: 5538576816694716165
+      Mushroom3_Run_with_shadow_15: 8211199860705587601
+      Mushroom3_Run_with_shadow_16: 7021317205773219283
+      Mushroom3_Run_with_shadow_17: 9001766099669136339
+      Mushroom3_Run_with_shadow_18: 1730293215701456577
+      Mushroom3_Run_with_shadow_19: -5839523873737011919
+      Mushroom3_Run_with_shadow_2: 7684594989161279944
+      Mushroom3_Run_with_shadow_20: 3473457592548272356
+      Mushroom3_Run_with_shadow_21: 8323083375895502015
+      Mushroom3_Run_with_shadow_22: 2718786418317381239
+      Mushroom3_Run_with_shadow_23: -2084295047963249677
+      Mushroom3_Run_with_shadow_3: -701381450713002611
+      Mushroom3_Run_with_shadow_4: -3325894096059412345
+      Mushroom3_Run_with_shadow_5: 1762069764057478416
+      Mushroom3_Run_with_shadow_6: -9014168610215110844
+      Mushroom3_Run_with_shadow_7: -6871502770867627595
+      Mushroom3_Run_with_shadow_8: 4653289208220104495
+      Mushroom3_Run_with_shadow_9: 1989336595270981355
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

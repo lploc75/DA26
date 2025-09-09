@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vampires2_Idle_with_shadow_0: 1672575443999941886
+      Vampires2_Idle_with_shadow_1: 5466258849384442699
+      Vampires2_Idle_with_shadow_10: 152500640543377175
+      Vampires2_Idle_with_shadow_11: 6500841682182026359
+      Vampires2_Idle_with_shadow_12: 6855784380109979047
+      Vampires2_Idle_with_shadow_13: 1614730270376515469
+      Vampires2_Idle_with_shadow_14: 435340216462436636
+      Vampires2_Idle_with_shadow_15: -2414249818200807071
+      Vampires2_Idle_with_shadow_2: 1363521307537872147
+      Vampires2_Idle_with_shadow_3: 8149608260652475270
+      Vampires2_Idle_with_shadow_4: -42640380057533684
+      Vampires2_Idle_with_shadow_5: -5321074291026549431
+      Vampires2_Idle_with_shadow_6: 7558614662349039498
+      Vampires2_Idle_with_shadow_7: 4677432563442585061
+      Vampires2_Idle_with_shadow_8: 1641180110195049188
+      Vampires2_Idle_with_shadow_9: 8795617333956762770
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

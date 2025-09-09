@@ -183,6 +183,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -859,7 +872,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orc2_walk_attack_with_shadow_0: 3771281205942505660
+      orc2_walk_attack_with_shadow_1: 3142196040141709499
+      orc2_walk_attack_with_shadow_10: 6736895476526588444
+      orc2_walk_attack_with_shadow_11: 5852058326159799494
+      orc2_walk_attack_with_shadow_12: -8076528249099109174
+      orc2_walk_attack_with_shadow_13: 8914602278113013765
+      orc2_walk_attack_with_shadow_14: -8813923847542990902
+      orc2_walk_attack_with_shadow_15: -7953301245052379752
+      orc2_walk_attack_with_shadow_16: -6179913461775854706
+      orc2_walk_attack_with_shadow_17: 3783884548128036815
+      orc2_walk_attack_with_shadow_18: -1173721622283507426
+      orc2_walk_attack_with_shadow_19: 7477788381611546755
+      orc2_walk_attack_with_shadow_2: 8650231549509851286
+      orc2_walk_attack_with_shadow_20: 1880059345252189911
+      orc2_walk_attack_with_shadow_21: 903485033683018011
+      orc2_walk_attack_with_shadow_22: -3223746783682223583
+      orc2_walk_attack_with_shadow_23: -7846153981892928885
+      orc2_walk_attack_with_shadow_24: 2164230355357599991
+      orc2_walk_attack_with_shadow_25: 7473990375868128710
+      orc2_walk_attack_with_shadow_26: -5560546889643302705
+      orc2_walk_attack_with_shadow_27: -997639254895769595
+      orc2_walk_attack_with_shadow_28: 2402931552480235050
+      orc2_walk_attack_with_shadow_29: -354170689186984901
+      orc2_walk_attack_with_shadow_3: -3934133171925481087
+      orc2_walk_attack_with_shadow_4: -7560161135700428893
+      orc2_walk_attack_with_shadow_5: 123525402469356355
+      orc2_walk_attack_with_shadow_6: -2849654102918604497
+      orc2_walk_attack_with_shadow_7: 6827836106542450818
+      orc2_walk_attack_with_shadow_8: -7400874937708148194
+      orc2_walk_attack_with_shadow_9: -7581207139879872249
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

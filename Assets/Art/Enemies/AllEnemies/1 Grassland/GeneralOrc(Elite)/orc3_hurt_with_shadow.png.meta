@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orc3_hurt_with_shadow_0: -9037446864028475514
+      orc3_hurt_with_shadow_1: -8617435391312342958
+      orc3_hurt_with_shadow_10: -8655689566622812157
+      orc3_hurt_with_shadow_11: -6718193228687283583
+      orc3_hurt_with_shadow_12: 8888910624774046938
+      orc3_hurt_with_shadow_13: -1194484497647314199
+      orc3_hurt_with_shadow_14: 1292240981126233523
+      orc3_hurt_with_shadow_15: -1251661317670464279
+      orc3_hurt_with_shadow_16: -6577820195813870962
+      orc3_hurt_with_shadow_17: 5982963965572975045
+      orc3_hurt_with_shadow_18: -1439195308919684100
+      orc3_hurt_with_shadow_19: 2970142828686238449
+      orc3_hurt_with_shadow_2: 6244795472808545245
+      orc3_hurt_with_shadow_20: 8516173745511500227
+      orc3_hurt_with_shadow_21: 1487785589088025339
+      orc3_hurt_with_shadow_22: 7651332704977901454
+      orc3_hurt_with_shadow_23: -1673812074615360662
+      orc3_hurt_with_shadow_3: -7584491262137767694
+      orc3_hurt_with_shadow_4: -8065633068454010121
+      orc3_hurt_with_shadow_5: 6682285918812368378
+      orc3_hurt_with_shadow_6: -6942642718940344732
+      orc3_hurt_with_shadow_7: 1503625761684206576
+      orc3_hurt_with_shadow_8: -4650604733063533786
+      orc3_hurt_with_shadow_9: -3960113826263574354
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

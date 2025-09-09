@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orc2_walk_with_shadow_0: 4735518601252556738
+      orc2_walk_with_shadow_1: -609919074430211908
+      orc2_walk_with_shadow_10: -7475059196225035623
+      orc2_walk_with_shadow_11: 5021295019761589924
+      orc2_walk_with_shadow_12: 1988993014941172863
+      orc2_walk_with_shadow_13: 7044772355618009046
+      orc2_walk_with_shadow_14: 3048145646691040220
+      orc2_walk_with_shadow_15: -5153386453896702170
+      orc2_walk_with_shadow_16: 6496706946034885948
+      orc2_walk_with_shadow_17: -5547269638247685071
+      orc2_walk_with_shadow_18: -5160966265530758432
+      orc2_walk_with_shadow_19: 3891665813896856044
+      orc2_walk_with_shadow_2: 51190393742712714
+      orc2_walk_with_shadow_20: 8359092762899605092
+      orc2_walk_with_shadow_21: 5410921769510096099
+      orc2_walk_with_shadow_22: -8535255523048711117
+      orc2_walk_with_shadow_23: -8378685118320941037
+      orc2_walk_with_shadow_3: -5701638615936900652
+      orc2_walk_with_shadow_4: -2439889353631961239
+      orc2_walk_with_shadow_5: 5962623853260124524
+      orc2_walk_with_shadow_6: -6171666047337140642
+      orc2_walk_with_shadow_7: 7123816531268513244
+      orc2_walk_with_shadow_8: -2226646132448816026
+      orc2_walk_with_shadow_9: 1691886523240586475
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
