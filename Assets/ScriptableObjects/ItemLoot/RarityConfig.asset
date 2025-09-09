@@ -18,68 +18,68 @@ MonoBehaviour:
     Epic: 3
     Legendary: 4
   BonusTable:
-  - Stat: 0   # Strength
+  - Stat: 0
     Uncommon: 1
     Rare: 2
     Epic: 3
     Legendary: 5
-  - Stat: 1   # Agility
+  - Stat: 1
     Uncommon: 1
     Rare: 2
     Epic: 3
     Legendary: 5
-  - Stat: 2   # Intelligence
+  - Stat: 2
     Uncommon: 1
     Rare: 2
     Epic: 3
     Legendary: 5
-  - Stat: 3   # Vitality
+  - Stat: 3
     Uncommon: 1
     Rare: 2
     Epic: 3
     Legendary: 5
-  - Stat: 4   # Wisdom
+  - Stat: 4
     Uncommon: 1
     Rare: 2
     Epic: 3
     Legendary: 5
-  - Stat: 5   # Health
+  - Stat: 5
     Uncommon: 10
     Rare: 20
     Epic: 40
     Legendary: 70
-  - Stat: 6   # Mana
+  - Stat: 6
     Uncommon: 10
     Rare: 20
     Epic: 40
     Legendary: 70
-  - Stat: 7   # Armor
+  - Stat: 7
     Uncommon: 5
     Rare: 10
     Epic: 20
     Legendary: 35
-  - Stat: 8   # BaseDamage
+  - Stat: 8
     Uncommon: 1
     Rare: 2
     Epic: 3
     Legendary: 5
-  - Stat: 9   # CritChance (%)
+  - Stat: 9
     Uncommon: 2
     Rare: 4
     Epic: 6
     Legendary: 10
-  - Stat: 10  # CritDamagePct (%)
+  - Stat: 10
     Uncommon: 10
     Rare: 20
     Epic: 35
     Legendary: 50
-  - Stat: 11  # HealthRegenPerSec
-    Uncommon: 0.5
+  - Stat: 11
+    Uncommon: 1
     Rare: 1
     Epic: 1.5
     Legendary: 2.5
-  - Stat: 12  # ManaRegenPerSec
-    Uncommon: 0.5
+  - Stat: 12
+    Uncommon: 1
     Rare: 1
     Epic: 1.5
     Legendary: 2.5

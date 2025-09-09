@@ -12,7 +12,7 @@ namespace Assets.Scripts.Database
     using Assets.Scripts.DTO;
     using Unity.VisualScripting.Dependencies.Sqlite;
 
-    public class DatabaseManager : MonoBehaviour
+    public class DatabasePlayerManager : MonoBehaviour
     {
         private static SQLiteConnection db;
 

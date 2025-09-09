@@ -14,7 +14,7 @@ public class PlayerStatsManager : MonoBehaviour
     [Header("Dữ liệu runtime")]
     public CharacterStats currentStats;
 
-    public DatabaseManager dbManager; // gắn trong Inspector
+    public DatabasePlayerManager dbManager; // gắn trong Inspector
 
     void Start()
     {
