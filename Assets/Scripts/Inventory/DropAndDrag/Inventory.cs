@@ -29,6 +29,42 @@ namespace Scripts.Inventory
                     }
                 }
             }
+            Debug.Log("=== Inventory.Start() ===");
+
+            if (DatabaseManager.Instance == null)
+            {
+                Debug.LogError("❌ DatabaseManager.Instance is NULL");
+                return;
+            }
+
+            if (DatabaseManager.Instance.DB == null)
+            {
+                Debug.LogError("❌ DatabaseManager.Instance.DB is NULL");
+                return;
+            }
+
+            var savedItems = DatabaseManager.Instance.DB.LoadItems();
+
+            if (savedItems == null)
+            {
+                Debug.LogWarning("⚠️ savedItems is NULL");
+                return;
+            }
+
+            Debug.Log($"✅ Loaded {savedItems.Count} items from DB");
+
+            foreach (var item in savedItems)
+            {
+                if (item == null)
+                {
+                    Debug.LogWarning("⚠️ One of the loaded items is NULL");
+                    continue;
+                }
+
+                Debug.Log($"AddItem: {item.DefId} | Rarity: {item.Rarity} | Level: {item.ItemLevel}");
+                AddItem(item);
+            }
+
         }
 
         public bool HasFreeSpace()

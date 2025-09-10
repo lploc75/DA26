@@ -1,6 +1,9 @@
 ﻿// Thuộc nhóm: StatsSystem
 // Reference: BaseStats (biến baseStats)
 // Reference: CharacterStats (biến currentStats)
+using System;
+using Assets.Scripts.Database;
+using Assets.Scripts.DTO;
 using UnityEngine;
 
 public class PlayerStatsManager : MonoBehaviour
@@ -11,11 +14,19 @@ public class PlayerStatsManager : MonoBehaviour
     [Header("Dữ liệu runtime")]
     public CharacterStats currentStats;
 
+    public DatabasePlayerManager dbManager; // gắn trong Inspector
+
     void Start()
     {
         currentStats = new CharacterStats(baseStats);
         currentStats.RecalculateStats(true);
 
+        // Nếu có dữ liệu cũ thì load lại
+        var savedData = dbManager.LoadPlayer();
+        if (savedData != null)
+        {
+            ApplyDataToStats(savedData);
+        }
         // Debug test
         Debug.Log($"==== PLAYER STATS ====");
         Debug.Log($"Level: {currentStats.Level}");
@@ -35,6 +46,39 @@ public class PlayerStatsManager : MonoBehaviour
         Debug.Log($"Mana Regen: {currentStats.ManaRegen:F1}");
         Debug.Log($"Remain Points: {currentStats.RemainPoints}");
         Debug.Log("=======================");
+    }
+    public void SaveStats()
+    {
+        dbManager.SavePlayer(currentStats);
+    }
+    public void ApplyDataToStats(PlayerData data)
+    {
+        currentStats.CurrentHealth = data.CurrentHealth;
+        currentStats.MaxHealth = data.MaxHealth;
+        currentStats.CurrentMana = data.CurrentMana;
+        currentStats.MaxMana = data.MaxMana;
+        currentStats.CurrentHunger = data.CurrentHunger;
+        currentStats.MaxHunger = data.MaxHunger;
+        currentStats.CurrentSanity = data.CurrentSanity;
+        currentStats.MaxSanity = data.MaxSanity;
+        currentStats.CurrentStamina = data.CurrentStamina;
+        currentStats.MaxStamina = data.MaxStamina;
+
+        currentStats.STR = data.STR;
+        currentStats.AGI = data.AGI;
+        currentStats.INT = data.INT;
+        currentStats.VIT = data.VIT;
+        currentStats.WIS = data.WIS;
+
+        currentStats.Armor = data.Armor;
+        currentStats.BaseDamage = data.BaseDamage;
+        currentStats.CritChance = data.CritChance;
+        currentStats.CritDamage = data.CritDamage;
+        currentStats.HealthRegen = data.HealthRegen;
+        currentStats.ManaRegen = data.ManaRegen;
+
+        currentStats.Level = data.Level;
+        currentStats.RemainPoints = data.RemainPoints;
     }
     public void AddPointToStat(string statName)
     {
@@ -63,5 +107,6 @@ public class PlayerStatsManager : MonoBehaviour
                   $"AGI:{currentStats.AGI} | INT:{currentStats.INT} | " +
                   $"VIT:{currentStats.VIT} | WIS:{currentStats.WIS} | " +
                   $"Remain:{currentStats.RemainPoints}");
+        SaveStats();
     }
 }

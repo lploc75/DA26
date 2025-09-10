@@ -19,7 +19,7 @@ public class LootTestSpawner : MonoBehaviour
             if (!lootService || !inventory) { Debug.LogWarning("Missing refs"); return; }
             var item = lootService.GenerateOneItemByRegion(currentRegionId, playerLevel);
             if (item != null)
-            {
+            {   
                 inventory.AddItem(item);
                 Debug.Log($"[TEST] + {item.DefId} Lv{item.ItemLevel} ({item.Rarity}) into inventory");
             }
