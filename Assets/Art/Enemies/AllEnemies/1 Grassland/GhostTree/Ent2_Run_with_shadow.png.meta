@@ -189,6 +189,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +987,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ent2_Run_with_shadow_0: -3890248262991896194
+      Ent2_Run_with_shadow_1: 7949970908130933255
+      Ent2_Run_with_shadow_10: -5197780249837772042
+      Ent2_Run_with_shadow_11: 4770650154274001974
+      Ent2_Run_with_shadow_12: 5467582006938313115
+      Ent2_Run_with_shadow_13: -433170661046701275
+      Ent2_Run_with_shadow_14: 4460530547960027873
+      Ent2_Run_with_shadow_15: 534788266531529014
+      Ent2_Run_with_shadow_16: -8179071787229600804
+      Ent2_Run_with_shadow_17: 8854247230686549654
+      Ent2_Run_with_shadow_18: 2208911679292208121
+      Ent2_Run_with_shadow_19: -1553208577814101962
+      Ent2_Run_with_shadow_2: -7509356965814533141
+      Ent2_Run_with_shadow_20: -1058857726056898644
+      Ent2_Run_with_shadow_21: 4700274979294930926
+      Ent2_Run_with_shadow_22: -8955262574892466896
+      Ent2_Run_with_shadow_23: 6035106791995009846
+      Ent2_Run_with_shadow_24: 3216340271109984789
+      Ent2_Run_with_shadow_25: 593688961799979504
+      Ent2_Run_with_shadow_26: -3012217718629542706
+      Ent2_Run_with_shadow_27: -8497553178824670077
+      Ent2_Run_with_shadow_28: 5306263067720599880
+      Ent2_Run_with_shadow_29: -1725455719916346505
+      Ent2_Run_with_shadow_3: 3590242262890858647
+      Ent2_Run_with_shadow_30: 2691791374874123092
+      Ent2_Run_with_shadow_31: 5434049659569425227
+      Ent2_Run_with_shadow_4: 585794770462229421
+      Ent2_Run_with_shadow_5: -668536769612616403
+      Ent2_Run_with_shadow_6: 7122505169628255074
+      Ent2_Run_with_shadow_7: 6661569001334813297
+      Ent2_Run_with_shadow_8: -2363970879075186252
+      Ent2_Run_with_shadow_9: -6252009283123138959
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

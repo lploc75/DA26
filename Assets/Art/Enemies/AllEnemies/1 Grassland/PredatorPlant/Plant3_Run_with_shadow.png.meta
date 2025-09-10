@@ -189,6 +189,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +987,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Plant3_Run_with_shadow_0: 2048695059565388115
+      Plant3_Run_with_shadow_1: -7231057666252662700
+      Plant3_Run_with_shadow_10: -4108930941030908151
+      Plant3_Run_with_shadow_11: 6978764216895738108
+      Plant3_Run_with_shadow_12: -3742338847186055926
+      Plant3_Run_with_shadow_13: -184689569108166580
+      Plant3_Run_with_shadow_14: 6078991120281870498
+      Plant3_Run_with_shadow_15: -9047583192652069286
+      Plant3_Run_with_shadow_16: 1826246163213319992
+      Plant3_Run_with_shadow_17: 7476150753201507500
+      Plant3_Run_with_shadow_18: -275785833871457938
+      Plant3_Run_with_shadow_19: 2131927619673245956
+      Plant3_Run_with_shadow_2: -6275932598966221864
+      Plant3_Run_with_shadow_20: 7974144041719398442
+      Plant3_Run_with_shadow_21: -4108297742353916021
+      Plant3_Run_with_shadow_22: -5957668215042319739
+      Plant3_Run_with_shadow_23: -97910671354888142
+      Plant3_Run_with_shadow_24: 7267854761348898004
+      Plant3_Run_with_shadow_25: -4621397650511178715
+      Plant3_Run_with_shadow_26: 368069697245921773
+      Plant3_Run_with_shadow_27: -6606294861953172412
+      Plant3_Run_with_shadow_28: 5878538138113854602
+      Plant3_Run_with_shadow_29: 2813169128371976241
+      Plant3_Run_with_shadow_3: -180736449373049370
+      Plant3_Run_with_shadow_30: -4128946415316469583
+      Plant3_Run_with_shadow_31: -5377233376799654392
+      Plant3_Run_with_shadow_4: -811830963555442127
+      Plant3_Run_with_shadow_5: 7691968057339254729
+      Plant3_Run_with_shadow_6: -1293504998493069930
+      Plant3_Run_with_shadow_7: -678221836575994544
+      Plant3_Run_with_shadow_8: 5586266754227371510
+      Plant3_Run_with_shadow_9: -592520552974976617
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

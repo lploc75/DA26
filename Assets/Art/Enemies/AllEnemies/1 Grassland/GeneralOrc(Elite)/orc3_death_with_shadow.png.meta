@@ -189,6 +189,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +987,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orc3_death_with_shadow_0: 26808805341390045
+      orc3_death_with_shadow_1: -3790321752706332309
+      orc3_death_with_shadow_10: 1750990576901648272
+      orc3_death_with_shadow_11: 8015925117171432620
+      orc3_death_with_shadow_12: 9013600356824041164
+      orc3_death_with_shadow_13: 8077584401298719948
+      orc3_death_with_shadow_14: 3499027875795124298
+      orc3_death_with_shadow_15: 9209585365670687193
+      orc3_death_with_shadow_16: -6192052056886912347
+      orc3_death_with_shadow_17: 1536779546309455039
+      orc3_death_with_shadow_18: -6882290928050456370
+      orc3_death_with_shadow_19: 7878562059020395306
+      orc3_death_with_shadow_2: -232725354348183384
+      orc3_death_with_shadow_20: 502100920452238002
+      orc3_death_with_shadow_21: -3226459203149540391
+      orc3_death_with_shadow_22: 5224218224808700741
+      orc3_death_with_shadow_23: 908030194508541996
+      orc3_death_with_shadow_24: 5558455397009597829
+      orc3_death_with_shadow_25: -2130375119836390081
+      orc3_death_with_shadow_26: -4077527605167663115
+      orc3_death_with_shadow_27: 84782972405839063
+      orc3_death_with_shadow_28: -530705100898427425
+      orc3_death_with_shadow_29: -1789550843535517075
+      orc3_death_with_shadow_3: -6478485418028718520
+      orc3_death_with_shadow_30: -7590235076170691013
+      orc3_death_with_shadow_31: -4121794311808149804
+      orc3_death_with_shadow_4: 6634159348769606392
+      orc3_death_with_shadow_5: -2042790204196861295
+      orc3_death_with_shadow_6: 1430980286067757354
+      orc3_death_with_shadow_7: -7186322944310985653
+      orc3_death_with_shadow_8: -4417681003829613442
+      orc3_death_with_shadow_9: 1458944552290499560
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

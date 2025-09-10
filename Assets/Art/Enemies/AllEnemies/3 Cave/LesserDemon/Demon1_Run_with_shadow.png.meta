@@ -189,6 +189,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +987,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Demon1_Run_with_shadow_0: 6437122987275146334
+      Demon1_Run_with_shadow_1: -8003993463556329385
+      Demon1_Run_with_shadow_10: 8862795948977389689
+      Demon1_Run_with_shadow_11: -9170296633055709348
+      Demon1_Run_with_shadow_12: 2754144022043195192
+      Demon1_Run_with_shadow_13: 601822511885212237
+      Demon1_Run_with_shadow_14: -6710088244700218807
+      Demon1_Run_with_shadow_15: -3908941691512422940
+      Demon1_Run_with_shadow_16: 6689073738758800372
+      Demon1_Run_with_shadow_17: -3609051161039395798
+      Demon1_Run_with_shadow_18: -6352271812524774867
+      Demon1_Run_with_shadow_19: -7623044180023818552
+      Demon1_Run_with_shadow_2: -609232811950980169
+      Demon1_Run_with_shadow_20: 3286199089937114779
+      Demon1_Run_with_shadow_21: -7822460751049764182
+      Demon1_Run_with_shadow_22: 3391689342918680102
+      Demon1_Run_with_shadow_23: 765825743398693634
+      Demon1_Run_with_shadow_24: -4771117713825788390
+      Demon1_Run_with_shadow_25: 5346169103116479777
+      Demon1_Run_with_shadow_26: -6627599334235989052
+      Demon1_Run_with_shadow_27: -6603183571048001079
+      Demon1_Run_with_shadow_28: -2467419284503723758
+      Demon1_Run_with_shadow_29: 3360363979783982969
+      Demon1_Run_with_shadow_3: -1816518567242431954
+      Demon1_Run_with_shadow_30: -4537582185700934330
+      Demon1_Run_with_shadow_31: -8907427002158515208
+      Demon1_Run_with_shadow_4: -5637039820139538593
+      Demon1_Run_with_shadow_5: -8333558724600577064
+      Demon1_Run_with_shadow_6: 5969794941265967922
+      Demon1_Run_with_shadow_7: -3616702655581079598
+      Demon1_Run_with_shadow_8: -8258409962077381866
+      Demon1_Run_with_shadow_9: -2521066730028339009
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

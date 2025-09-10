@@ -192,6 +192,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -934,7 +1012,40 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardman3_Attack_with_shadow_0: -8005994369574352368
+      Lizardman3_Attack_with_shadow_1: -2799977809324124021
+      Lizardman3_Attack_with_shadow_10: -8801034129059939213
+      Lizardman3_Attack_with_shadow_11: -9156511651017299058
+      Lizardman3_Attack_with_shadow_12: -1506040242276471249
+      Lizardman3_Attack_with_shadow_13: 2653310699738025365
+      Lizardman3_Attack_with_shadow_14: -8551827972611897279
+      Lizardman3_Attack_with_shadow_15: -8529810022129211981
+      Lizardman3_Attack_with_shadow_16: 7856623499037189319
+      Lizardman3_Attack_with_shadow_17: -3565962882597341641
+      Lizardman3_Attack_with_shadow_18: 6727746202210374261
+      Lizardman3_Attack_with_shadow_19: -3036230584622741499
+      Lizardman3_Attack_with_shadow_2: 3704121936822855984
+      Lizardman3_Attack_with_shadow_20: 905619775709649023
+      Lizardman3_Attack_with_shadow_21: 2236919523915579360
+      Lizardman3_Attack_with_shadow_22: -7926487369557832906
+      Lizardman3_Attack_with_shadow_23: 7506193994814113438
+      Lizardman3_Attack_with_shadow_24: -4443633174996894438
+      Lizardman3_Attack_with_shadow_25: 803320311756093954
+      Lizardman3_Attack_with_shadow_26: 846726014162338735
+      Lizardman3_Attack_with_shadow_27: 239168677125093278
+      Lizardman3_Attack_with_shadow_28: 5379492461679320051
+      Lizardman3_Attack_with_shadow_29: 3585353816829823144
+      Lizardman3_Attack_with_shadow_3: 1075979564833937863
+      Lizardman3_Attack_with_shadow_30: -46878828886960799
+      Lizardman3_Attack_with_shadow_31: 1546906427370319197
+      Lizardman3_Attack_with_shadow_32: -6737902104297514711
+      Lizardman3_Attack_with_shadow_4: -6454528367339640863
+      Lizardman3_Attack_with_shadow_5: -4476803700951685079
+      Lizardman3_Attack_with_shadow_6: -586506008826983252
+      Lizardman3_Attack_with_shadow_7: 4629478999327877800
+      Lizardman3_Attack_with_shadow_8: -8343950660629624666
+      Lizardman3_Attack_with_shadow_9: -4993678085497571548
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -189,6 +189,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +987,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golem1_Run_with_shadow_0: -2544518216555971352
+      Golem1_Run_with_shadow_1: -3091039014328010626
+      Golem1_Run_with_shadow_10: 9144544937711289246
+      Golem1_Run_with_shadow_11: -2548588765487279253
+      Golem1_Run_with_shadow_12: 8051612055602760272
+      Golem1_Run_with_shadow_13: -8464853029877597372
+      Golem1_Run_with_shadow_14: -6305792744073040470
+      Golem1_Run_with_shadow_15: -5668259319258959637
+      Golem1_Run_with_shadow_16: -8109747478919634864
+      Golem1_Run_with_shadow_17: -8136921714122925766
+      Golem1_Run_with_shadow_18: -1648109744048842565
+      Golem1_Run_with_shadow_19: 3024589132448150540
+      Golem1_Run_with_shadow_2: 3348499118002660566
+      Golem1_Run_with_shadow_20: -1107474348032180506
+      Golem1_Run_with_shadow_21: 5311517971450040587
+      Golem1_Run_with_shadow_22: 2173626093534872116
+      Golem1_Run_with_shadow_23: -2377890041321778670
+      Golem1_Run_with_shadow_24: -6617114991057184103
+      Golem1_Run_with_shadow_25: -688352481445407941
+      Golem1_Run_with_shadow_26: -3999138907545685992
+      Golem1_Run_with_shadow_27: 6007905178451442288
+      Golem1_Run_with_shadow_28: 366529951403872493
+      Golem1_Run_with_shadow_29: -3559047304104598695
+      Golem1_Run_with_shadow_3: 1327610223310121949
+      Golem1_Run_with_shadow_30: 3852723685038051733
+      Golem1_Run_with_shadow_31: -3619987910727700865
+      Golem1_Run_with_shadow_4: 2039095431184160711
+      Golem1_Run_with_shadow_5: -9012669419322831195
+      Golem1_Run_with_shadow_6: -2421124967404179364
+      Golem1_Run_with_shadow_7: 4074160851824487891
+      Golem1_Run_with_shadow_8: 5621548413809534867
+      Golem1_Run_with_shadow_9: -2680647950741611132
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

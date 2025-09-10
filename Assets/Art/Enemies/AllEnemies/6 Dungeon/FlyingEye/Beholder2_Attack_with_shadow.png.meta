@@ -297,6 +297,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1809,7 +1887,75 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beholder2_Attack_with_shadow_0: 8642432135245957058
+      Beholder2_Attack_with_shadow_1: -8683737381468018836
+      Beholder2_Attack_with_shadow_10: 5022321320868774866
+      Beholder2_Attack_with_shadow_11: -879005845091505825
+      Beholder2_Attack_with_shadow_12: 8114061174197556215
+      Beholder2_Attack_with_shadow_13: 6730939078680617096
+      Beholder2_Attack_with_shadow_14: 5557278878059115023
+      Beholder2_Attack_with_shadow_15: -4539772511551219924
+      Beholder2_Attack_with_shadow_16: 7877758495937909678
+      Beholder2_Attack_with_shadow_17: -3513306134076282341
+      Beholder2_Attack_with_shadow_18: -2018294340553195423
+      Beholder2_Attack_with_shadow_19: -2284459825573003231
+      Beholder2_Attack_with_shadow_2: 1375034632286350954
+      Beholder2_Attack_with_shadow_20: -236081596228680386
+      Beholder2_Attack_with_shadow_21: -8009072556932403957
+      Beholder2_Attack_with_shadow_22: 4106623553483470010
+      Beholder2_Attack_with_shadow_23: 4465805875444277730
+      Beholder2_Attack_with_shadow_24: 6007082942519698230
+      Beholder2_Attack_with_shadow_25: -5223474229817446031
+      Beholder2_Attack_with_shadow_26: 5304646959830775241
+      Beholder2_Attack_with_shadow_27: -7634891853621046057
+      Beholder2_Attack_with_shadow_28: 3703568247994916990
+      Beholder2_Attack_with_shadow_29: -5000280141733812096
+      Beholder2_Attack_with_shadow_3: 2412528469515157274
+      Beholder2_Attack_with_shadow_30: -943480361385010698
+      Beholder2_Attack_with_shadow_31: 5223971681578401516
+      Beholder2_Attack_with_shadow_32: 5770217067087819192
+      Beholder2_Attack_with_shadow_33: -3839310630002233231
+      Beholder2_Attack_with_shadow_34: -5964452623175057312
+      Beholder2_Attack_with_shadow_35: 1154975632352650868
+      Beholder2_Attack_with_shadow_36: -3248902060388172191
+      Beholder2_Attack_with_shadow_37: -8946414938941899045
+      Beholder2_Attack_with_shadow_38: -5487921446397010198
+      Beholder2_Attack_with_shadow_39: -8114508734590355765
+      Beholder2_Attack_with_shadow_4: -2553629412304865280
+      Beholder2_Attack_with_shadow_40: 2780863528956530668
+      Beholder2_Attack_with_shadow_41: -1150393861488923177
+      Beholder2_Attack_with_shadow_42: -8324308267074112333
+      Beholder2_Attack_with_shadow_43: -7647973799197712315
+      Beholder2_Attack_with_shadow_44: 7830893412199475769
+      Beholder2_Attack_with_shadow_45: 5710560843561078190
+      Beholder2_Attack_with_shadow_46: 7793811460161044605
+      Beholder2_Attack_with_shadow_47: -4008730565587822583
+      Beholder2_Attack_with_shadow_48: -802916174142384115
+      Beholder2_Attack_with_shadow_49: 5351405155997049220
+      Beholder2_Attack_with_shadow_5: 3632819739721912298
+      Beholder2_Attack_with_shadow_50: 6565417509515123777
+      Beholder2_Attack_with_shadow_51: 1319904985134180315
+      Beholder2_Attack_with_shadow_52: -8033786368254992536
+      Beholder2_Attack_with_shadow_53: -4388459306662899394
+      Beholder2_Attack_with_shadow_54: 7461805015018068367
+      Beholder2_Attack_with_shadow_55: -4804663696561787337
+      Beholder2_Attack_with_shadow_56: 8751134350517150383
+      Beholder2_Attack_with_shadow_57: 6963113978630200238
+      Beholder2_Attack_with_shadow_58: -3034065039545451491
+      Beholder2_Attack_with_shadow_59: 9143121583814779188
+      Beholder2_Attack_with_shadow_6: 3332919966920346281
+      Beholder2_Attack_with_shadow_60: 4799707500244707417
+      Beholder2_Attack_with_shadow_61: -5938101410030285623
+      Beholder2_Attack_with_shadow_62: 7554193505855046119
+      Beholder2_Attack_with_shadow_63: 4637395344698698062
+      Beholder2_Attack_with_shadow_64: 4340302605496165267
+      Beholder2_Attack_with_shadow_65: 6841644990555092251
+      Beholder2_Attack_with_shadow_66: -1390074312673000926
+      Beholder2_Attack_with_shadow_67: 2101106214920451951
+      Beholder2_Attack_with_shadow_7: -8126267681625200034
+      Beholder2_Attack_with_shadow_8: 1223189389424646688
+      Beholder2_Attack_with_shadow_9: -3005254468802051817
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

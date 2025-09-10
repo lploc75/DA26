@@ -165,6 +165,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +787,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton2_Walk_with_shadow_0: -1786322370586013832
+      Skeleton2_Walk_with_shadow_1: 951497843978281118
+      Skeleton2_Walk_with_shadow_10: 4539303830001813470
+      Skeleton2_Walk_with_shadow_11: 8372633447936319602
+      Skeleton2_Walk_with_shadow_12: 6182982048377611929
+      Skeleton2_Walk_with_shadow_13: 7255290402351639986
+      Skeleton2_Walk_with_shadow_14: -3169359941325747866
+      Skeleton2_Walk_with_shadow_15: -994881043645519866
+      Skeleton2_Walk_with_shadow_16: 5299951845789249472
+      Skeleton2_Walk_with_shadow_17: 2967229425512129373
+      Skeleton2_Walk_with_shadow_18: -2836338035060454358
+      Skeleton2_Walk_with_shadow_19: 2018293499880412945
+      Skeleton2_Walk_with_shadow_2: -4223048304146029938
+      Skeleton2_Walk_with_shadow_20: 690725949617848893
+      Skeleton2_Walk_with_shadow_21: 6024653568437054351
+      Skeleton2_Walk_with_shadow_22: 760574271275279937
+      Skeleton2_Walk_with_shadow_23: 4159171281199515635
+      Skeleton2_Walk_with_shadow_3: 2541717265491396694
+      Skeleton2_Walk_with_shadow_4: -5076364257615646124
+      Skeleton2_Walk_with_shadow_5: -8533451317133931208
+      Skeleton2_Walk_with_shadow_6: -2409032566584780638
+      Skeleton2_Walk_with_shadow_7: 8200988322669318185
+      Skeleton2_Walk_with_shadow_8: 4950463937346762415
+      Skeleton2_Walk_with_shadow_9: 2456293635034650114
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

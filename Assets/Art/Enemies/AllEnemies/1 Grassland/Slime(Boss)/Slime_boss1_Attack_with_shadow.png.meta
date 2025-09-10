@@ -285,6 +285,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1709,7 +1787,71 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime_boss1_Attack_with_shadow_0: -5137768512033422515
+      Slime_boss1_Attack_with_shadow_1: 683452430051010984
+      Slime_boss1_Attack_with_shadow_10: -4424675830736651412
+      Slime_boss1_Attack_with_shadow_11: 5985876285495760129
+      Slime_boss1_Attack_with_shadow_12: -2019648260466068509
+      Slime_boss1_Attack_with_shadow_13: 7510647060975661677
+      Slime_boss1_Attack_with_shadow_14: 5350247118006879342
+      Slime_boss1_Attack_with_shadow_15: 6111808791822515455
+      Slime_boss1_Attack_with_shadow_16: -8601655668930734195
+      Slime_boss1_Attack_with_shadow_17: -6076559467259788542
+      Slime_boss1_Attack_with_shadow_18: -8111589362652611174
+      Slime_boss1_Attack_with_shadow_19: -2947015439418930400
+      Slime_boss1_Attack_with_shadow_2: -2705542747040420095
+      Slime_boss1_Attack_with_shadow_20: 1444543548032885722
+      Slime_boss1_Attack_with_shadow_21: -6762134535891719849
+      Slime_boss1_Attack_with_shadow_22: -4855128652157457916
+      Slime_boss1_Attack_with_shadow_23: -289327376984510013
+      Slime_boss1_Attack_with_shadow_24: -8679946016708615575
+      Slime_boss1_Attack_with_shadow_25: 2319283567418400464
+      Slime_boss1_Attack_with_shadow_26: -8769764309372517688
+      Slime_boss1_Attack_with_shadow_27: 2700148751346749099
+      Slime_boss1_Attack_with_shadow_28: -3797850759752766546
+      Slime_boss1_Attack_with_shadow_29: 2507984205580934807
+      Slime_boss1_Attack_with_shadow_3: -245957939069115210
+      Slime_boss1_Attack_with_shadow_30: -7593438824974158629
+      Slime_boss1_Attack_with_shadow_31: -6943808900997564600
+      Slime_boss1_Attack_with_shadow_32: 7561446089956459327
+      Slime_boss1_Attack_with_shadow_33: 3988563631925678427
+      Slime_boss1_Attack_with_shadow_34: -7546910033589625238
+      Slime_boss1_Attack_with_shadow_35: -7525895180352442899
+      Slime_boss1_Attack_with_shadow_36: 4759739403517275251
+      Slime_boss1_Attack_with_shadow_37: 3849451928550493774
+      Slime_boss1_Attack_with_shadow_38: -3187995985858516550
+      Slime_boss1_Attack_with_shadow_39: 1768176694111064024
+      Slime_boss1_Attack_with_shadow_4: -2164315175889810713
+      Slime_boss1_Attack_with_shadow_40: 1720469595657458864
+      Slime_boss1_Attack_with_shadow_41: 3626741394768524749
+      Slime_boss1_Attack_with_shadow_42: -2371679151302775559
+      Slime_boss1_Attack_with_shadow_43: 372452550984493552
+      Slime_boss1_Attack_with_shadow_44: 7868224127421181657
+      Slime_boss1_Attack_with_shadow_45: 3784127846890493230
+      Slime_boss1_Attack_with_shadow_46: -1180327422212059715
+      Slime_boss1_Attack_with_shadow_47: 1624944860994195869
+      Slime_boss1_Attack_with_shadow_48: 4921850456220495149
+      Slime_boss1_Attack_with_shadow_49: 7957565919072912178
+      Slime_boss1_Attack_with_shadow_5: -2108940897533819275
+      Slime_boss1_Attack_with_shadow_50: -8659751791852951100
+      Slime_boss1_Attack_with_shadow_51: -6804074765083443648
+      Slime_boss1_Attack_with_shadow_52: -7095526668100792996
+      Slime_boss1_Attack_with_shadow_53: -2876558243356957523
+      Slime_boss1_Attack_with_shadow_54: 1867993476095684246
+      Slime_boss1_Attack_with_shadow_55: -4505226192295125237
+      Slime_boss1_Attack_with_shadow_56: -4674423694032668632
+      Slime_boss1_Attack_with_shadow_57: 6709037467258983835
+      Slime_boss1_Attack_with_shadow_58: -4987143349694542947
+      Slime_boss1_Attack_with_shadow_59: 8817982421787742840
+      Slime_boss1_Attack_with_shadow_6: 605834652896642054
+      Slime_boss1_Attack_with_shadow_60: 1966166972560339363
+      Slime_boss1_Attack_with_shadow_61: 1501686169918449622
+      Slime_boss1_Attack_with_shadow_62: -1577610847135899088
+      Slime_boss1_Attack_with_shadow_63: -3843434251151957901
+      Slime_boss1_Attack_with_shadow_7: 7843131304956598797
+      Slime_boss1_Attack_with_shadow_8: -8009505633314542108
+      Slime_boss1_Attack_with_shadow_9: -5865098484335800168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

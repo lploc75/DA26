@@ -327,6 +327,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2059,7 +2137,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Demon1_Death_with_shadow_0: 7772661225290092425
+      Demon1_Death_with_shadow_1: 5084911716990058176
+      Demon1_Death_with_shadow_10: 46505583129584004
+      Demon1_Death_with_shadow_11: -4148430154252549140
+      Demon1_Death_with_shadow_12: 6322648176998631515
+      Demon1_Death_with_shadow_13: -9096807894330387876
+      Demon1_Death_with_shadow_14: 6886789363689995961
+      Demon1_Death_with_shadow_15: -3645712394782397151
+      Demon1_Death_with_shadow_16: -4156576674920011588
+      Demon1_Death_with_shadow_17: 2223045744998670145
+      Demon1_Death_with_shadow_18: 6237444304492791634
+      Demon1_Death_with_shadow_19: -2930945661880442790
+      Demon1_Death_with_shadow_2: 5278354832344939958
+      Demon1_Death_with_shadow_20: -645665077678147086
+      Demon1_Death_with_shadow_21: 8480245033723096552
+      Demon1_Death_with_shadow_22: -4169633416710144839
+      Demon1_Death_with_shadow_23: -8482222235281593875
+      Demon1_Death_with_shadow_24: 5519372602965426164
+      Demon1_Death_with_shadow_25: -778102025416933910
+      Demon1_Death_with_shadow_26: -1468955425423033870
+      Demon1_Death_with_shadow_27: -4397063656613967634
+      Demon1_Death_with_shadow_28: 1191587993774577652
+      Demon1_Death_with_shadow_29: 5104126198421815652
+      Demon1_Death_with_shadow_3: -1430032572837685164
+      Demon1_Death_with_shadow_30: -8628499031394784152
+      Demon1_Death_with_shadow_31: -4625816174011454639
+      Demon1_Death_with_shadow_32: 2706578128769348375
+      Demon1_Death_with_shadow_33: -467728164483769619
+      Demon1_Death_with_shadow_34: 8964166515221274851
+      Demon1_Death_with_shadow_35: 6167383660537041305
+      Demon1_Death_with_shadow_36: -5705073455650771300
+      Demon1_Death_with_shadow_37: -7498680095951579366
+      Demon1_Death_with_shadow_38: -7446450576801855079
+      Demon1_Death_with_shadow_39: 1234370672078302913
+      Demon1_Death_with_shadow_4: -561242785408625825
+      Demon1_Death_with_shadow_40: 4538239355488126127
+      Demon1_Death_with_shadow_41: 2178408570395825089
+      Demon1_Death_with_shadow_42: 2024838440283711084
+      Demon1_Death_with_shadow_43: 8894467757893467151
+      Demon1_Death_with_shadow_44: -3000074587719303164
+      Demon1_Death_with_shadow_45: 3582002802978147072
+      Demon1_Death_with_shadow_46: -3749383884119775141
+      Demon1_Death_with_shadow_47: -6468448399653487032
+      Demon1_Death_with_shadow_48: -4304627571842054725
+      Demon1_Death_with_shadow_49: -6560098013280647642
+      Demon1_Death_with_shadow_5: 3828345626608406662
+      Demon1_Death_with_shadow_50: 8091523972414665596
+      Demon1_Death_with_shadow_51: -1377324463325405513
+      Demon1_Death_with_shadow_52: -8006410583162918241
+      Demon1_Death_with_shadow_53: -7440233425423056346
+      Demon1_Death_with_shadow_54: 4288213772952912875
+      Demon1_Death_with_shadow_55: -3046359823777160771
+      Demon1_Death_with_shadow_56: -8820147336233755197
+      Demon1_Death_with_shadow_57: -2621577635212817438
+      Demon1_Death_with_shadow_58: -4460817571182327694
+      Demon1_Death_with_shadow_59: 9024415346675782105
+      Demon1_Death_with_shadow_6: -638558187632750523
+      Demon1_Death_with_shadow_60: -328935507033629611
+      Demon1_Death_with_shadow_61: -2175186201466916785
+      Demon1_Death_with_shadow_62: -253681115330799612
+      Demon1_Death_with_shadow_63: 6713707903939637402
+      Demon1_Death_with_shadow_64: 7647591908384335322
+      Demon1_Death_with_shadow_65: 7606960779828723244
+      Demon1_Death_with_shadow_66: -2714334991332725638
+      Demon1_Death_with_shadow_67: 9130623942341387129
+      Demon1_Death_with_shadow_68: -4269000274572421267
+      Demon1_Death_with_shadow_69: 7918318615713178750
+      Demon1_Death_with_shadow_7: 1871910949281172524
+      Demon1_Death_with_shadow_70: 1836472619132771110
+      Demon1_Death_with_shadow_71: -3292545187853156431
+      Demon1_Death_with_shadow_72: -3940245025734232483
+      Demon1_Death_with_shadow_73: -2515723280605146698
+      Demon1_Death_with_shadow_74: -5787697489640433251
+      Demon1_Death_with_shadow_75: -7532411702302834909
+      Demon1_Death_with_shadow_76: -2057075833775896428
+      Demon1_Death_with_shadow_77: -2242239611970447475
+      Demon1_Death_with_shadow_8: -4911096731617145522
+      Demon1_Death_with_shadow_9: -1683387070111834599
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -189,6 +189,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +987,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Zombie3_Run_with_shadow_0: 1031429944711922064
+      Zombie3_Run_with_shadow_1: -8826946747852251778
+      Zombie3_Run_with_shadow_10: 1567530779564643305
+      Zombie3_Run_with_shadow_11: 1008558780360162940
+      Zombie3_Run_with_shadow_12: 2860198931672092651
+      Zombie3_Run_with_shadow_13: -2626267962040413546
+      Zombie3_Run_with_shadow_14: -5822503640782583758
+      Zombie3_Run_with_shadow_15: -2905677334621205570
+      Zombie3_Run_with_shadow_16: -8519789659944185831
+      Zombie3_Run_with_shadow_17: -1885441284480279300
+      Zombie3_Run_with_shadow_18: 421541324487205703
+      Zombie3_Run_with_shadow_19: 1552587958059422365
+      Zombie3_Run_with_shadow_2: -7331226154874553080
+      Zombie3_Run_with_shadow_20: -4552056046981840573
+      Zombie3_Run_with_shadow_21: -671696967186649374
+      Zombie3_Run_with_shadow_22: 3582548249714907835
+      Zombie3_Run_with_shadow_23: 6396356559221290895
+      Zombie3_Run_with_shadow_24: -4801628496332419178
+      Zombie3_Run_with_shadow_25: 8074734619239350551
+      Zombie3_Run_with_shadow_26: 7418980671104193212
+      Zombie3_Run_with_shadow_27: 1845549574420696969
+      Zombie3_Run_with_shadow_28: -5056457720057594927
+      Zombie3_Run_with_shadow_29: -7090043516427417798
+      Zombie3_Run_with_shadow_3: 4232373414088091907
+      Zombie3_Run_with_shadow_30: -8431915536758792363
+      Zombie3_Run_with_shadow_31: 38570325448578779
+      Zombie3_Run_with_shadow_4: -3633340244866641061
+      Zombie3_Run_with_shadow_5: -7873939142971031468
+      Zombie3_Run_with_shadow_6: 2276382178110160994
+      Zombie3_Run_with_shadow_7: -6495950549524152834
+      Zombie3_Run_with_shadow_8: 1081191179837842113
+      Zombie3_Run_with_shadow_9: -6999150103426033985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

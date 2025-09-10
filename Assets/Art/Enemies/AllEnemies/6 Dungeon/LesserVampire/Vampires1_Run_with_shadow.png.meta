@@ -225,6 +225,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1209,7 +1287,51 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vampires1_Run_with_shadow_0: -3883214357736090018
+      Vampires1_Run_with_shadow_1: -9041513180479025230
+      Vampires1_Run_with_shadow_10: 1222498154043292663
+      Vampires1_Run_with_shadow_11: 1801176130864923531
+      Vampires1_Run_with_shadow_12: -422273211888837793
+      Vampires1_Run_with_shadow_13: -8894910171676609088
+      Vampires1_Run_with_shadow_14: -5582814497299324826
+      Vampires1_Run_with_shadow_15: 5085131621955803914
+      Vampires1_Run_with_shadow_16: -8652079099472171715
+      Vampires1_Run_with_shadow_17: 1472360523102011707
+      Vampires1_Run_with_shadow_18: -7923108117553042770
+      Vampires1_Run_with_shadow_19: 881372264309471968
+      Vampires1_Run_with_shadow_2: -260260797234552952
+      Vampires1_Run_with_shadow_20: 8599801672665724852
+      Vampires1_Run_with_shadow_21: 4690711715455786816
+      Vampires1_Run_with_shadow_22: 5710212814407210866
+      Vampires1_Run_with_shadow_23: 407154730364446030
+      Vampires1_Run_with_shadow_24: 1002939742750567196
+      Vampires1_Run_with_shadow_25: 7768610869969677939
+      Vampires1_Run_with_shadow_26: -570947202804177579
+      Vampires1_Run_with_shadow_27: 6380944272804264720
+      Vampires1_Run_with_shadow_28: -761209042381494110
+      Vampires1_Run_with_shadow_29: -7159844831231601985
+      Vampires1_Run_with_shadow_3: -6975111171047506767
+      Vampires1_Run_with_shadow_30: 2376666110173793940
+      Vampires1_Run_with_shadow_31: -7527939493610376514
+      Vampires1_Run_with_shadow_32: 3965653174168739239
+      Vampires1_Run_with_shadow_33: -1648906582917061771
+      Vampires1_Run_with_shadow_34: -2042480053125848343
+      Vampires1_Run_with_shadow_35: 7345621684025242749
+      Vampires1_Run_with_shadow_36: 9058441125872292385
+      Vampires1_Run_with_shadow_37: -1006061760377310164
+      Vampires1_Run_with_shadow_38: -925951155086450064
+      Vampires1_Run_with_shadow_39: 4987543506007791323
+      Vampires1_Run_with_shadow_4: -7831627931878129024
+      Vampires1_Run_with_shadow_40: 4236182431417009091
+      Vampires1_Run_with_shadow_41: 7876084868968211431
+      Vampires1_Run_with_shadow_42: 1514615032824253973
+      Vampires1_Run_with_shadow_43: -2515113517667959955
+      Vampires1_Run_with_shadow_5: -3004800732313720626
+      Vampires1_Run_with_shadow_6: -8717368415359069098
+      Vampires1_Run_with_shadow_7: 6462177737714573765
+      Vampires1_Run_with_shadow_8: -6273647970284857196
+      Vampires1_Run_with_shadow_9: -3449315122654222994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -288,6 +288,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1734,7 +1812,72 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vampires2_Attack_with_shadow_0: 9191453521416240754
+      Vampires2_Attack_with_shadow_1: -132798375974854845
+      Vampires2_Attack_with_shadow_10: 8331732578312113992
+      Vampires2_Attack_with_shadow_11: 4611952944949674217
+      Vampires2_Attack_with_shadow_12: 2234325536135564667
+      Vampires2_Attack_with_shadow_13: -4336876612678147210
+      Vampires2_Attack_with_shadow_14: 318076636241515275
+      Vampires2_Attack_with_shadow_15: -7200793607768675429
+      Vampires2_Attack_with_shadow_16: 5202698993740909725
+      Vampires2_Attack_with_shadow_17: 6053038317717287708
+      Vampires2_Attack_with_shadow_18: 3290967883999749973
+      Vampires2_Attack_with_shadow_19: -1914963625710143148
+      Vampires2_Attack_with_shadow_2: 1094482646142121107
+      Vampires2_Attack_with_shadow_20: 4351234556406076775
+      Vampires2_Attack_with_shadow_21: 7168408785697023758
+      Vampires2_Attack_with_shadow_22: -626802215574431940
+      Vampires2_Attack_with_shadow_23: -4553407801369875279
+      Vampires2_Attack_with_shadow_24: -7257157688592574170
+      Vampires2_Attack_with_shadow_25: 1867100233780928056
+      Vampires2_Attack_with_shadow_26: 7803954247817025353
+      Vampires2_Attack_with_shadow_27: -8280618915100514239
+      Vampires2_Attack_with_shadow_28: 1730997731461578212
+      Vampires2_Attack_with_shadow_29: 1979549440080969547
+      Vampires2_Attack_with_shadow_3: 2482310701099126244
+      Vampires2_Attack_with_shadow_30: 7604788666121602854
+      Vampires2_Attack_with_shadow_31: 7312743255293248214
+      Vampires2_Attack_with_shadow_32: -1822287089250882305
+      Vampires2_Attack_with_shadow_33: 6733409508395809044
+      Vampires2_Attack_with_shadow_34: -6344359047109147822
+      Vampires2_Attack_with_shadow_35: 8818733455208603564
+      Vampires2_Attack_with_shadow_36: 8063995958703614895
+      Vampires2_Attack_with_shadow_37: -6295065142823733917
+      Vampires2_Attack_with_shadow_38: 7025481298745670342
+      Vampires2_Attack_with_shadow_39: -4001487647675230823
+      Vampires2_Attack_with_shadow_4: -4586817921278568065
+      Vampires2_Attack_with_shadow_40: -2318674874494400386
+      Vampires2_Attack_with_shadow_41: -8044865268629479598
+      Vampires2_Attack_with_shadow_42: 8011676715647311541
+      Vampires2_Attack_with_shadow_43: -1870994959666337552
+      Vampires2_Attack_with_shadow_44: -6522841804951342926
+      Vampires2_Attack_with_shadow_45: 1792843132884249953
+      Vampires2_Attack_with_shadow_46: -1953139087524270394
+      Vampires2_Attack_with_shadow_47: -370633013800428061
+      Vampires2_Attack_with_shadow_48: 2901909890449838750
+      Vampires2_Attack_with_shadow_49: 8629877548258391051
+      Vampires2_Attack_with_shadow_5: -5537069204457292729
+      Vampires2_Attack_with_shadow_50: -4166886330246731779
+      Vampires2_Attack_with_shadow_51: 4677085778836949707
+      Vampires2_Attack_with_shadow_52: -5890797286600923040
+      Vampires2_Attack_with_shadow_53: 5841015040691563856
+      Vampires2_Attack_with_shadow_54: 8995811858866023889
+      Vampires2_Attack_with_shadow_55: 275721427343177193
+      Vampires2_Attack_with_shadow_56: -7026752197844063879
+      Vampires2_Attack_with_shadow_57: 4399259101983418040
+      Vampires2_Attack_with_shadow_58: -4737502885183941312
+      Vampires2_Attack_with_shadow_59: -922494781170831070
+      Vampires2_Attack_with_shadow_6: 7455067305620993162
+      Vampires2_Attack_with_shadow_60: -8317567776331970961
+      Vampires2_Attack_with_shadow_61: -3983777407603186743
+      Vampires2_Attack_with_shadow_62: -2637899590116461943
+      Vampires2_Attack_with_shadow_63: 8181755570687136639
+      Vampires2_Attack_with_shadow_64: -2619158612536488097
+      Vampires2_Attack_with_shadow_7: -7691743393350197076
+      Vampires2_Attack_with_shadow_8: 6410730744845964233
+      Vampires2_Attack_with_shadow_9: 2168749816756446968
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -180,6 +180,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -834,7 +912,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardman3_Death_with_shadow_0: -3794723441748599928
+      Lizardman3_Death_with_shadow_1: -2611407778996688285
+      Lizardman3_Death_with_shadow_10: 1106956848753018676
+      Lizardman3_Death_with_shadow_11: -6326719894707288626
+      Lizardman3_Death_with_shadow_12: -1984690476845445724
+      Lizardman3_Death_with_shadow_13: -1247467250938360589
+      Lizardman3_Death_with_shadow_14: -2805563209465492607
+      Lizardman3_Death_with_shadow_15: -4517035570383874796
+      Lizardman3_Death_with_shadow_16: 4477282753203539793
+      Lizardman3_Death_with_shadow_17: 59694251059783736
+      Lizardman3_Death_with_shadow_18: 3428992460336530733
+      Lizardman3_Death_with_shadow_19: -8477936873767445763
+      Lizardman3_Death_with_shadow_2: -552601646445698398
+      Lizardman3_Death_with_shadow_20: -254874853131446735
+      Lizardman3_Death_with_shadow_21: -7222622276912357070
+      Lizardman3_Death_with_shadow_22: -8804261014541116446
+      Lizardman3_Death_with_shadow_23: 1645480262028331328
+      Lizardman3_Death_with_shadow_24: -7223655576450675400
+      Lizardman3_Death_with_shadow_25: 7309780072303832822
+      Lizardman3_Death_with_shadow_26: -849927635283682155
+      Lizardman3_Death_with_shadow_27: 1027649843576298438
+      Lizardman3_Death_with_shadow_28: -1006441671737620110
+      Lizardman3_Death_with_shadow_3: 3756131426587154450
+      Lizardman3_Death_with_shadow_4: 95682548837839936
+      Lizardman3_Death_with_shadow_5: -657051307638512053
+      Lizardman3_Death_with_shadow_6: -2654413376169739193
+      Lizardman3_Death_with_shadow_7: 187717955465217464
+      Lizardman3_Death_with_shadow_8: 6576381636724235204
+      Lizardman3_Death_with_shadow_9: 8296166794490262097
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

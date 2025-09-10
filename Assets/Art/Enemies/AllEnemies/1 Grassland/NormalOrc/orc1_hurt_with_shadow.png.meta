@@ -165,6 +165,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +787,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orc1_hurt_with_shadow_0: 6993963954138037619
+      orc1_hurt_with_shadow_1: -4556618178505023900
+      orc1_hurt_with_shadow_10: 6215667820339691406
+      orc1_hurt_with_shadow_11: -5686051804584111467
+      orc1_hurt_with_shadow_12: -1391316127098978626
+      orc1_hurt_with_shadow_13: -6792765998966358335
+      orc1_hurt_with_shadow_14: -1458231623473624269
+      orc1_hurt_with_shadow_15: -6195534159442622907
+      orc1_hurt_with_shadow_16: -4718947987052572717
+      orc1_hurt_with_shadow_17: 8476649088173693690
+      orc1_hurt_with_shadow_18: 2910840223932932078
+      orc1_hurt_with_shadow_19: -3449487934703860332
+      orc1_hurt_with_shadow_2: 1657604477608164214
+      orc1_hurt_with_shadow_20: 5202347752840512715
+      orc1_hurt_with_shadow_21: -646989529839529869
+      orc1_hurt_with_shadow_22: -1863429419164865244
+      orc1_hurt_with_shadow_23: 174394472289877790
+      orc1_hurt_with_shadow_3: -4514999716458528317
+      orc1_hurt_with_shadow_4: 6252925077101418949
+      orc1_hurt_with_shadow_5: -6599432194053407246
+      orc1_hurt_with_shadow_6: -5007890392396930583
+      orc1_hurt_with_shadow_7: -9195832882011984158
+      orc1_hurt_with_shadow_8: -5274218228173931422
+      orc1_hurt_with_shadow_9: -6490385684552648126
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

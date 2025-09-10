@@ -180,6 +180,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -834,7 +912,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Imp2_Attack_with_shadow_0: -1073456174036641396
+      Imp2_Attack_with_shadow_1: -9132723746271541146
+      Imp2_Attack_with_shadow_10: 1237726919950305367
+      Imp2_Attack_with_shadow_11: 7885559114638338913
+      Imp2_Attack_with_shadow_12: -1353889319655736983
+      Imp2_Attack_with_shadow_13: 8444105803473526132
+      Imp2_Attack_with_shadow_14: 7165453692591757756
+      Imp2_Attack_with_shadow_15: 1823926069859882059
+      Imp2_Attack_with_shadow_16: 8661930273822565589
+      Imp2_Attack_with_shadow_17: -818371456375225042
+      Imp2_Attack_with_shadow_18: 6871730574708375037
+      Imp2_Attack_with_shadow_19: 5023933304991732210
+      Imp2_Attack_with_shadow_2: 2685079693660205269
+      Imp2_Attack_with_shadow_20: 7919236298204433898
+      Imp2_Attack_with_shadow_21: -3682544417953529326
+      Imp2_Attack_with_shadow_22: -3096927013103870899
+      Imp2_Attack_with_shadow_23: -4046267334586841181
+      Imp2_Attack_with_shadow_24: 8598754327630589438
+      Imp2_Attack_with_shadow_25: 1111150954477163773
+      Imp2_Attack_with_shadow_26: -9087302288968707148
+      Imp2_Attack_with_shadow_27: 1401122791583301161
+      Imp2_Attack_with_shadow_28: -9105109304167412913
+      Imp2_Attack_with_shadow_3: -8179418449083942808
+      Imp2_Attack_with_shadow_4: 2347658082128082399
+      Imp2_Attack_with_shadow_5: -2892782032589099299
+      Imp2_Attack_with_shadow_6: -8309641871664514064
+      Imp2_Attack_with_shadow_7: -2420385146551712747
+      Imp2_Attack_with_shadow_8: -2639303759190588592
+      Imp2_Attack_with_shadow_9: -7138687876202730818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -219,6 +219,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1159,7 +1237,49 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Special_0: -9068871714124230211
+      Special_1: -5513262646514174557
+      Special_10: 4579650692572802719
+      Special_11: -3165374164444364719
+      Special_12: -1987673134061919338
+      Special_13: -5011431897453502690
+      Special_14: 2276075380151274592
+      Special_15: -5758579006453129167
+      Special_16: 2087327689775646047
+      Special_17: -5140037906058845103
+      Special_18: 7256913161915853818
+      Special_19: -9176178501677586086
+      Special_2: -6198531488440642195
+      Special_20: -5640692977860260280
+      Special_21: 3536603053164546390
+      Special_22: 2181989072961382078
+      Special_23: 2706847645174964642
+      Special_24: -361443074992314984
+      Special_25: 3427929208429504969
+      Special_26: 1060882746002790697
+      Special_27: -3416485560046876873
+      Special_28: 6324604412746852883
+      Special_29: 5093160769852896035
+      Special_3: 6701770154028129973
+      Special_30: -1269700063474588092
+      Special_31: -8552988557897897272
+      Special_32: -7694228623169915113
+      Special_33: 759692902411418027
+      Special_34: -5615736671321941232
+      Special_35: 1791395754378799843
+      Special_36: -8271818947980256443
+      Special_37: 6105098045587894843
+      Special_38: 2855452595685274186
+      Special_39: 6728345017995821987
+      Special_4: 4992887672371064048
+      Special_40: -4271649300302408867
+      Special_41: -8716107218844309694
+      Special_5: -3184613127404677753
+      Special_6: 8424837872123440092
+      Special_7: 3798137279224281753
+      Special_8: 4026758805451945358
+      Special_9: -7511474146149648203
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

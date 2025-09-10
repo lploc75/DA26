@@ -201,6 +201,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1009,7 +1087,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mushroom3_Death_with_shadow_0: 4579837473781154412
+      Mushroom3_Death_with_shadow_1: -8927699365197012355
+      Mushroom3_Death_with_shadow_10: -7510151469622265090
+      Mushroom3_Death_with_shadow_11: 5454905143699242945
+      Mushroom3_Death_with_shadow_12: 249020350713640111
+      Mushroom3_Death_with_shadow_13: -8211853364796899321
+      Mushroom3_Death_with_shadow_14: -1599567724650105060
+      Mushroom3_Death_with_shadow_15: 2646702199148725665
+      Mushroom3_Death_with_shadow_16: 7557067794478588063
+      Mushroom3_Death_with_shadow_17: -4257063803946365516
+      Mushroom3_Death_with_shadow_18: -5728043989789778301
+      Mushroom3_Death_with_shadow_19: -5493473094752563135
+      Mushroom3_Death_with_shadow_2: -5940003189813145155
+      Mushroom3_Death_with_shadow_20: 7819891688066045101
+      Mushroom3_Death_with_shadow_21: -8424005750585771942
+      Mushroom3_Death_with_shadow_22: 7359996634011503674
+      Mushroom3_Death_with_shadow_23: -4041876657483102245
+      Mushroom3_Death_with_shadow_24: 4949342183444774672
+      Mushroom3_Death_with_shadow_25: -2168790374871337028
+      Mushroom3_Death_with_shadow_26: -8857518902201217417
+      Mushroom3_Death_with_shadow_27: 3515605892180353720
+      Mushroom3_Death_with_shadow_28: -6156598816566233637
+      Mushroom3_Death_with_shadow_29: -3951712678125935560
+      Mushroom3_Death_with_shadow_3: 1869239221875701886
+      Mushroom3_Death_with_shadow_30: 2955388341366320587
+      Mushroom3_Death_with_shadow_31: -8920544213519745608
+      Mushroom3_Death_with_shadow_32: -143587426727196561
+      Mushroom3_Death_with_shadow_33: -8406179804829623555
+      Mushroom3_Death_with_shadow_34: -7275025540575807132
+      Mushroom3_Death_with_shadow_35: 357244770797986606
+      Mushroom3_Death_with_shadow_4: -8444648284907999353
+      Mushroom3_Death_with_shadow_5: -5628721246123587281
+      Mushroom3_Death_with_shadow_6: -2701715547163696149
+      Mushroom3_Death_with_shadow_7: -1659059328060955706
+      Mushroom3_Death_with_shadow_8: 6823918677329524553
+      Mushroom3_Death_with_shadow_9: -5876367602650971904
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -207,6 +207,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1059,7 +1137,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orc2_attack_with_shadow_0: -7438663464277909197
+      orc2_attack_with_shadow_1: 1700906289274999116
+      orc2_attack_with_shadow_10: -7921604453234842915
+      orc2_attack_with_shadow_11: 4029549217129636477
+      orc2_attack_with_shadow_12: 9122950416710003831
+      orc2_attack_with_shadow_13: 1944910775772178063
+      orc2_attack_with_shadow_14: -5578575104347484081
+      orc2_attack_with_shadow_15: -2682514726150006429
+      orc2_attack_with_shadow_16: -993364202899799330
+      orc2_attack_with_shadow_17: 8420474608572678578
+      orc2_attack_with_shadow_18: 934888268900906601
+      orc2_attack_with_shadow_19: -7176929441375694629
+      orc2_attack_with_shadow_2: 6346307057047097957
+      orc2_attack_with_shadow_20: -2931770212301719715
+      orc2_attack_with_shadow_21: 3395066021301216584
+      orc2_attack_with_shadow_22: -2928913183707761012
+      orc2_attack_with_shadow_23: -7177324293778803863
+      orc2_attack_with_shadow_24: -6803376266230622729
+      orc2_attack_with_shadow_25: -2961658248803768320
+      orc2_attack_with_shadow_26: 8337706954106792904
+      orc2_attack_with_shadow_27: 1028152511253923598
+      orc2_attack_with_shadow_28: -6572258194389740472
+      orc2_attack_with_shadow_29: -624913249623918989
+      orc2_attack_with_shadow_3: 3388949859243761500
+      orc2_attack_with_shadow_30: 3681320778649311678
+      orc2_attack_with_shadow_31: -1385497407861080316
+      orc2_attack_with_shadow_32: 7471169290971687154
+      orc2_attack_with_shadow_33: -128768446057025830
+      orc2_attack_with_shadow_34: 8776771341252075814
+      orc2_attack_with_shadow_35: -4753511229010219425
+      orc2_attack_with_shadow_36: 6623635065698649763
+      orc2_attack_with_shadow_37: -2139302152071047298
+      orc2_attack_with_shadow_4: -2821104005867140582
+      orc2_attack_with_shadow_5: 6748112301338433614
+      orc2_attack_with_shadow_6: -6400549647929165321
+      orc2_attack_with_shadow_7: -7559853988064790372
+      orc2_attack_with_shadow_8: 9095849082937950765
+      orc2_attack_with_shadow_9: -4560504357904908742
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
