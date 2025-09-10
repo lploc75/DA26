@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vampires2_Walk_with_shadow_0: -8643355711987603494
+      Vampires2_Walk_with_shadow_1: -2913431538969302135
+      Vampires2_Walk_with_shadow_10: -2747247567505197442
+      Vampires2_Walk_with_shadow_11: -3910819604162778410
+      Vampires2_Walk_with_shadow_12: -8955960248012829645
+      Vampires2_Walk_with_shadow_13: -7862180360486690118
+      Vampires2_Walk_with_shadow_14: 6516899284193775664
+      Vampires2_Walk_with_shadow_15: -5797567684922051224
+      Vampires2_Walk_with_shadow_16: 6272439577839477541
+      Vampires2_Walk_with_shadow_17: -2378969944379109317
+      Vampires2_Walk_with_shadow_18: 7960780060437666183
+      Vampires2_Walk_with_shadow_19: -1634098072301433238
+      Vampires2_Walk_with_shadow_2: -8406388392650130262
+      Vampires2_Walk_with_shadow_20: -2144627991588522008
+      Vampires2_Walk_with_shadow_21: 4411755666150073108
+      Vampires2_Walk_with_shadow_22: 9133514210968503483
+      Vampires2_Walk_with_shadow_23: 2913395084843967956
+      Vampires2_Walk_with_shadow_3: 9007459387269894670
+      Vampires2_Walk_with_shadow_4: -6027687242250427622
+      Vampires2_Walk_with_shadow_5: -3316026400286854443
+      Vampires2_Walk_with_shadow_6: -5090756445364909835
+      Vampires2_Walk_with_shadow_7: -4025536337953809083
+      Vampires2_Walk_with_shadow_8: -584474133013665309
+      Vampires2_Walk_with_shadow_9: -2338966516351597680
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

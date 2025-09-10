@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vampires2_Hurt_with_shadow_0: 5198847825505220176
+      Vampires2_Hurt_with_shadow_1: -3744782745316431713
+      Vampires2_Hurt_with_shadow_10: -25384806906873294
+      Vampires2_Hurt_with_shadow_11: 3516879431308469290
+      Vampires2_Hurt_with_shadow_12: 3968109887108143463
+      Vampires2_Hurt_with_shadow_13: 1839873422697673653
+      Vampires2_Hurt_with_shadow_14: 2133318274157590142
+      Vampires2_Hurt_with_shadow_15: -1649133128345740417
+      Vampires2_Hurt_with_shadow_2: 8890302064341016344
+      Vampires2_Hurt_with_shadow_3: -2427642281317700893
+      Vampires2_Hurt_with_shadow_4: -5006630824371485880
+      Vampires2_Hurt_with_shadow_5: -8072025792017062529
+      Vampires2_Hurt_with_shadow_6: 5552785600025041221
+      Vampires2_Hurt_with_shadow_7: -2715390914278947422
+      Vampires2_Hurt_with_shadow_8: 6568262060098860721
+      Vampires2_Hurt_with_shadow_9: -3179868609683394960
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

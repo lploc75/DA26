@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Demon3_Run_with_shadow_0: -4628859536432302804
+      Demon3_Run_with_shadow_1: 8369099163149741079
+      Demon3_Run_with_shadow_10: 3534033505394310853
+      Demon3_Run_with_shadow_11: -1102743523917915906
+      Demon3_Run_with_shadow_12: -740673069016234104
+      Demon3_Run_with_shadow_13: -7752451611606853663
+      Demon3_Run_with_shadow_14: -1833972337276019767
+      Demon3_Run_with_shadow_15: -2279595972083228512
+      Demon3_Run_with_shadow_16: 628143249845888953
+      Demon3_Run_with_shadow_17: -607506151044824195
+      Demon3_Run_with_shadow_18: -4151985097120757646
+      Demon3_Run_with_shadow_19: -3839264273383820249
+      Demon3_Run_with_shadow_2: -1589347330093696216
+      Demon3_Run_with_shadow_20: 7902602062936682623
+      Demon3_Run_with_shadow_21: 8200034434089313285
+      Demon3_Run_with_shadow_22: 2004412971643668316
+      Demon3_Run_with_shadow_23: -6107041194808446303
+      Demon3_Run_with_shadow_24: 1936987745284495489
+      Demon3_Run_with_shadow_25: -7496742165009257325
+      Demon3_Run_with_shadow_26: -6611657101997000096
+      Demon3_Run_with_shadow_27: 3744201811660221332
+      Demon3_Run_with_shadow_28: -4800951869967297484
+      Demon3_Run_with_shadow_29: -6785163651558324
+      Demon3_Run_with_shadow_3: 5938134354615688856
+      Demon3_Run_with_shadow_30: 1928569197679409121
+      Demon3_Run_with_shadow_31: -2458738176470540800
+      Demon3_Run_with_shadow_4: -6691093511274392703
+      Demon3_Run_with_shadow_5: 2163029885868446847
+      Demon3_Run_with_shadow_6: -6831810350150512091
+      Demon3_Run_with_shadow_7: -2697318039729053929
+      Demon3_Run_with_shadow_8: 3283399636148712448
+      Demon3_Run_with_shadow_9: 7908290849787454377
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -213,6 +213,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1109,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gnoll1_Attack_with_shadow_0: 373185118945859656
+      Gnoll1_Attack_with_shadow_1: 4610589437131305955
+      Gnoll1_Attack_with_shadow_10: -1441682043674619085
+      Gnoll1_Attack_with_shadow_11: -8330358146524487622
+      Gnoll1_Attack_with_shadow_12: -2140860760202553725
+      Gnoll1_Attack_with_shadow_13: 4378209234857749781
+      Gnoll1_Attack_with_shadow_14: -8093289941104839340
+      Gnoll1_Attack_with_shadow_15: 4394598300997252055
+      Gnoll1_Attack_with_shadow_16: 2451575245054226846
+      Gnoll1_Attack_with_shadow_17: -1975790873906143158
+      Gnoll1_Attack_with_shadow_18: -3318850037506200749
+      Gnoll1_Attack_with_shadow_19: -1788308487707330784
+      Gnoll1_Attack_with_shadow_2: 8988645043430420389
+      Gnoll1_Attack_with_shadow_20: -3310921419016873994
+      Gnoll1_Attack_with_shadow_21: 5084763331552554947
+      Gnoll1_Attack_with_shadow_22: -1725672688905299188
+      Gnoll1_Attack_with_shadow_23: -511280457576593450
+      Gnoll1_Attack_with_shadow_24: -1097984778104808255
+      Gnoll1_Attack_with_shadow_25: 1587837803125325595
+      Gnoll1_Attack_with_shadow_26: -3319421826061955122
+      Gnoll1_Attack_with_shadow_27: -3006576501223890814
+      Gnoll1_Attack_with_shadow_28: -7242395770743869642
+      Gnoll1_Attack_with_shadow_29: 5816812686073662667
+      Gnoll1_Attack_with_shadow_3: -4222883803127231162
+      Gnoll1_Attack_with_shadow_30: -8648671335724576975
+      Gnoll1_Attack_with_shadow_31: -2760716656027230509
+      Gnoll1_Attack_with_shadow_32: -6676898412186783770
+      Gnoll1_Attack_with_shadow_33: -4226787860596384370
+      Gnoll1_Attack_with_shadow_34: -2999095333736251993
+      Gnoll1_Attack_with_shadow_35: 6725761735586524385
+      Gnoll1_Attack_with_shadow_36: 7297813683685855669
+      Gnoll1_Attack_with_shadow_37: 5631454348224085544
+      Gnoll1_Attack_with_shadow_38: -1274834972443807727
+      Gnoll1_Attack_with_shadow_39: 2486369941157692292
+      Gnoll1_Attack_with_shadow_4: 5185775504655414652
+      Gnoll1_Attack_with_shadow_5: 7647160305547634514
+      Gnoll1_Attack_with_shadow_6: 360969890660374158
+      Gnoll1_Attack_with_shadow_7: 4471434338867859567
+      Gnoll1_Attack_with_shadow_8: -8119059644013525838
+      Gnoll1_Attack_with_shadow_9: 3031783235485555525
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

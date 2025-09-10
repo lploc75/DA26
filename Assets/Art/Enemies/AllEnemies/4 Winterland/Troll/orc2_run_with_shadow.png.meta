@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orc2_run_with_shadow_0: -9127103998238949601
+      orc2_run_with_shadow_1: 890736015454302600
+      orc2_run_with_shadow_10: -4707545533339556926
+      orc2_run_with_shadow_11: 8820864971926158351
+      orc2_run_with_shadow_12: 7804329020273492782
+      orc2_run_with_shadow_13: 699898609266458998
+      orc2_run_with_shadow_14: 3369399172554838300
+      orc2_run_with_shadow_15: -8592218624819642599
+      orc2_run_with_shadow_16: -5621342323639352840
+      orc2_run_with_shadow_17: 5388186239951291770
+      orc2_run_with_shadow_18: 1493495019468784112
+      orc2_run_with_shadow_19: -511423156685959890
+      orc2_run_with_shadow_2: -3302981193758246024
+      orc2_run_with_shadow_20: 2506646300184732974
+      orc2_run_with_shadow_21: -3708281743311699989
+      orc2_run_with_shadow_22: 535994882422106969
+      orc2_run_with_shadow_23: -171979780284360228
+      orc2_run_with_shadow_24: -2582496708006154577
+      orc2_run_with_shadow_25: -4996971944631656272
+      orc2_run_with_shadow_26: -8554519789815180609
+      orc2_run_with_shadow_27: 2080193271919357404
+      orc2_run_with_shadow_28: 1231502222046221220
+      orc2_run_with_shadow_29: 815152746241358043
+      orc2_run_with_shadow_3: -6581374608961980261
+      orc2_run_with_shadow_30: -6821358373923152676
+      orc2_run_with_shadow_31: 6160306809363504715
+      orc2_run_with_shadow_4: 6998510511812834092
+      orc2_run_with_shadow_5: -843343462155845219
+      orc2_run_with_shadow_6: -1873654110412244982
+      orc2_run_with_shadow_7: -6129190582832578230
+      orc2_run_with_shadow_8: 7054995516738708760
+      orc2_run_with_shadow_9: -5257700364429875192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

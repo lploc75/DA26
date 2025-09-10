@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ancient_attack2_0: -7462180327159444647
+      Ancient_attack2_1: -6263246247930556369
+      Ancient_attack2_10: -293749291143829185
+      Ancient_attack2_11: 3902559398591635294
+      Ancient_attack2_12: -6261518359503462638
+      Ancient_attack2_13: 6068844802608282807
+      Ancient_attack2_14: -6497037778707398531
+      Ancient_attack2_15: -3787184776840418639
+      Ancient_attack2_2: -1433420251238131841
+      Ancient_attack2_3: -3430664534839821885
+      Ancient_attack2_4: -8701220662280932970
+      Ancient_attack2_5: -903021421642906394
+      Ancient_attack2_6: -7878724171158643003
+      Ancient_attack2_7: -4461202189621415192
+      Ancient_attack2_8: -3223860970523574152
+      Ancient_attack2_9: -9156924764017013776
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -336,6 +336,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2134,7 +2147,88 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golem1_Attack_with_shadow_0: -3367579242934165141
+      Golem1_Attack_with_shadow_1: -1504416062544043263
+      Golem1_Attack_with_shadow_10: 9148867826790786015
+      Golem1_Attack_with_shadow_11: 2168002779830389417
+      Golem1_Attack_with_shadow_12: 4709387629099803455
+      Golem1_Attack_with_shadow_13: 7767904868233657346
+      Golem1_Attack_with_shadow_14: -8354363228988569419
+      Golem1_Attack_with_shadow_15: 9071546491033830166
+      Golem1_Attack_with_shadow_16: 7112978401887010252
+      Golem1_Attack_with_shadow_17: -2191234616847547988
+      Golem1_Attack_with_shadow_18: 5917984339479132895
+      Golem1_Attack_with_shadow_19: 1617619563593153012
+      Golem1_Attack_with_shadow_2: 8761476472491598707
+      Golem1_Attack_with_shadow_20: -899962644791420022
+      Golem1_Attack_with_shadow_21: 3310457733379196668
+      Golem1_Attack_with_shadow_22: 5149864075873652997
+      Golem1_Attack_with_shadow_23: -9032300700081313172
+      Golem1_Attack_with_shadow_24: -8941399397541953009
+      Golem1_Attack_with_shadow_25: -2016224406709943923
+      Golem1_Attack_with_shadow_26: -305882484785306647
+      Golem1_Attack_with_shadow_27: 7896276917605906452
+      Golem1_Attack_with_shadow_28: 8122160476525737863
+      Golem1_Attack_with_shadow_29: 6830393578834983564
+      Golem1_Attack_with_shadow_3: 5608677094634309722
+      Golem1_Attack_with_shadow_30: -7234546676243495667
+      Golem1_Attack_with_shadow_31: 4924267050938072737
+      Golem1_Attack_with_shadow_32: -2206248095193359042
+      Golem1_Attack_with_shadow_33: -5997357442181206440
+      Golem1_Attack_with_shadow_34: 6488469649703767201
+      Golem1_Attack_with_shadow_35: -6529384199171190219
+      Golem1_Attack_with_shadow_36: -2140992900446369186
+      Golem1_Attack_with_shadow_37: -4593275797150271312
+      Golem1_Attack_with_shadow_38: 5238249787534472859
+      Golem1_Attack_with_shadow_39: 4098901548649124089
+      Golem1_Attack_with_shadow_4: 4199112104402374241
+      Golem1_Attack_with_shadow_40: 3250514920107822621
+      Golem1_Attack_with_shadow_41: -2091958300705466798
+      Golem1_Attack_with_shadow_42: -7071180580444848654
+      Golem1_Attack_with_shadow_43: -8891992454805146581
+      Golem1_Attack_with_shadow_44: 8952896324030791352
+      Golem1_Attack_with_shadow_45: 3884258872046663555
+      Golem1_Attack_with_shadow_46: 3173871317175320142
+      Golem1_Attack_with_shadow_47: -8403929727736383155
+      Golem1_Attack_with_shadow_48: -1459748629665025808
+      Golem1_Attack_with_shadow_49: 4329746197888925308
+      Golem1_Attack_with_shadow_5: -3477784351038314114
+      Golem1_Attack_with_shadow_50: 7737506927740485102
+      Golem1_Attack_with_shadow_51: 4648857433494885324
+      Golem1_Attack_with_shadow_52: 7315073384314880595
+      Golem1_Attack_with_shadow_53: -3018935040346811345
+      Golem1_Attack_with_shadow_54: -7708501144477039161
+      Golem1_Attack_with_shadow_55: -8103489100560979232
+      Golem1_Attack_with_shadow_56: 1145822475216602663
+      Golem1_Attack_with_shadow_57: 8916180534373517015
+      Golem1_Attack_with_shadow_58: -6110615537696165838
+      Golem1_Attack_with_shadow_59: 2447255753699591656
+      Golem1_Attack_with_shadow_6: -9023514885190448581
+      Golem1_Attack_with_shadow_60: -1818836755000960389
+      Golem1_Attack_with_shadow_61: -4243780945650382210
+      Golem1_Attack_with_shadow_62: -5219640550491072970
+      Golem1_Attack_with_shadow_63: -4662346835120677665
+      Golem1_Attack_with_shadow_64: -691853219645414295
+      Golem1_Attack_with_shadow_65: -8751464484526153820
+      Golem1_Attack_with_shadow_66: 9185568857205350260
+      Golem1_Attack_with_shadow_67: 1576942579836496867
+      Golem1_Attack_with_shadow_68: 1798896771683546405
+      Golem1_Attack_with_shadow_69: 7490396145242995161
+      Golem1_Attack_with_shadow_7: -2477413903402649865
+      Golem1_Attack_with_shadow_70: -5785484945955310446
+      Golem1_Attack_with_shadow_71: -6612425489692059291
+      Golem1_Attack_with_shadow_72: 4554206324156168500
+      Golem1_Attack_with_shadow_73: -443877435512607059
+      Golem1_Attack_with_shadow_74: -9058393812284206757
+      Golem1_Attack_with_shadow_75: -4398495977280671610
+      Golem1_Attack_with_shadow_76: 2217716958132099217
+      Golem1_Attack_with_shadow_77: -8602531021157063995
+      Golem1_Attack_with_shadow_78: 6472074090856895542
+      Golem1_Attack_with_shadow_79: -8700736984100899987
+      Golem1_Attack_with_shadow_8: -8759269520945966206
+      Golem1_Attack_with_shadow_80: 6945949082534780790
+      Golem1_Attack_with_shadow_9: 7798850772803553187
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

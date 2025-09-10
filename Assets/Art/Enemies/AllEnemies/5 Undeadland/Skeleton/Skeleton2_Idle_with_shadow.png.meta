@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton2_Idle_with_shadow_0: 3087738552712123693
+      Skeleton2_Idle_with_shadow_1: 1356736658650499697
+      Skeleton2_Idle_with_shadow_10: -404665778436313028
+      Skeleton2_Idle_with_shadow_11: 3421639772655518384
+      Skeleton2_Idle_with_shadow_12: -8622972312377471303
+      Skeleton2_Idle_with_shadow_13: 7551480076123415320
+      Skeleton2_Idle_with_shadow_14: 3930045081178120822
+      Skeleton2_Idle_with_shadow_15: 2234871937741611603
+      Skeleton2_Idle_with_shadow_2: -5963961355657316623
+      Skeleton2_Idle_with_shadow_3: -3454455151624334572
+      Skeleton2_Idle_with_shadow_4: -5494176561150837198
+      Skeleton2_Idle_with_shadow_5: 3079066090899963941
+      Skeleton2_Idle_with_shadow_6: -6923238823110178118
+      Skeleton2_Idle_with_shadow_7: -1612951947405220847
+      Skeleton2_Idle_with_shadow_8: -7760453716661552210
+      Skeleton2_Idle_with_shadow_9: 7346512565208621917
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

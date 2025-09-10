@@ -192,6 +192,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -934,7 +947,40 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardman2_Attack_with_shadow_0: -571280681957324826
+      Lizardman2_Attack_with_shadow_1: -8520009083003274415
+      Lizardman2_Attack_with_shadow_10: 7783185630073072437
+      Lizardman2_Attack_with_shadow_11: -6211109343049549971
+      Lizardman2_Attack_with_shadow_12: 8983415801358805500
+      Lizardman2_Attack_with_shadow_13: -6583069367142112013
+      Lizardman2_Attack_with_shadow_14: -4360131497711003380
+      Lizardman2_Attack_with_shadow_15: 7607522356660133037
+      Lizardman2_Attack_with_shadow_16: -8681611556314323104
+      Lizardman2_Attack_with_shadow_17: -6952667025319211852
+      Lizardman2_Attack_with_shadow_18: 1516814030696594206
+      Lizardman2_Attack_with_shadow_19: -5004482514934825508
+      Lizardman2_Attack_with_shadow_2: 4743936910711968892
+      Lizardman2_Attack_with_shadow_20: 5412765578982444951
+      Lizardman2_Attack_with_shadow_21: 1865294533789444995
+      Lizardman2_Attack_with_shadow_22: 8843552192187963004
+      Lizardman2_Attack_with_shadow_23: 8267655527440671257
+      Lizardman2_Attack_with_shadow_24: 3391023890733278
+      Lizardman2_Attack_with_shadow_25: 7049209477507492539
+      Lizardman2_Attack_with_shadow_26: -109448219923658151
+      Lizardman2_Attack_with_shadow_27: 6636203635191747541
+      Lizardman2_Attack_with_shadow_28: -8241685313747518414
+      Lizardman2_Attack_with_shadow_29: 1515437282570547928
+      Lizardman2_Attack_with_shadow_3: -7546866231853416596
+      Lizardman2_Attack_with_shadow_30: 3463844043560467186
+      Lizardman2_Attack_with_shadow_31: -6925835537621228926
+      Lizardman2_Attack_with_shadow_32: 3124557467475174016
+      Lizardman2_Attack_with_shadow_4: -1315089391160722738
+      Lizardman2_Attack_with_shadow_5: -8694761206530811969
+      Lizardman2_Attack_with_shadow_6: 1039513862877207596
+      Lizardman2_Attack_with_shadow_7: -151282376295651137
+      Lizardman2_Attack_with_shadow_8: 4119130639509998952
+      Lizardman2_Attack_with_shadow_9: 6856220043038400976
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

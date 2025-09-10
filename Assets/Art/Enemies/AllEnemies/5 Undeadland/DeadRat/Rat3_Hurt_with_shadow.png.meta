@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rat3_Hurt_with_shadow_0: 4807223406748299010
+      Rat3_Hurt_with_shadow_1: 2530472785764109143
+      Rat3_Hurt_with_shadow_10: 9051213700601338
+      Rat3_Hurt_with_shadow_11: 7551465247917814060
+      Rat3_Hurt_with_shadow_12: 2417363683885459736
+      Rat3_Hurt_with_shadow_13: -8689808291472435435
+      Rat3_Hurt_with_shadow_14: -995556543946461905
+      Rat3_Hurt_with_shadow_15: 9203993145359489470
+      Rat3_Hurt_with_shadow_2: 6343901949315506426
+      Rat3_Hurt_with_shadow_3: 605160522625109448
+      Rat3_Hurt_with_shadow_4: 2061958767817389580
+      Rat3_Hurt_with_shadow_5: 3338401436223288113
+      Rat3_Hurt_with_shadow_6: -5239286350570247744
+      Rat3_Hurt_with_shadow_7: -8029589430855119286
+      Rat3_Hurt_with_shadow_8: -6041549943414161220
+      Rat3_Hurt_with_shadow_9: -8039859248051233884
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

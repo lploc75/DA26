@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mushroom3_Idle_with_shadow_0: 1506656136167199599
+      Mushroom3_Idle_with_shadow_1: -7113962329521867011
+      Mushroom3_Idle_with_shadow_10: -1299232796909780765
+      Mushroom3_Idle_with_shadow_11: -186891791459288601
+      Mushroom3_Idle_with_shadow_12: 7621191115658852155
+      Mushroom3_Idle_with_shadow_13: 1221823573801345987
+      Mushroom3_Idle_with_shadow_14: 5926724460964171746
+      Mushroom3_Idle_with_shadow_15: 6309845698442398698
+      Mushroom3_Idle_with_shadow_2: -1858939146781477091
+      Mushroom3_Idle_with_shadow_3: -2798825771379635339
+      Mushroom3_Idle_with_shadow_4: 3861074876771895623
+      Mushroom3_Idle_with_shadow_5: -5609993947000995997
+      Mushroom3_Idle_with_shadow_6: -8504227651224495320
+      Mushroom3_Idle_with_shadow_7: -3984343418448827633
+      Mushroom3_Idle_with_shadow_8: -190993184398392195
+      Mushroom3_Idle_with_shadow_9: 8554080723431016202
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

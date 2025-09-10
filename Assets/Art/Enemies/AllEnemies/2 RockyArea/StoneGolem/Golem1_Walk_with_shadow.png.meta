@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golem1_Walk_with_shadow_0: -7448434454909828800
+      Golem1_Walk_with_shadow_1: 3959711655244313866
+      Golem1_Walk_with_shadow_10: 4699592633455133970
+      Golem1_Walk_with_shadow_11: 9193317323741593578
+      Golem1_Walk_with_shadow_12: 2090954906568625705
+      Golem1_Walk_with_shadow_13: 3849168052219643637
+      Golem1_Walk_with_shadow_14: -8835565936238685080
+      Golem1_Walk_with_shadow_15: 3917909223007221140
+      Golem1_Walk_with_shadow_16: 3860634707610775866
+      Golem1_Walk_with_shadow_17: -7173942678511970892
+      Golem1_Walk_with_shadow_18: -4704519851299026962
+      Golem1_Walk_with_shadow_19: 6522464630389431032
+      Golem1_Walk_with_shadow_2: 869591981379822024
+      Golem1_Walk_with_shadow_20: -2116835338442281549
+      Golem1_Walk_with_shadow_21: -908028688172072374
+      Golem1_Walk_with_shadow_22: -2414122937652248609
+      Golem1_Walk_with_shadow_23: 6250198708125639147
+      Golem1_Walk_with_shadow_24: -5023735312594539663
+      Golem1_Walk_with_shadow_25: -2553891036807607534
+      Golem1_Walk_with_shadow_26: -2690778732325323631
+      Golem1_Walk_with_shadow_27: -2480436067434339493
+      Golem1_Walk_with_shadow_28: 6016080158607547031
+      Golem1_Walk_with_shadow_29: 3302049255596983392
+      Golem1_Walk_with_shadow_3: 8331985165341736244
+      Golem1_Walk_with_shadow_30: 6615836604305771319
+      Golem1_Walk_with_shadow_31: -8330479186845052835
+      Golem1_Walk_with_shadow_4: -6566888982986650830
+      Golem1_Walk_with_shadow_5: -8459158489709384930
+      Golem1_Walk_with_shadow_6: 3883799018502550283
+      Golem1_Walk_with_shadow_7: 4016641177837767337
+      Golem1_Walk_with_shadow_8: -7379543991236888462
+      Golem1_Walk_with_shadow_9: 3893701163335186737
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

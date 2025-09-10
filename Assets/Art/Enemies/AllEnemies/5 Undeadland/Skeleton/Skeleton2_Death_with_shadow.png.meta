@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton2_Death_with_shadow_0: -2426454410663426358
+      Skeleton2_Death_with_shadow_1: -8337040852499153678
+      Skeleton2_Death_with_shadow_10: -5308367103423812099
+      Skeleton2_Death_with_shadow_11: -7483803017352014164
+      Skeleton2_Death_with_shadow_12: 8951608619655798857
+      Skeleton2_Death_with_shadow_13: 3607517416641454696
+      Skeleton2_Death_with_shadow_14: 7953887494595654054
+      Skeleton2_Death_with_shadow_15: -4157870503631283765
+      Skeleton2_Death_with_shadow_16: 5843183802178891954
+      Skeleton2_Death_with_shadow_17: 8469423962738293789
+      Skeleton2_Death_with_shadow_18: -7379364594583111694
+      Skeleton2_Death_with_shadow_19: -2146069798357820639
+      Skeleton2_Death_with_shadow_2: -317976853303526078
+      Skeleton2_Death_with_shadow_20: -574501188826026479
+      Skeleton2_Death_with_shadow_21: -2695911141555875201
+      Skeleton2_Death_with_shadow_22: -7946580616138883995
+      Skeleton2_Death_with_shadow_23: -727222431536987485
+      Skeleton2_Death_with_shadow_3: -8043693424355008041
+      Skeleton2_Death_with_shadow_4: -1303494430263165732
+      Skeleton2_Death_with_shadow_5: -6392278556999233788
+      Skeleton2_Death_with_shadow_6: 4082913660557351137
+      Skeleton2_Death_with_shadow_7: -3408205608131342267
+      Skeleton2_Death_with_shadow_8: -7572244541036317431
+      Skeleton2_Death_with_shadow_9: -1371692986177255639
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -201,6 +201,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1009,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton2_Attack_with_shadow_0: -6992590450273659297
+      Skeleton2_Attack_with_shadow_1: 3478949022427350092
+      Skeleton2_Attack_with_shadow_10: 5685970607653509533
+      Skeleton2_Attack_with_shadow_11: -7283289443640052648
+      Skeleton2_Attack_with_shadow_12: 6408765407134825321
+      Skeleton2_Attack_with_shadow_13: -3775092580208756417
+      Skeleton2_Attack_with_shadow_14: 3102698795533324264
+      Skeleton2_Attack_with_shadow_15: 171539585776804450
+      Skeleton2_Attack_with_shadow_16: -8468053802843166992
+      Skeleton2_Attack_with_shadow_17: -3712702247098564354
+      Skeleton2_Attack_with_shadow_18: 2058642855759362939
+      Skeleton2_Attack_with_shadow_19: 2103944381659116279
+      Skeleton2_Attack_with_shadow_2: 2700723091269421654
+      Skeleton2_Attack_with_shadow_20: -984942804355204567
+      Skeleton2_Attack_with_shadow_21: 2502980935567809355
+      Skeleton2_Attack_with_shadow_22: -5063782131098909614
+      Skeleton2_Attack_with_shadow_23: -4001426921027343904
+      Skeleton2_Attack_with_shadow_24: 2275399945956111238
+      Skeleton2_Attack_with_shadow_25: 3341164279191284747
+      Skeleton2_Attack_with_shadow_26: 6944096943521251116
+      Skeleton2_Attack_with_shadow_27: -3034397286900449416
+      Skeleton2_Attack_with_shadow_28: -3547254031715521760
+      Skeleton2_Attack_with_shadow_29: 5793904555178279384
+      Skeleton2_Attack_with_shadow_3: 7502597760570784776
+      Skeleton2_Attack_with_shadow_30: -5523418018343690321
+      Skeleton2_Attack_with_shadow_31: 9191394485995141525
+      Skeleton2_Attack_with_shadow_32: 4182450254177151169
+      Skeleton2_Attack_with_shadow_33: -4335190522474413179
+      Skeleton2_Attack_with_shadow_34: -8958200334715854281
+      Skeleton2_Attack_with_shadow_35: -4391866884110872856
+      Skeleton2_Attack_with_shadow_4: 6903159835631714611
+      Skeleton2_Attack_with_shadow_5: 1345323429711051193
+      Skeleton2_Attack_with_shadow_6: 8472086767327164753
+      Skeleton2_Attack_with_shadow_7: -533844829956500082
+      Skeleton2_Attack_with_shadow_8: 8209524922404411564
+      Skeleton2_Attack_with_shadow_9: 833351749722100794
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

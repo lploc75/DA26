@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mushroom3_Hurt_with_shadow_0: -6642440680161266361
+      Mushroom3_Hurt_with_shadow_1: 7656221421865402030
+      Mushroom3_Hurt_with_shadow_10: 7938649056165859222
+      Mushroom3_Hurt_with_shadow_11: -185753302114344393
+      Mushroom3_Hurt_with_shadow_12: -5456118673733371845
+      Mushroom3_Hurt_with_shadow_13: -1227739959453215641
+      Mushroom3_Hurt_with_shadow_14: -6515403922394217423
+      Mushroom3_Hurt_with_shadow_15: 2951646140832169740
+      Mushroom3_Hurt_with_shadow_2: 3235960706816017169
+      Mushroom3_Hurt_with_shadow_3: -6913779046329178201
+      Mushroom3_Hurt_with_shadow_4: -2785689477146859989
+      Mushroom3_Hurt_with_shadow_5: 690975354041568740
+      Mushroom3_Hurt_with_shadow_6: 5649427033261778759
+      Mushroom3_Hurt_with_shadow_7: -1876859247531355268
+      Mushroom3_Hurt_with_shadow_8: -6124044071922218892
+      Mushroom3_Hurt_with_shadow_9: -1168456779878917901
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

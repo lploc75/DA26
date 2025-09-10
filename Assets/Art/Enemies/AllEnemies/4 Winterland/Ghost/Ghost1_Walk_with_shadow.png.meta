@@ -171,6 +171,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -759,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost1_Walk_with_shadow_0: 3812448514065442082
+      Ghost1_Walk_with_shadow_1: 7947100848202580035
+      Ghost1_Walk_with_shadow_10: 5619614788904579947
+      Ghost1_Walk_with_shadow_11: -8639811723516285966
+      Ghost1_Walk_with_shadow_12: -7403857525260943048
+      Ghost1_Walk_with_shadow_13: 4573593479163212591
+      Ghost1_Walk_with_shadow_14: 7674566855851244311
+      Ghost1_Walk_with_shadow_15: -7554709207389583396
+      Ghost1_Walk_with_shadow_16: 8173188585836759022
+      Ghost1_Walk_with_shadow_17: 7274970297113713573
+      Ghost1_Walk_with_shadow_18: -5930634959219455748
+      Ghost1_Walk_with_shadow_19: 7711273519186217252
+      Ghost1_Walk_with_shadow_2: 1714275472242540221
+      Ghost1_Walk_with_shadow_20: -578970255025217243
+      Ghost1_Walk_with_shadow_21: 635091024818583446
+      Ghost1_Walk_with_shadow_22: 863422618036998755
+      Ghost1_Walk_with_shadow_23: 1100210827690236911
+      Ghost1_Walk_with_shadow_24: -1101660640971549444
+      Ghost1_Walk_with_shadow_25: -6379649979958368851
+      Ghost1_Walk_with_shadow_3: 6492586669128617231
+      Ghost1_Walk_with_shadow_4: -5158702687531813100
+      Ghost1_Walk_with_shadow_5: 6518338904697786641
+      Ghost1_Walk_with_shadow_6: 2152961467046376660
+      Ghost1_Walk_with_shadow_7: -1268642100184947076
+      Ghost1_Walk_with_shadow_8: 8153296900996352025
+      Ghost1_Walk_with_shadow_9: -553436941055128087
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

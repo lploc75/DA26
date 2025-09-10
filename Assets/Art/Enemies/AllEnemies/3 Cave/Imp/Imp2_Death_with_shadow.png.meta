@@ -219,6 +219,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1159,7 +1172,49 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Imp2_Death_with_shadow_0: 6674860505451605020
+      Imp2_Death_with_shadow_1: 3504202118744825559
+      Imp2_Death_with_shadow_10: 8474718436732570816
+      Imp2_Death_with_shadow_11: -8995865023126471942
+      Imp2_Death_with_shadow_12: -5687098042268108399
+      Imp2_Death_with_shadow_13: 640732618363238895
+      Imp2_Death_with_shadow_14: -8212276588129851682
+      Imp2_Death_with_shadow_15: 6753879497027042301
+      Imp2_Death_with_shadow_16: 5572389770920190915
+      Imp2_Death_with_shadow_17: -9098069496128243463
+      Imp2_Death_with_shadow_18: 3647067751548196727
+      Imp2_Death_with_shadow_19: 7674417299103816716
+      Imp2_Death_with_shadow_2: 1270613845146083892
+      Imp2_Death_with_shadow_20: 4799938258862833322
+      Imp2_Death_with_shadow_21: 6021070273221082749
+      Imp2_Death_with_shadow_22: 7958096069306654452
+      Imp2_Death_with_shadow_23: 2585102653471879304
+      Imp2_Death_with_shadow_24: 7662468894738264269
+      Imp2_Death_with_shadow_25: 8185697923297026289
+      Imp2_Death_with_shadow_26: -5120576687624060634
+      Imp2_Death_with_shadow_27: -9217243363857226722
+      Imp2_Death_with_shadow_28: -550305140493969641
+      Imp2_Death_with_shadow_29: 1299167524744257153
+      Imp2_Death_with_shadow_3: -5033677589654393617
+      Imp2_Death_with_shadow_30: -5820985336761985826
+      Imp2_Death_with_shadow_31: 238291617026119316
+      Imp2_Death_with_shadow_32: -3481330282596723061
+      Imp2_Death_with_shadow_33: -6649972576811315549
+      Imp2_Death_with_shadow_34: 3912291235008845442
+      Imp2_Death_with_shadow_35: -609783293801768957
+      Imp2_Death_with_shadow_36: 4096348323864447205
+      Imp2_Death_with_shadow_37: -5020695153024238324
+      Imp2_Death_with_shadow_38: 1386350588624482901
+      Imp2_Death_with_shadow_39: 6437785334142086994
+      Imp2_Death_with_shadow_4: -5516273759864623695
+      Imp2_Death_with_shadow_40: -9181823993760863592
+      Imp2_Death_with_shadow_41: 2323492406033760859
+      Imp2_Death_with_shadow_5: 8807233450749909298
+      Imp2_Death_with_shadow_6: 6016361374772152778
+      Imp2_Death_with_shadow_7: -7186732566810696360
+      Imp2_Death_with_shadow_8: -5996332402469965445
+      Imp2_Death_with_shadow_9: -5579483975972690664
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

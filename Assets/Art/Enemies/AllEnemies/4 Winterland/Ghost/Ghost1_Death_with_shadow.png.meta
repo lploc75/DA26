@@ -297,6 +297,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1809,7 +1822,75 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost1_Death_with_shadow_0: 8600309091098113517
+      Ghost1_Death_with_shadow_1: -2649330419904760451
+      Ghost1_Death_with_shadow_10: 5449806599869339136
+      Ghost1_Death_with_shadow_11: -5273449224463386625
+      Ghost1_Death_with_shadow_12: -6118304868900278716
+      Ghost1_Death_with_shadow_13: -1640810152660911029
+      Ghost1_Death_with_shadow_14: -7220135132864378978
+      Ghost1_Death_with_shadow_15: -5950739772187102320
+      Ghost1_Death_with_shadow_16: -2538970222233570567
+      Ghost1_Death_with_shadow_17: -4170451313801761784
+      Ghost1_Death_with_shadow_18: 4203440263752041087
+      Ghost1_Death_with_shadow_19: -8044005343075280324
+      Ghost1_Death_with_shadow_2: -2583998450353224351
+      Ghost1_Death_with_shadow_20: -483660051803048029
+      Ghost1_Death_with_shadow_21: -1675883906577254799
+      Ghost1_Death_with_shadow_22: 733088367108505304
+      Ghost1_Death_with_shadow_23: -1323282546626469808
+      Ghost1_Death_with_shadow_24: 7997013347090757412
+      Ghost1_Death_with_shadow_25: -7291302915524494922
+      Ghost1_Death_with_shadow_26: 2290190487353863730
+      Ghost1_Death_with_shadow_27: 151392819532034419
+      Ghost1_Death_with_shadow_28: -1254369347089421037
+      Ghost1_Death_with_shadow_29: 2791742958081659442
+      Ghost1_Death_with_shadow_3: -5391424897874039499
+      Ghost1_Death_with_shadow_30: -471472654861617081
+      Ghost1_Death_with_shadow_31: -747192039841490921
+      Ghost1_Death_with_shadow_32: -4087620725747515559
+      Ghost1_Death_with_shadow_33: 1767771824631241735
+      Ghost1_Death_with_shadow_34: -7744579220451442737
+      Ghost1_Death_with_shadow_35: 2903502347093736922
+      Ghost1_Death_with_shadow_36: 4144859642415952159
+      Ghost1_Death_with_shadow_37: 3353688569864779729
+      Ghost1_Death_with_shadow_38: 1927491676945946912
+      Ghost1_Death_with_shadow_39: 2953933013888751288
+      Ghost1_Death_with_shadow_4: -594217166577994609
+      Ghost1_Death_with_shadow_40: 7788443489089816330
+      Ghost1_Death_with_shadow_41: -8146514615250440752
+      Ghost1_Death_with_shadow_42: -8438907168383406942
+      Ghost1_Death_with_shadow_43: 782207684579116712
+      Ghost1_Death_with_shadow_44: -776461407277130620
+      Ghost1_Death_with_shadow_45: -6680077989168251232
+      Ghost1_Death_with_shadow_46: -7377720843579950742
+      Ghost1_Death_with_shadow_47: 4291850733593602161
+      Ghost1_Death_with_shadow_48: -4550032735882874134
+      Ghost1_Death_with_shadow_49: 6894483902407459255
+      Ghost1_Death_with_shadow_5: 2959628702847184617
+      Ghost1_Death_with_shadow_50: -5895568977363562905
+      Ghost1_Death_with_shadow_51: 320850318634613024
+      Ghost1_Death_with_shadow_52: -8691017989880555236
+      Ghost1_Death_with_shadow_53: 1247812992896079120
+      Ghost1_Death_with_shadow_54: -3788994530245226946
+      Ghost1_Death_with_shadow_55: 1236803172154847236
+      Ghost1_Death_with_shadow_56: -7874602114064426083
+      Ghost1_Death_with_shadow_57: -1498635576179588002
+      Ghost1_Death_with_shadow_58: 2415845352927024795
+      Ghost1_Death_with_shadow_59: 3180623603458616003
+      Ghost1_Death_with_shadow_6: 8419221742672124888
+      Ghost1_Death_with_shadow_60: 5018809401672408720
+      Ghost1_Death_with_shadow_61: 8031376328998719450
+      Ghost1_Death_with_shadow_62: 3910922988307812554
+      Ghost1_Death_with_shadow_63: 6500911882625748668
+      Ghost1_Death_with_shadow_64: -7162718415507080855
+      Ghost1_Death_with_shadow_65: -2036403401113418103
+      Ghost1_Death_with_shadow_66: -5548487250878051193
+      Ghost1_Death_with_shadow_67: -2090827489751066864
+      Ghost1_Death_with_shadow_7: -2254797214816667461
+      Ghost1_Death_with_shadow_8: -2929023032718282300
+      Ghost1_Death_with_shadow_9: -1593267202853889760
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

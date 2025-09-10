@@ -114,6 +114,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -284,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Magic_bear_attack4_0: 4863194106019679730
+      Magic_bear_attack4_1: 3288157905281260205
+      Magic_bear_attack4_2: -7962334057164255765
+      Magic_bear_attack4_3: -7377541584868612487
+      Magic_bear_attack4_4: 910472328634927578
+      Magic_bear_attack4_5: -6392030874226703681
+      Magic_bear_attack4_6: 7678486799718825869
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Plant3_Walk_with_shadow_0: -5658257939388942483
+      Plant3_Walk_with_shadow_1: -2339934509464452595
+      Plant3_Walk_with_shadow_10: 8921363322679951640
+      Plant3_Walk_with_shadow_11: -4209254482208510939
+      Plant3_Walk_with_shadow_12: -7339920797040418163
+      Plant3_Walk_with_shadow_13: 5379604594719964210
+      Plant3_Walk_with_shadow_14: -2938928580312649219
+      Plant3_Walk_with_shadow_15: 4653870489640436843
+      Plant3_Walk_with_shadow_16: -1066068570488669690
+      Plant3_Walk_with_shadow_17: 4765585216902827343
+      Plant3_Walk_with_shadow_18: -3363675899069332211
+      Plant3_Walk_with_shadow_19: -8782412778954018680
+      Plant3_Walk_with_shadow_2: 6533749574841634332
+      Plant3_Walk_with_shadow_20: -4958273907588276242
+      Plant3_Walk_with_shadow_21: -5502467812865138901
+      Plant3_Walk_with_shadow_22: 6825152327888801774
+      Plant3_Walk_with_shadow_23: 8187591943632848792
+      Plant3_Walk_with_shadow_3: 8619920267014298915
+      Plant3_Walk_with_shadow_4: -206798166615842729
+      Plant3_Walk_with_shadow_5: 4460537953510208748
+      Plant3_Walk_with_shadow_6: 7788404866605834917
+      Plant3_Walk_with_shadow_7: -8272810264835055322
+      Plant3_Walk_with_shadow_8: 383578637851964661
+      Plant3_Walk_with_shadow_9: -7809044062120306845
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Demon3_Hurt_with_shadow_0: 3217677973802214591
+      Demon3_Hurt_with_shadow_1: -8324467842733189856
+      Demon3_Hurt_with_shadow_10: 3294847796646635994
+      Demon3_Hurt_with_shadow_11: 1065778030547032070
+      Demon3_Hurt_with_shadow_12: -8561718511786662427
+      Demon3_Hurt_with_shadow_13: -8897423914909489202
+      Demon3_Hurt_with_shadow_14: -7723289440744574638
+      Demon3_Hurt_with_shadow_15: -8498928311094721917
+      Demon3_Hurt_with_shadow_2: 8017403013847672368
+      Demon3_Hurt_with_shadow_3: -8197328915302341424
+      Demon3_Hurt_with_shadow_4: 7701839324478962979
+      Demon3_Hurt_with_shadow_5: 4608759122132645753
+      Demon3_Hurt_with_shadow_6: -7869191158745719547
+      Demon3_Hurt_with_shadow_7: -1306586854203647194
+      Demon3_Hurt_with_shadow_8: -4989672254279042970
+      Demon3_Hurt_with_shadow_9: 1413549800051067292
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

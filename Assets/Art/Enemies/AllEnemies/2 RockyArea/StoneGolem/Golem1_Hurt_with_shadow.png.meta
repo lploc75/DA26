@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golem1_Hurt_with_shadow_0: 4065447920299176515
+      Golem1_Hurt_with_shadow_1: 3220192454265989693
+      Golem1_Hurt_with_shadow_10: 8205318411138623428
+      Golem1_Hurt_with_shadow_11: 6666068445221897250
+      Golem1_Hurt_with_shadow_12: 977429282292081098
+      Golem1_Hurt_with_shadow_13: 8561824849384927355
+      Golem1_Hurt_with_shadow_14: -3426066742930818261
+      Golem1_Hurt_with_shadow_15: -7613094299051124121
+      Golem1_Hurt_with_shadow_2: -8620973574836205063
+      Golem1_Hurt_with_shadow_3: -5696609757894635193
+      Golem1_Hurt_with_shadow_4: 7487602181049430000
+      Golem1_Hurt_with_shadow_5: 1356251480460013410
+      Golem1_Hurt_with_shadow_6: 2190130448860364515
+      Golem1_Hurt_with_shadow_7: 759083040339912279
+      Golem1_Hurt_with_shadow_8: -5987036111815904443
+      Golem1_Hurt_with_shadow_9: 8556650319622838202
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

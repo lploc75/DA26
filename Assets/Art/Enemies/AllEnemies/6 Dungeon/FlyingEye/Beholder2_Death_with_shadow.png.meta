@@ -201,6 +201,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1009,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beholder2_Death_with_shadow_0: -1519512399683352994
+      Beholder2_Death_with_shadow_1: 7182280947073945492
+      Beholder2_Death_with_shadow_10: -7383300848769651812
+      Beholder2_Death_with_shadow_11: 4020130182842213472
+      Beholder2_Death_with_shadow_12: 6572479163754545261
+      Beholder2_Death_with_shadow_13: -2648415158802326773
+      Beholder2_Death_with_shadow_14: 2553417693991015015
+      Beholder2_Death_with_shadow_15: 8177768159536974158
+      Beholder2_Death_with_shadow_16: -2124311240806053086
+      Beholder2_Death_with_shadow_17: -7955945386101745523
+      Beholder2_Death_with_shadow_18: -7448704818024945524
+      Beholder2_Death_with_shadow_19: 7090460760163939482
+      Beholder2_Death_with_shadow_2: 6933896820645163976
+      Beholder2_Death_with_shadow_20: 7367401115198912332
+      Beholder2_Death_with_shadow_21: 7602969764548229977
+      Beholder2_Death_with_shadow_22: 1915554174247469724
+      Beholder2_Death_with_shadow_23: 2872039520166566468
+      Beholder2_Death_with_shadow_24: 5709736155376321524
+      Beholder2_Death_with_shadow_25: -4592032963630182724
+      Beholder2_Death_with_shadow_26: -1790185200330240819
+      Beholder2_Death_with_shadow_27: 1077933887215008591
+      Beholder2_Death_with_shadow_28: -2249120445131323519
+      Beholder2_Death_with_shadow_29: 4801644853471160090
+      Beholder2_Death_with_shadow_3: -5288282279685831597
+      Beholder2_Death_with_shadow_30: -8327680300931395158
+      Beholder2_Death_with_shadow_31: 7493297803738134431
+      Beholder2_Death_with_shadow_32: 2495249561533050786
+      Beholder2_Death_with_shadow_33: 8261408334313145083
+      Beholder2_Death_with_shadow_34: 5849255181457617016
+      Beholder2_Death_with_shadow_35: -6554733714594140072
+      Beholder2_Death_with_shadow_4: 658977762140687458
+      Beholder2_Death_with_shadow_5: -2941386692059270685
+      Beholder2_Death_with_shadow_6: -1178650007807537442
+      Beholder2_Death_with_shadow_7: 7144270558493494500
+      Beholder2_Death_with_shadow_8: -4430008077602735421
+      Beholder2_Death_with_shadow_9: 5192472008481092336
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -189,6 +189,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -909,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gnoll3_Run_with_shadow_0: -3064575272707835273
+      Gnoll3_Run_with_shadow_1: 780883941298568903
+      Gnoll3_Run_with_shadow_10: 5024620852602966610
+      Gnoll3_Run_with_shadow_11: -7851455053772941881
+      Gnoll3_Run_with_shadow_12: 5253872122714045124
+      Gnoll3_Run_with_shadow_13: 8256709416304056145
+      Gnoll3_Run_with_shadow_14: 6767501508139284352
+      Gnoll3_Run_with_shadow_15: 8408969975857341124
+      Gnoll3_Run_with_shadow_16: 2383031386384877580
+      Gnoll3_Run_with_shadow_17: -1416354321025369342
+      Gnoll3_Run_with_shadow_18: 7374625461950705522
+      Gnoll3_Run_with_shadow_19: 4757555265587540840
+      Gnoll3_Run_with_shadow_2: 487331412158946658
+      Gnoll3_Run_with_shadow_20: 7191970264081601729
+      Gnoll3_Run_with_shadow_21: 2814983639985193223
+      Gnoll3_Run_with_shadow_22: 3980020862625888183
+      Gnoll3_Run_with_shadow_23: -7450882818299197348
+      Gnoll3_Run_with_shadow_24: -2435597849292944876
+      Gnoll3_Run_with_shadow_25: 2074042298962721562
+      Gnoll3_Run_with_shadow_26: -7356589916312420892
+      Gnoll3_Run_with_shadow_27: -4187031811004223843
+      Gnoll3_Run_with_shadow_28: 4427361510173256612
+      Gnoll3_Run_with_shadow_29: 6153876975148669071
+      Gnoll3_Run_with_shadow_3: -3585755389713070751
+      Gnoll3_Run_with_shadow_30: 5064375137093415515
+      Gnoll3_Run_with_shadow_31: -3015153898063763895
+      Gnoll3_Run_with_shadow_4: -6109413029841508595
+      Gnoll3_Run_with_shadow_5: -4634035219141558679
+      Gnoll3_Run_with_shadow_6: 863997215116781284
+      Gnoll3_Run_with_shadow_7: 6155516959521643905
+      Gnoll3_Run_with_shadow_8: 7302876445959155068
+      Gnoll3_Run_with_shadow_9: -1054433914910195988
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

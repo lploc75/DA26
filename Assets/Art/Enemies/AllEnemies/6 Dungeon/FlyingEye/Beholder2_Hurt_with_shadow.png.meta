@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beholder2_Hurt_with_shadow_0: 1347664099716893023
+      Beholder2_Hurt_with_shadow_1: -3136064735188816452
+      Beholder2_Hurt_with_shadow_10: 7342022382048838841
+      Beholder2_Hurt_with_shadow_11: 8054544916743974425
+      Beholder2_Hurt_with_shadow_12: 5796252847528666788
+      Beholder2_Hurt_with_shadow_13: -8821876565208562514
+      Beholder2_Hurt_with_shadow_14: -4985612506425648078
+      Beholder2_Hurt_with_shadow_15: 7382165799962661325
+      Beholder2_Hurt_with_shadow_16: -8852837677716634519
+      Beholder2_Hurt_with_shadow_17: 3484667129201469040
+      Beholder2_Hurt_with_shadow_18: -4725844875918461533
+      Beholder2_Hurt_with_shadow_19: 7396570058596203961
+      Beholder2_Hurt_with_shadow_2: 6262357589566719365
+      Beholder2_Hurt_with_shadow_20: 5786590371429245799
+      Beholder2_Hurt_with_shadow_21: 2618964348490998608
+      Beholder2_Hurt_with_shadow_22: 1527903521330274847
+      Beholder2_Hurt_with_shadow_23: -4624736593739585222
+      Beholder2_Hurt_with_shadow_3: -455408905225652124
+      Beholder2_Hurt_with_shadow_4: 8266412665916660033
+      Beholder2_Hurt_with_shadow_5: -1733682624181986214
+      Beholder2_Hurt_with_shadow_6: 1812282351048833439
+      Beholder2_Hurt_with_shadow_7: 3960259266738183429
+      Beholder2_Hurt_with_shadow_8: -5773975377598695308
+      Beholder2_Hurt_with_shadow_9: 5595121241965737852
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

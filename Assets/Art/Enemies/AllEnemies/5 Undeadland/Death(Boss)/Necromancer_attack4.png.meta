@@ -120,6 +120,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -334,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Necromancer_attack4_0: 152988621924946666
+      Necromancer_attack4_1: 4111078625899839198
+      Necromancer_attack4_2: -6739979653100034879
+      Necromancer_attack4_3: 2877688655534528691
+      Necromancer_attack4_4: -5459210141722275602
+      Necromancer_attack4_5: -7614596716927255075
+      Necromancer_attack4_6: 3203063816057040856
+      Necromancer_attack4_7: -838671328782861264
+      Necromancer_attack4_8: -1660906550469403454
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

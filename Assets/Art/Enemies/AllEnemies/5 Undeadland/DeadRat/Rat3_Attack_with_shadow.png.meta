@@ -207,6 +207,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1059,7 +1072,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rat3_Attack_with_shadow_0: 721768372809934012
+      Rat3_Attack_with_shadow_1: -8629023570283615325
+      Rat3_Attack_with_shadow_10: -8671505171744291586
+      Rat3_Attack_with_shadow_11: -6029426596012701221
+      Rat3_Attack_with_shadow_12: -7929994091368082792
+      Rat3_Attack_with_shadow_13: -4235913295771290419
+      Rat3_Attack_with_shadow_14: -838405742680204635
+      Rat3_Attack_with_shadow_15: 7145476839058780429
+      Rat3_Attack_with_shadow_16: -8744106274003672988
+      Rat3_Attack_with_shadow_17: 6062712751215298603
+      Rat3_Attack_with_shadow_18: 2818930195400122758
+      Rat3_Attack_with_shadow_19: -9220723994083508778
+      Rat3_Attack_with_shadow_2: -5248111505818731311
+      Rat3_Attack_with_shadow_20: -7943141277469656201
+      Rat3_Attack_with_shadow_21: 6435915737365623828
+      Rat3_Attack_with_shadow_22: 6739024515639339910
+      Rat3_Attack_with_shadow_23: 5203901482887226379
+      Rat3_Attack_with_shadow_24: 4094391666406154833
+      Rat3_Attack_with_shadow_25: -1243075654812659393
+      Rat3_Attack_with_shadow_26: 3317734944641565853
+      Rat3_Attack_with_shadow_27: -6375682757953687129
+      Rat3_Attack_with_shadow_28: 965343950128676260
+      Rat3_Attack_with_shadow_29: 4425412425098740363
+      Rat3_Attack_with_shadow_3: -1805697659594836553
+      Rat3_Attack_with_shadow_30: 5275856774835327140
+      Rat3_Attack_with_shadow_31: 7556813426231289104
+      Rat3_Attack_with_shadow_32: -5959955183736234284
+      Rat3_Attack_with_shadow_33: -7200691212887041310
+      Rat3_Attack_with_shadow_34: -6389398145438543789
+      Rat3_Attack_with_shadow_35: 1345363709687866570
+      Rat3_Attack_with_shadow_36: -6015838963991545648
+      Rat3_Attack_with_shadow_37: -6473088616122519327
+      Rat3_Attack_with_shadow_4: 5079056825236658320
+      Rat3_Attack_with_shadow_5: 7954051563703856413
+      Rat3_Attack_with_shadow_6: -2772169848289413060
+      Rat3_Attack_with_shadow_7: 1477424506636033124
+      Rat3_Attack_with_shadow_8: -5092887036372462980
+      Rat3_Attack_with_shadow_9: -7931034707412356334
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

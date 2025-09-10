@@ -276,6 +276,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1634,7 +1647,68 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Zombie3_Attack_with_shadow_0: 8538159562265003055
+      Zombie3_Attack_with_shadow_1: 3404499627326144671
+      Zombie3_Attack_with_shadow_10: -8690584784025229684
+      Zombie3_Attack_with_shadow_11: -5329988206774597923
+      Zombie3_Attack_with_shadow_12: -2860461370751098581
+      Zombie3_Attack_with_shadow_13: 6783636918845891523
+      Zombie3_Attack_with_shadow_14: -4652044376674516240
+      Zombie3_Attack_with_shadow_15: -1147665098072587432
+      Zombie3_Attack_with_shadow_16: 5402357912147368660
+      Zombie3_Attack_with_shadow_17: 4875057107995514322
+      Zombie3_Attack_with_shadow_18: -4467710018668412433
+      Zombie3_Attack_with_shadow_19: -3187918227437519051
+      Zombie3_Attack_with_shadow_2: -7425581144245937772
+      Zombie3_Attack_with_shadow_20: -6541013695048309577
+      Zombie3_Attack_with_shadow_21: -2344404400049334702
+      Zombie3_Attack_with_shadow_22: -4798058940225661414
+      Zombie3_Attack_with_shadow_23: -81284778483689507
+      Zombie3_Attack_with_shadow_24: 1285059238136653499
+      Zombie3_Attack_with_shadow_25: 3201526270402451367
+      Zombie3_Attack_with_shadow_26: -640580423445794858
+      Zombie3_Attack_with_shadow_27: -5080362960562896368
+      Zombie3_Attack_with_shadow_28: 237415138726322116
+      Zombie3_Attack_with_shadow_29: 2374001568206895359
+      Zombie3_Attack_with_shadow_3: 696524604212678798
+      Zombie3_Attack_with_shadow_30: -1284323789716005381
+      Zombie3_Attack_with_shadow_31: 8499862936586069923
+      Zombie3_Attack_with_shadow_32: -2378124168002863066
+      Zombie3_Attack_with_shadow_33: 5034684567042952305
+      Zombie3_Attack_with_shadow_34: -4569455597010135869
+      Zombie3_Attack_with_shadow_35: 2900493274434009740
+      Zombie3_Attack_with_shadow_36: -8695773171114905460
+      Zombie3_Attack_with_shadow_37: 5525302563363213335
+      Zombie3_Attack_with_shadow_38: 846056973760716784
+      Zombie3_Attack_with_shadow_39: -3547023052440031227
+      Zombie3_Attack_with_shadow_4: 854535668538536622
+      Zombie3_Attack_with_shadow_40: -393603610302341573
+      Zombie3_Attack_with_shadow_41: -5995867142060859912
+      Zombie3_Attack_with_shadow_42: 4837076203275790717
+      Zombie3_Attack_with_shadow_43: -9203168793490518043
+      Zombie3_Attack_with_shadow_44: -4077587745089497679
+      Zombie3_Attack_with_shadow_45: 5074326735886715674
+      Zombie3_Attack_with_shadow_46: -4325319494284636987
+      Zombie3_Attack_with_shadow_47: -4924605139669164926
+      Zombie3_Attack_with_shadow_48: 3211909224683983005
+      Zombie3_Attack_with_shadow_49: 2618720810727633339
+      Zombie3_Attack_with_shadow_5: 4781345654662051969
+      Zombie3_Attack_with_shadow_50: -33056702806584360
+      Zombie3_Attack_with_shadow_51: 7313730738157774073
+      Zombie3_Attack_with_shadow_52: 1607752212413312189
+      Zombie3_Attack_with_shadow_53: -7818338457860150079
+      Zombie3_Attack_with_shadow_54: -4330803383647227692
+      Zombie3_Attack_with_shadow_55: -7656565204265658652
+      Zombie3_Attack_with_shadow_56: 408137768143385538
+      Zombie3_Attack_with_shadow_57: 3514075590503518352
+      Zombie3_Attack_with_shadow_58: 1896375147295076370
+      Zombie3_Attack_with_shadow_59: 4417748568577155805
+      Zombie3_Attack_with_shadow_6: 6183524088341445189
+      Zombie3_Attack_with_shadow_60: -6104896558907480878
+      Zombie3_Attack_with_shadow_7: 7964267949091541355
+      Zombie3_Attack_with_shadow_8: 5670002319692355551
+      Zombie3_Attack_with_shadow_9: -3384280427794873444
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

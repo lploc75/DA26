@@ -219,6 +219,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1159,7 +1172,49 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Zombie3_Death_with_shadow_0: 3248987726072839759
+      Zombie3_Death_with_shadow_1: 7886734442480369618
+      Zombie3_Death_with_shadow_10: -4527119528203504179
+      Zombie3_Death_with_shadow_11: 6012172909809632427
+      Zombie3_Death_with_shadow_12: 5039384174853442315
+      Zombie3_Death_with_shadow_13: -6569831049690293156
+      Zombie3_Death_with_shadow_14: -2577605689306809635
+      Zombie3_Death_with_shadow_15: -1289826685091425447
+      Zombie3_Death_with_shadow_16: -5549680668697189774
+      Zombie3_Death_with_shadow_17: 5291796703829165191
+      Zombie3_Death_with_shadow_18: 4932123527368467518
+      Zombie3_Death_with_shadow_19: 8088105781902076188
+      Zombie3_Death_with_shadow_2: -7485346733166934494
+      Zombie3_Death_with_shadow_20: 6154882981500233623
+      Zombie3_Death_with_shadow_21: 3836457339619693175
+      Zombie3_Death_with_shadow_22: 2532991899543619132
+      Zombie3_Death_with_shadow_23: -2203366760944565546
+      Zombie3_Death_with_shadow_24: -898953744691055298
+      Zombie3_Death_with_shadow_25: -3098125313278521403
+      Zombie3_Death_with_shadow_26: -888234143511198505
+      Zombie3_Death_with_shadow_27: 6897392245627945436
+      Zombie3_Death_with_shadow_28: -7121939695360044587
+      Zombie3_Death_with_shadow_29: -6367731487315364360
+      Zombie3_Death_with_shadow_3: 2863257249901424197
+      Zombie3_Death_with_shadow_30: 150796092708148481
+      Zombie3_Death_with_shadow_31: 8693146906158578853
+      Zombie3_Death_with_shadow_32: -3608036444466193184
+      Zombie3_Death_with_shadow_33: -1410924278437747170
+      Zombie3_Death_with_shadow_34: -4876802458056703765
+      Zombie3_Death_with_shadow_35: -5215255574058786245
+      Zombie3_Death_with_shadow_36: -6204191272979670728
+      Zombie3_Death_with_shadow_37: 1182438749560832482
+      Zombie3_Death_with_shadow_38: -1825663913775841795
+      Zombie3_Death_with_shadow_39: -37379616254106270
+      Zombie3_Death_with_shadow_4: -1148030932235139180
+      Zombie3_Death_with_shadow_40: 1452447234820116922
+      Zombie3_Death_with_shadow_41: -2715199266457723302
+      Zombie3_Death_with_shadow_5: 8244493562220813545
+      Zombie3_Death_with_shadow_6: 1286061080118778141
+      Zombie3_Death_with_shadow_7: 4147351406999283355
+      Zombie3_Death_with_shadow_8: 3452745475605570760
+      Zombie3_Death_with_shadow_9: 8055411232751722170
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

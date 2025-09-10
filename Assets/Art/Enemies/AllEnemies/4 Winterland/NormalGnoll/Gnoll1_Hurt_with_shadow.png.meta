@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gnoll1_Hurt_with_shadow_0: 538700335071927525
+      Gnoll1_Hurt_with_shadow_1: 2228916712970838018
+      Gnoll1_Hurt_with_shadow_10: -4939928176321389362
+      Gnoll1_Hurt_with_shadow_11: 6075523362442185739
+      Gnoll1_Hurt_with_shadow_12: -7204918699898359211
+      Gnoll1_Hurt_with_shadow_13: -4253755641569416128
+      Gnoll1_Hurt_with_shadow_14: 6504669423306827855
+      Gnoll1_Hurt_with_shadow_15: 8646861115751615842
+      Gnoll1_Hurt_with_shadow_2: -5940660025927989031
+      Gnoll1_Hurt_with_shadow_3: 5365599191688471046
+      Gnoll1_Hurt_with_shadow_4: 173280168849363245
+      Gnoll1_Hurt_with_shadow_5: 959823561255028818
+      Gnoll1_Hurt_with_shadow_6: 5778684090542637164
+      Gnoll1_Hurt_with_shadow_7: 8268905565244387030
+      Gnoll1_Hurt_with_shadow_8: 5468064489614906573
+      Gnoll1_Hurt_with_shadow_9: 7909211238278178617
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

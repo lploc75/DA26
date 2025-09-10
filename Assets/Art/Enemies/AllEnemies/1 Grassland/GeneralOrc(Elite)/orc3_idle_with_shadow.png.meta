@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orc3_idle_with_shadow_0: -2887954982335115268
+      orc3_idle_with_shadow_1: 7419386126676568172
+      orc3_idle_with_shadow_10: 6601339809470942628
+      orc3_idle_with_shadow_11: 7901799507098432585
+      orc3_idle_with_shadow_12: -316232433235464145
+      orc3_idle_with_shadow_13: 9104491060082150464
+      orc3_idle_with_shadow_14: 3936465284089483225
+      orc3_idle_with_shadow_15: -4557837180203633387
+      orc3_idle_with_shadow_2: 4972239948292875835
+      orc3_idle_with_shadow_3: 7525354728706503528
+      orc3_idle_with_shadow_4: 1513071935766699130
+      orc3_idle_with_shadow_5: 7282176081868361245
+      orc3_idle_with_shadow_6: 4836274701471740839
+      orc3_idle_with_shadow_7: 109582674818318469
+      orc3_idle_with_shadow_8: -5704530056514046017
+      orc3_idle_with_shadow_9: -2964611586780900920
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

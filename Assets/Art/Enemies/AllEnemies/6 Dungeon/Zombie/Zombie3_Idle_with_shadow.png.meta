@@ -141,6 +141,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -509,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Zombie3_Idle_with_shadow_0: 7431832050678810604
+      Zombie3_Idle_with_shadow_1: 4127192789369421322
+      Zombie3_Idle_with_shadow_10: 5777635286344300137
+      Zombie3_Idle_with_shadow_11: 6394943680367993938
+      Zombie3_Idle_with_shadow_12: -8189516991075599196
+      Zombie3_Idle_with_shadow_13: -7655403991981642571
+      Zombie3_Idle_with_shadow_14: 741139509671943940
+      Zombie3_Idle_with_shadow_15: -4967160347194445722
+      Zombie3_Idle_with_shadow_2: 1959152710196065748
+      Zombie3_Idle_with_shadow_3: -6412436879028927584
+      Zombie3_Idle_with_shadow_4: -22739516526305328
+      Zombie3_Idle_with_shadow_5: 4131795338022634807
+      Zombie3_Idle_with_shadow_6: 1599961272401242719
+      Zombie3_Idle_with_shadow_7: -733281399256912669
+      Zombie3_Idle_with_shadow_8: 9115390035765950912
+      Zombie3_Idle_with_shadow_9: -3012147171843403954
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
