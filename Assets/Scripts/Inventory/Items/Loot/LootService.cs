@@ -77,19 +77,10 @@ public class LootService : MonoBehaviour
         );
 
         Debug.Log($"[DROP] {def.DisplayName} | Lv {lvl} | {rar} | Affixes {affixes.Count} | Price {price}");
+                 //Debug.Log("Call save");
+        //DatabaseManager.Instance.itemDB.SaveItem(uiItem);
+        return uiItem;     
 
-        // Lưu vào DB (hệ hiện tại của bạn)
-        try
-        {
-            DatabaseManager.Instance.itemDB.SaveItem(uiItem);
-            Debug.Log("[Loot] Saved to DB");
-        }
-        catch (Exception ex)
-        {
-            Debug.LogWarning($"[Loot] SaveItem failed: {ex.Message}");
-        }
-
-        return uiItem;
     }
 
     // ============================================================
