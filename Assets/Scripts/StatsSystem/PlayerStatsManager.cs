@@ -3,7 +3,7 @@
 // Reference: CharacterStats (biến currentStats)
 using System;
 using Assets.Scripts.Database;
-using Assets.Scripts.DTO;
+using Assets.Scripts.StatsSystem.SQLiteItem;
 using UnityEngine;
 
 public class PlayerStatsManager : MonoBehaviour
@@ -13,20 +13,10 @@ public class PlayerStatsManager : MonoBehaviour
 
     [Header("Dữ liệu runtime")]
     public CharacterStats currentStats;
-
-    public DatabasePlayerManager dbManager; // gắn trong Inspector
-
     void Start()
     {
         currentStats = new CharacterStats(baseStats);
         currentStats.RecalculateStats(true);
-
-        // Nếu có dữ liệu cũ thì load lại
-        var savedData = dbManager.LoadPlayer();
-        if (savedData != null)
-        {
-            ApplyDataToStats(savedData);
-        }
         // Debug test
         Debug.Log($"==== PLAYER STATS ====");
         Debug.Log($"Level: {currentStats.Level}");
@@ -49,7 +39,21 @@ public class PlayerStatsManager : MonoBehaviour
     }
     public void SaveStats()
     {
-        dbManager.SavePlayer(currentStats);
+        // Gọi thẳng tới DatabaseManager tổng
+        DatabaseManager.Instance.statsDB.SavePlayer(currentStats);
+    }
+    public void LoadStats()
+    {
+        var data = DatabaseManager.Instance.statsDB.LoadPlayer();
+        if (data != null)
+        {
+            ApplyDataToStats(data);
+            Debug.Log("📥 Player stats loaded!");
+        }
+        else
+        {
+            Debug.Log("⚠️ No saved player stats found.");
+        }
     }
     public void ApplyDataToStats(PlayerData data)
     {
@@ -107,6 +111,5 @@ public class PlayerStatsManager : MonoBehaviour
                   $"AGI:{currentStats.AGI} | INT:{currentStats.INT} | " +
                   $"VIT:{currentStats.VIT} | WIS:{currentStats.WIS} | " +
                   $"Remain:{currentStats.RemainPoints}");
-        SaveStats();
     }
 }
