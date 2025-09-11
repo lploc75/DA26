@@ -1,6 +1,7 @@
 ﻿using System;
 using UnityEngine;
 using Assets.Scripts.StatsSystem.SQLiteItem;
+using Scripts.Inventory;
 
 namespace Assets.Scripts.Database
 {
@@ -11,7 +12,7 @@ namespace Assets.Scripts.Database
         public CharacterStatsDB statsDB;
         public ItemDB itemDB;
         public PlayerStatsManager statsManager;
-        //public InventoryManager inventoryManager;
+        public Inventory inventoryManager; // Kéo từ scene vào Inspector
         void Awake()
         {
             // Singleton pattern
@@ -31,8 +32,8 @@ namespace Assets.Scripts.Database
             if (statsManager != null && statsDB != null)
                 statsDB.SavePlayer(statsManager.currentStats);
 
-            // if (inventoryManager != null && itemDB != null)
-            //     itemDB.SaveItems(inventoryManager.items);
+            if (inventoryManager != null && itemDB != null)
+                itemDB.SaveItems(inventoryManager.GetAllItems());
 
             Debug.Log("💾 All data saved!");
         }
@@ -46,15 +47,16 @@ namespace Assets.Scripts.Database
                     statsManager.ApplyDataToStats(playerData);
             }
 
-            if (itemDB != null)
+            if (inventoryManager != null && itemDB != null)
             {
                 var items = itemDB.LoadItems();
                 if (items != null)
                 {
-                    // inventoryManager.SetItems(items);
+                    inventoryManager.ClearInventory(); // 💥 Dọn slot trước
+                    foreach (var item in items)
+                        inventoryManager.AddItem(item);
                 }
             }
-
             Debug.Log("📥 All data loaded!");
         }
     }

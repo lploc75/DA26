@@ -3,6 +3,7 @@ using UnityEngine;
 using Unity.VisualScripting.Dependencies.Sqlite;
 using System.Collections.Generic;
 using System.Linq;
+using Assets.Scripts.Database;
 
 public class ItemDB
 {
@@ -14,6 +15,22 @@ public class ItemDB
         _conn = new SQLiteConnection(dbPath);
         _conn.CreateTable<ItemEntity>();
         Debug.Log("✅ SQLite DB initialized at: " + dbPath);
+    }
+    public void ClearAllItems()
+    {
+        _conn.DeleteAll<ItemEntity>();
+        Debug.Log("🗑 Cleared all items from DB");
+    }
+
+    public void SaveItems(List<Scripts.Inventory.Item> items)
+    {
+        ClearAllItems();
+        foreach (var item in items)
+        {
+            SaveItem(item);
+            Debug.Log(item);
+        }
+        Debug.Log($"💾 Saved {items.Count} items to DB");
     }
 
     public void SaveItem(Scripts.Inventory.Item item)

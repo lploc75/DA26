@@ -11,7 +11,7 @@ namespace Scripts.Inventory
     public class Inventory : MonoBehaviour
     {
         private List<InventorySlot> _slots;
-
+            
         private void Start()
         {
             _slots = GetComponentsInChildren<InventorySlot>().ToList();
@@ -30,41 +30,41 @@ namespace Scripts.Inventory
                     }
                 }
             }
-            Debug.Log("=== Inventory.Start() ===");
+            //Debug.Log("=== Inventory.Start() ===");
 
-            if (DatabaseManager.Instance == null)
-            {
-                Debug.LogError("❌ DatabaseManager.Instance is NULL");
-                return;
-            }
+            //if (DatabaseManager.Instance == null)
+            //{
+            //    Debug.LogError("❌ DatabaseManager.Instance is NULL");
+            //    return;
+            //}
 
-            if (DatabaseManager.Instance.itemDB == null)
-            {
-                Debug.LogError("❌ DatabaseManager.Instance.DB is NULL");
-                return;
-            }
+            //if (DatabaseManager.Instance.itemDB == null)
+            //{
+            //    Debug.LogError("❌ DatabaseManager.Instance.DB is NULL");
+            //    return;
+            //}
 
-            var savedItems = DatabaseManager.Instance.itemDB.LoadItems();
+            //var savedItems = DatabaseManager.Instance.itemDB.LoadItems();
 
-            if (savedItems == null)
-            {
-                Debug.LogWarning("⚠️ savedItems is NULL");
-                return;
-            }
+            //if (savedItems == null)
+            //{
+            //    Debug.LogWarning("⚠️ savedItems is NULL");
+            //    return;
+            //}
 
-            Debug.Log($"✅ Loaded {savedItems.Count} items from DB");
+            //Debug.Log($"✅ Loaded {savedItems.Count} items from DB");
 
-            foreach (var item in savedItems)
-            {
-                if (item == null)
-                {
-                    Debug.LogWarning("⚠️ One of the loaded items is NULL");
-                    continue;
-                }
+            //foreach (var item in savedItems)
+            //{
+            //    if (item == null)
+            //    {
+            //        Debug.LogWarning("⚠️ One of the loaded items is NULL");
+            //        continue;
+            //    }
 
-                Debug.Log($"AddItem: {item.DefId} | Rarity: {item.Rarity} | Level: {item.ItemLevel}");
-                AddItem(item);
-            }
+            //    Debug.Log($"AddItem: {item.DefId} | Rarity: {item.Rarity} | Level: {item.ItemLevel}");
+            //    AddItem(item);
+            //}
 
         }
 
@@ -130,5 +130,22 @@ namespace Scripts.Inventory
                 Debug.LogWarning("One of the slots is empty, cannot swap.");
             }
         }
+
+        public List<Item> GetAllItems()
+        {
+            return _slots
+                .Where(s => !s.IsEmpty() && s.Item != null)
+                .Select(s => s.Item)
+                .ToList();
+        }
+        public void ClearInventory()
+        {
+            foreach (var slot in _slots)
+            {
+                slot.ClearSlot();
+            }
+            Debug.Log("🧹 Cleared all inventory slots");
+        }
+
     }
 }
