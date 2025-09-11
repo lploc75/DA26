@@ -1,28 +1,51 @@
 ﻿// Scripts/Items/LootService.cs
 using UnityEngine;
 using System;
+using System.Linq;
 using System.Collections.Generic;
-using Assets.Scripts.Database;
+using Assets.Scripts.Database;            // DatabaseManager / ItemDB
+// Các type bạn đã có sẵn:
+// - Rarity, RarityConfig, RarityStat
+// - Stats
+// - ItemDefinition (Equipment)
+// - AreaDropTable (Equipment)
+// - AreaDropTable_Consumable / AreaDropTable_Material (bước 8)
+// - ConsumableDefinition / MaterialDefinition (bước 3/4)
+// - Scripts.Inventory.Item, Scripts.Inventory.AffixEntry
 
 public class LootService : MonoBehaviour
 {
     [Header("Config")]
     public RarityConfig rarityConfig;
+
+    [Tooltip("Bảng drop trang bị (giữ nguyên hệ cũ)")]
     public AreaDropTable[] areaTables;
+
+    [Tooltip("Bảng drop đồ tiêu hao (mới)")]
+    public AreaDropTable_Consumable[] consumableTables;
+
+    [Tooltip("Bảng drop nguyên liệu (mới)")]
+    public AreaDropTable_Material[] materialTables;
 
     System.Random rng;
 
-    void Awake() => rng = new System.Random(Environment.TickCount);
+    void Awake()
+    {
+        rng = new System.Random(Environment.TickCount);
+    }
 
+    // ============================================================
+    // 1) DROP TRANG BỊ (giữ nguyên flow cũ + lưu DB)
+    // ============================================================
     public Scripts.Inventory.Item GenerateOneItemByRegion(int regionId, int playerLevel)
     {
-        var tab = Array.Find(areaTables, t => t.RegionId == regionId);
-        if (tab == null) { Debug.LogWarning($"[Loot] No AreaDropTable for region {regionId}"); return null; }
+        var tab = Array.Find(areaTables, t => t && t.RegionId == regionId);
+        if (!tab) { Debug.LogWarning($"[Loot] No AreaDropTable for region {regionId}"); return null; }
 
         var def = tab.PickItem(rng);
-        if (def == null) { Debug.LogWarning("[Loot] PickItem returned null"); return null; }
+        if (!def) { Debug.LogWarning("[Loot] PickItem returned null"); return null; }
 
-        // Level theo rule của Area
+        // --- Level theo rule của Area ---
         int lvl;
         if (playerLevel >= tab.ItemLevelRange.Min && playerLevel <= tab.ItemLevelRange.Max)
             lvl = tab.RollItemLevel(rng, playerLevel);
@@ -36,14 +59,14 @@ public class LootService : MonoBehaviour
         // Base stats (đã scale theo level)
         var baseStats = def.GetStatsAtLevel(lvl);
 
-        // ✅ Roll affix theo rarity (N dòng, không lặp)
+        // Roll affix theo rarity (N dòng, không lặp)
         var affixes = RollRarityAffixes(rar, rarityConfig, rng);
 
-        // ✅ Cộng affix vào stat cuối cùng
+        // Cộng affix vào stat cuối
         var finalStats = ApplyAffixes(baseStats, affixes);
 
         // Giá bán
-        int price = rarityConfig != null
+        int price = (rarityConfig != null)
             ? rarityConfig.ComputeSellPrice(def.BaseGoldValue, lvl, rar)
             : def.BaseGoldValue;
 
@@ -54,12 +77,75 @@ public class LootService : MonoBehaviour
         );
 
         Debug.Log($"[DROP] {def.DisplayName} | Lv {lvl} | {rar} | Affixes {affixes.Count} | Price {price}");
-        //Debug.Log("Call save");
+                 //Debug.Log("Call save");
         //DatabaseManager.Instance.itemDB.SaveItem(uiItem);
-        return uiItem;       
+        return uiItem;     
+
     }
 
-    // --- Helpers ---
+    // ============================================================
+    // 2) DROP CONSUMABLE (mới) - CHƯA LƯU DB
+    // ============================================================
+    public Scripts.Inventory.Item GenerateConsumableByRegion(int regionId)
+    {
+        var tab = consumableTables?.FirstOrDefault(t => t && t.RegionId == regionId);
+        if (!tab) { Debug.LogWarning($"[Loot] No consumable table for Region {regionId}"); return null; }
+
+        var pick = tab.PickItem(rng);
+        if (!pick) return null;
+
+        int price = Mathf.Max(0, pick.BaseGoldValue);
+        var icon = pick.Icon;
+        var uiItem = new Scripts.Inventory.Item(
+            sprite: icon,
+            defId: pick.Id,
+            itemLevel: 1,
+            rarity: Rarity.Common,
+            scaledStats: default,
+            sellPrice: price,
+            cachedDef: null,
+            affixes: null
+        );
+
+
+        // KHÔNG lưu DB ở bước này để tránh vỡ LoadItems() (đang chỉ reconstruct Equipment)
+        Debug.Log($"[DROP] Consumable: {pick.DisplayName} | Price {price}");
+        return uiItem;
+    }
+
+    // ============================================================
+    // 3) DROP MATERIAL (mới) - CHƯA LƯU DB
+    // ============================================================
+    public Scripts.Inventory.Item GenerateMaterialByRegion(int regionId)
+    {
+        var tab = materialTables?.FirstOrDefault(t => t && t.RegionId == regionId);
+        if (!tab) { Debug.LogWarning($"[Loot] No material table for Region {regionId}"); return null; }
+
+        var pick = tab.PickItem(rng);
+        if (!pick) return null;
+
+        int price = Mathf.Max(0, pick.BaseGoldValue);
+        var icon = pick.Icon;
+
+        var uiItem = new Scripts.Inventory.Item(
+         sprite: icon,
+         defId: pick.Id,
+         itemLevel: 1,
+         rarity: Rarity.Common,
+         scaledStats: default,
+         sellPrice: price,
+         cachedDef: null,
+         affixes: null
+     );
+
+        // KHÔNG lưu DB ở bước này
+        Debug.Log($"[DROP] Material: {pick.DisplayName} | Price {price}");
+        return uiItem;
+    }
+
+    // ============================================================
+    // Helpers
+    // ============================================================
     static List<Scripts.Inventory.AffixEntry> RollRarityAffixes(Rarity r, RarityConfig rc, System.Random rng)
     {
         var result = new List<Scripts.Inventory.AffixEntry>();
@@ -111,11 +197,11 @@ public class LootService : MonoBehaviour
                 // Combat
                 case RarityStat.Armor: s.Armor += Mathf.RoundToInt(a.Value); break;
                 case RarityStat.BaseDamage: s.BaseDamage += Mathf.RoundToInt(a.Value); break;
-                case RarityStat.CritChance: s.CritChance += a.Value; break; // %
-                case RarityStat.CritDamagePct: s.CritDamagePct += a.Value; break; // %
+                case RarityStat.CritChance: s.CritChance += a.Value; break;         // %
+                case RarityStat.CritDamagePct: s.CritDamagePct += a.Value; break;   // %
 
                 // Regens
-                case RarityStat.HealthRegenPerSec: s.HealthRegenPerSec += a.Value; break;
+                case RarityStat.HealthRegenPerSec: s.HealthRegenPerSec += a.Value; break; 
                 case RarityStat.ManaRegenPerSec: s.ManaRegenPerSec += a.Value; break;
             }
         }

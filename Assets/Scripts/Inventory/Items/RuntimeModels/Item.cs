@@ -18,33 +18,28 @@ namespace Scripts.Inventory
     [Serializable]
     public class Item
     {
-        [SerializeField] private Sprite sprite;           // icon hiển thị
-        public Sprite Sprite => sprite;
+        public Sprite Sprite { get; private set; }
+        public string DefId { get; private set; }
+        public int ItemLevel { get; private set; }
+        public Rarity Rarity { get; private set; }
+        public Stats ScaledStats { get; private set; }
+        public int SellPrice { get; private set; }
+        public ItemDefinition CachedDef { get; private set; }
+        public List<AffixEntry> Affixes { get; private set; }
 
-        // Metadata/runtime
-        public string DefId;
-        public int ItemLevel;
-        public Rarity Rarity;
-        public Stats ScaledStats;                         // stat đã scale base + cộng affix (kết quả cuối)
-        public int SellPrice;
-        public List<AffixEntry> Affixes;                  // ✅ các dòng rarity đã roll
-
-        [NonSerialized] public ItemDefinition CachedDef;
-
-        public Item(Sprite sprite,
-                    string defId, int itemLevel, Rarity rarity,
+        public Item(Sprite sprite, string defId, int itemLevel, Rarity rarity,
                     Stats scaledStats, int sellPrice,
                     ItemDefinition cachedDef,
                     List<AffixEntry> affixes = null)
         {
-            this.sprite = sprite;
+            Sprite = sprite;
             DefId = defId;
             ItemLevel = itemLevel;
             Rarity = rarity;
             ScaledStats = scaledStats;
             SellPrice = sellPrice;
             CachedDef = cachedDef;
-            Affixes = affixes ?? new List<AffixEntry>(0);
+            Affixes = affixes ?? new List<AffixEntry>();
         }
     }
 }
