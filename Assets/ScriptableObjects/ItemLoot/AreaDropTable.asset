@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ce73233cfb426541877638234a846c0, type: 3}
   m_Name: AreaDropTable
   m_EditorClassIdentifier: 
-  RegionId: 2
+  RegionId: 1
   RegionName: Forest
   ItemLevelRange:
     Min: 5

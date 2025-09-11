@@ -638,33 +638,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 748434673}
   placedItemImage: {fileID: 0}
 --- !u!1 &15970131
@@ -4036,33 +4009,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 221823686}
   placedItemImage: {fileID: 0}
 --- !u!1 &163202559
@@ -4117,33 +4063,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1863013385}
   placedItemImage: {fileID: 0}
 --- !u!1 &165426426
@@ -4198,33 +4117,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: 85c4ce378ec8620499f8757fe650b99b, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1163851759}
   placedItemImage: {fileID: 0}
 --- !u!1 &165975415
@@ -5591,33 +5483,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: eda53e894903c2148836dc359ce5d723, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1470245101}
   placedItemImage: {fileID: 0}
 --- !u!1 &248730757
@@ -6755,33 +6620,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1381146057}
   placedItemImage: {fileID: 0}
 --- !u!1001 &297153589
@@ -6898,7 +6736,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6679512160965867052, guid: 8f60256f1d922b94dac15708207241b4, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -8.953278
+      value: -8.953247
       objectReference: {fileID: 0}
     - target: {fileID: 6679512160965867052, guid: 8f60256f1d922b94dac15708207241b4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -7753,33 +7591,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: 294ce061a6ab6044eaf5a9c9473a38dc, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 248730759}
   placedItemImage: {fileID: 0}
 --- !u!1001 &355514732
@@ -9081,33 +8892,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1194863557}
   placedItemImage: {fileID: 0}
 --- !u!1 &413579004
@@ -9355,33 +9139,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 2112660806}
   placedItemImage: {fileID: 0}
 --- !u!1 &419218534
@@ -10355,33 +10112,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: c4767f548b169934aa4cd57008a057ed, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 959551814}
   placedItemImage: {fileID: 0}
 --- !u!1 &466388580
@@ -10436,33 +10166,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 2052833907}
   placedItemImage: {fileID: 0}
 --- !u!1 &468332090
@@ -11610,7 +11313,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.5310669, y: -0.12658691}
+  m_AnchoredPosition: {x: 0.53100586, y: -0.12658691}
   m_SizeDelta: {x: 1120, y: 630}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &504548424
@@ -11948,7 +11651,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000061035156, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1120, y: 630}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &526210751
@@ -12822,33 +12525,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1241852235}
   placedItemImage: {fileID: 0}
 --- !u!1 &544512379
@@ -15633,33 +15309,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: 8a6153cab18c2cf429ff511d0d2f3ff9, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1635939755}
   placedItemImage: {fileID: 0}
 --- !u!1 &732493314
@@ -16656,33 +16305,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: 17e5a0649f629284f9c28e73326b9a1b, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1997924748}
   placedItemImage: {fileID: 0}
 --- !u!1 &781102848
@@ -19845,33 +19467,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 2025263745}
   placedItemImage: {fileID: 0}
 --- !u!1 &979913892
@@ -21821,7 +21416,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.4075521, y: 0.2175926}
   m_AnchorMax: {x: 0.85807294, y: 0.8587963}
-  m_AnchoredPosition: {x: -255, y: -0.000030517578}
+  m_AnchoredPosition: {x: -255, y: 0}
   m_SizeDelta: {x: 370.097, y: 195.141}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1078991017
@@ -22167,33 +21762,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1643087163}
   placedItemImage: {fileID: 0}
 --- !u!1 &1103066201
@@ -28254,33 +27822,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: e181467b6b0aa3e4fad9ee1500b5229a, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1173205899}
   placedItemImage: {fileID: 0}
 --- !u!1 &1400677637
@@ -28753,33 +28294,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: 0f28069593b50814a962edf881ff3857, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 818311255}
   placedItemImage: {fileID: 0}
 --- !u!1 &1424585013
@@ -28876,33 +28390,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: b259bce8f8c0e374f80aada828bcba93, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 2086056342}
   placedItemImage: {fileID: 0}
 --- !u!1 &1443142108
@@ -29993,33 +29480,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 2123012919}
   placedItemImage: {fileID: 0}
 --- !u!1 &1470245099
@@ -30370,33 +29830,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 640678556}
   placedItemImage: {fileID: 0}
 --- !u!1 &1490461559
@@ -31534,7 +30967,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 18.638367, y: 5.93042}
+  m_AnchoredPosition: {x: 18.638428, y: 5.93042}
   m_SizeDelta: {x: 1120, y: 630.2533}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1547132298
@@ -31610,6 +31043,10 @@ MonoBehaviour:
   rarityConfig: {fileID: 11400000, guid: 2be06f9d6d389c7499e0a472c9338a44, type: 2}
   areaTables:
   - {fileID: 11400000, guid: 6ff17ed5b377e844a9a6d605e55021fc, type: 2}
+  consumableTables:
+  - {fileID: 11400000, guid: c92890c153f2a02479e94e87c239e9e8, type: 2}
+  materialTables:
+  - {fileID: 11400000, guid: 222d60b9914d12d47a5e307f58ec4022, type: 2}
 --- !u!114 &1548378943
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31622,10 +31059,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b889bbda4147c3444bcb97c89a70b1a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  autoLoadResources: 1
+  resourcesRoot: Items
+  equipmentFolder: Equipment
+  consumableFolder: Consumables
+  materialFolder: Materials
   definitions:
   - {fileID: 11400000, guid: 84bc75eb5e98fb14ca650c0819d71430, type: 2}
-  autoLoadResources: 1
-  resourcesFolder: Items
+  consumables:
+  - {fileID: 11400000, guid: dd4992497214e99499ff5ee7aa1db11d, type: 2}
+  materials:
+  - {fileID: 11400000, guid: 899a099f34e78bf4088a540a4dd8d8bf, type: 2}
 --- !u!4 &1548378944
 Transform:
   m_ObjectHideFlags: 0
@@ -31805,33 +31249,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: e2716e5920328714587eabc2bed3f88d, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 175911017}
   placedItemImage: {fileID: 0}
 --- !u!1 &1563683061
@@ -32462,33 +31879,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: 5c99ae1e6ada67540bb7da32fb57884d, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 904198211}
   placedItemImage: {fileID: 0}
 --- !u!1 &1594790451
@@ -33976,33 +33366,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: 57498e0c095b7ee4b88abdadf8231b60, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1554489334}
   placedItemImage: {fileID: 0}
 --- !u!1 &1671530963
@@ -34410,33 +33773,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: 6a563d5c3d2eb514b8d1a73b68233439, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1359976342}
   placedItemImage: {fileID: 0}
 --- !u!1 &1703278031
@@ -35707,9 +35043,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lootService: {fileID: 1548378942}
   inventory: {fileID: 1758048672}
-  currentRegionId: 2
+  currentRegionId: 1
   playerLevel: 6
-  triggerKey: 105
+  triggerEquipKey: 105
+  triggerConsumableKey: 111
+  triggerMaterialKey: 112
 --- !u!1001 &1758920382
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35959,33 +35297,6 @@ MonoBehaviour:
   displayItemImage: {fileID: 1759791462}
   transformToMove: {fileID: 1759791460}
   dragging: 0
-  dragItem:
-    sprite: {fileID: 0}
-    DefId: 
-    ItemLevel: 0
-    Rarity: 0
-    ScaledStats:
-      MaxHealth: 0
-      MaxMana: 0
-      MaxHunger: 0
-      MaxSanity: 0
-      MaxStamina: 0
-      HealthRegenPerSec: 0
-      ManaRegenPerSec: 0
-      StaminaRegenPerSec: 0
-      HungerDecayPerSec: 0
-      SanityRegenPerSec: 0
-      Strength: 0
-      Agility: 0
-      Intelligence: 0
-      Vitality: 0
-      Wisdom: 0
-      Armor: 0
-      BaseDamage: 0
-      CritChance: 0
-      CritDamagePct: 0
-    SellPrice: 0
-    Affixes: []
 --- !u!114 &1759791462
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36918,33 +36229,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 21300000, guid: 45ab5c35e77274643b9dc65e53a4c6d8, type: 3}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 764660198}
   placedItemImage: {fileID: 0}
 --- !u!1 &1788534464
@@ -37895,33 +37179,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1858339528}
   placedItemImage: {fileID: 0}
 --- !u!1001 &1828117044
@@ -39150,33 +38407,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 268083682}
   placedItemImage: {fileID: 0}
 --- !u!1 &1877505825
@@ -43243,33 +42473,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 1043868754}
   placedItemImage: {fileID: 0}
 --- !u!1 &2054568162
@@ -44344,33 +43547,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   initialItem:
     hasValue: 0
-    value:
-      sprite: {fileID: 0}
-      DefId: 
-      ItemLevel: 0
-      Rarity: 0
-      ScaledStats:
-        MaxHealth: 0
-        MaxMana: 0
-        MaxHunger: 0
-        MaxSanity: 0
-        MaxStamina: 0
-        HealthRegenPerSec: 0
-        ManaRegenPerSec: 0
-        StaminaRegenPerSec: 0
-        HungerDecayPerSec: 0
-        SanityRegenPerSec: 0
-        Strength: 0
-        Agility: 0
-        Intelligence: 0
-        Vitality: 0
-        Wisdom: 0
-        Armor: 0
-        BaseDamage: 0
-        CritChance: 0
-        CritDamagePct: 0
-      SellPrice: 0
-      Affixes: []
   itemIcon: {fileID: 817539059}
   placedItemImage: {fileID: 0}
 --- !u!1 &2135978199
