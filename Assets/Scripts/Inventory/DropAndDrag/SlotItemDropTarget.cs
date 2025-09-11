@@ -15,13 +15,23 @@ namespace Scripts.Inventory
 
         public void OnPointerEnter(PointerEventData eventData)
         {
-            var dragItemHolder = DragItemHolder.Instance;
-            // Chỉ placeholder khi đang kéo và slot trống
-            if (dragItemHolder.dragging && slot.IsEmpty())
+            if (slot == null)
             {
-                dragItemHolder.TargetSlotToDrop(slot);
+                Debug.LogError("Slot chưa gán trong SlotItemDropTarget!", this);
+                return;
             }
+
+            var dragItemHolder = DragItemHolder.Instance;
+            if (dragItemHolder == null || !dragItemHolder.dragging || !slot.IsEmpty())
+                return;
+
+            if (slot is EquipmentSlot equipSlot && (dragItemHolder.dragItem?.CachedDef.Type != equipSlot.AllowedType))
+            {
+                return; // Không placeholder nếu type không khớp
+            }
+            dragItemHolder.TargetSlotToDrop(slot);
         }
+
 
 
         public void OnPointerExit(PointerEventData eventData)
