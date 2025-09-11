@@ -67,8 +67,7 @@ namespace Scripts.Inventory
                     if (presenter != null && _currentSlot.Item != null)
                     {
                         var it = _currentSlot.Item;
-                        var def = it.CachedDef ?? ItemDatabase.Instance?.GetItemById(it.DefId);
-                        Debug.Log($"[Tooltip] ShowFor → {def?.DisplayName ?? it.DefId} | Lv{it.ItemLevel} | {it.Rarity} | Price {it.SellPrice}");
+                        var def = it.CachedDef ?? ItemDatabase.Instance?.GetItemById(it.DefId);                        
                         presenter.ShowFor(it);
                     }
                     if (TooltipSimple.I != null)
@@ -79,7 +78,7 @@ namespace Scripts.Inventory
                 }
 
 
-                Debug.Log($"[HOVER ENTER] {_currentSlot.name} -> index {_currentIndex} (row {_row}, col {_col})");
+                //Debug.Log($"[HOVER ENTER] {_currentSlot.name} -> index {_currentIndex} (row {_row}, col {_col})");
             }
             else
             {
@@ -90,7 +89,7 @@ namespace Scripts.Inventory
 
         private void LogExitAndClear()
         {
-            Debug.Log($"[HOVER EXIT ] {_currentSlot.name} -> index {_currentIndex} (row {_row}, col {_col})");
+            //Debug.Log($"[HOVER EXIT ] {_currentSlot.name} -> index {_currentIndex} (row {_row}, col {_col})");
             HideTooltip();
             _currentSlot = null;
             _currentIndex = _row = _col = -1;

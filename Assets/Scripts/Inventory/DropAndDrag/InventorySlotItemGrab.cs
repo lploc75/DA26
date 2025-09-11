@@ -5,9 +5,6 @@ using UnityEngine.EventSystems;
 
 namespace Scripts.Inventory
 {
-    /// <summary>
-    /// Xử lý tương tác kéo/thả từ các ô InventorySlot (raycast theo tag).
-    /// </summary>
     public class InventorySlotItemGrab : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IDragHandler
     {
         private const string InventorySlotTag = "InventorySlot";
@@ -69,29 +66,58 @@ namespace Scripts.Inventory
 
             targetSlot.RemovePlaceholder();
 
-            if (targetSlot.IsEmpty())
+            // Xử lý drop vào EquipmentSlot
+            if (targetSlot is EquipmentSlot equipTarget)
             {
-                // Cấm thả vào ô trống
-                draggedSlot.ResetVisual();
-                DragItemHolder.Instance.DropItem();
-                return;
-            }
+                var dragItem = DragItemHolder.Instance.dragItem;
+                if (dragItem.CachedDef.Type != equipTarget.AllowedType)
+                {
+                    Debug.LogWarning("Item type does not match EquipmentSlot type.");
+                    draggedSlot.ResetVisual();
+                    DragItemHolder.Instance.DropItem();
+                    return;
+                }
 
+                if (equipTarget.IsEmpty())
+                {
+                    // Equip vào slot trống
+                    equipTarget.PlaceItem(dragItem);
+                    draggedSlot.ClearSlot();
+                }
+                else
+                {
+                    // Swap: unequip item cũ về inventory slot trống
+                    if (!inventory.HasFreeSpace())
+                    {
+                        Debug.LogWarning("No free space in inventory for unequip!");
+                        draggedSlot.ResetVisual();
+                        DragItemHolder.Instance.DropItem();
+                        return;
+                    }
+                    var unequipItem = equipTarget.Item;
+                    var emptyInventorySlot = inventory.GetNextEmptySlotForItem();
+                    emptyInventorySlot.PlaceItem(unequipItem);
+                    equipTarget.PlaceItem(dragItem);
+                    draggedSlot.ClearSlot();
+                }
+            }
             else if (targetSlot is InventorySlot)
             {
-                // SWAP: chỉ cho swap giữa các inventory slot
-                Debug.Log("Target Slot is not empty. Proceeding with SwapItems.");
-                var tempItem = targetSlot.Item;
-                targetSlot.PlaceItem(DragItemHolder.Instance.dragItem);
-                draggedSlot.PlaceItem(tempItem);
-            }
-            else
-            {
-                // Không swap với EquipmentSlot đang có item
-                Debug.Log("Cannot swap with EquipmentSlot.");
-                draggedSlot.ResetVisual();
-                DragItemHolder.Instance.DropItem();
-                return;
+                // Logic swap inventory cũ
+                if (!targetSlot.IsEmpty())
+                {
+                    Debug.Log("Target Slot is not empty. Proceeding with SwapItems.");
+                    var tempItem = targetSlot.Item;
+                    targetSlot.PlaceItem(DragItemHolder.Instance.dragItem);
+                    draggedSlot.PlaceItem(tempItem);
+                }
+                else
+                {
+                    // Cấm thả vào ô trống inventory
+                    draggedSlot.ResetVisual();
+                    DragItemHolder.Instance.DropItem();
+                    return;
+                }
             }
 
             draggedSlot.ResetVisual();
@@ -99,10 +125,8 @@ namespace Scripts.Inventory
 
             DragItemHolder.Instance.DropItem();
 
-            //if (inventory != null)
-            //{
-            //    inventory.RemoveBlanks();
-            //}
+            // Compact inventory sau drop
+            inventory.RemoveBlanks();
         }
 
         public void OnDrag(PointerEventData eventData)
@@ -110,7 +134,7 @@ namespace Scripts.Inventory
             // blank implementation
         }
 
-        private static Slot FindSlot(Vector3 mousePosition, string tag)
+        public static Slot FindSlot(Vector3 mousePosition, string tag)
         {
             var pointerData = new PointerEventData(EventSystem.current)
             {
@@ -120,8 +144,22 @@ namespace Scripts.Inventory
 
             var results = new List<RaycastResult>();
             EventSystem.current.RaycastAll(pointerData, results);
-            var slotGo = results.Select(r => r.gameObject).FirstOrDefault(go => go.CompareTag(tag));
-            return slotGo == null ? null : slotGo.GetComponentInParent<Slot>();
+
+            // Debug để kiểm tra raycast
+            if (results.Count == 0)
+            {
+                Debug.LogWarning("RaycastAll không tìm thấy object nào!");
+            }
+            else
+            {
+                foreach (var res in results)
+                {
+                    Debug.Log($"Raycast hit: {res.gameObject.name} (tag: {res.gameObject.tag})");
+                }
+            }
+
+            var slotGo = results.FirstOrDefault(r => r.gameObject.CompareTag(tag)).gameObject;
+            return slotGo != null ? slotGo.GetComponentInParent<Slot>() : null;
         }
     }
 }
