@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using Assets.Scripts.Database;
 using UnityEngine;
 
 namespace Scripts.Inventory
@@ -37,13 +38,13 @@ namespace Scripts.Inventory
                 return;
             }
 
-            if (DatabaseManager.Instance.DB == null)
+            if (DatabaseManager.Instance.itemDB == null)
             {
                 Debug.LogError("❌ DatabaseManager.Instance.DB is NULL");
                 return;
             }
 
-            var savedItems = DatabaseManager.Instance.DB.LoadItems();
+            var savedItems = DatabaseManager.Instance.itemDB.LoadItems();
 
             if (savedItems == null)
             {

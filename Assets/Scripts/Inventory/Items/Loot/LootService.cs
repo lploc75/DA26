@@ -2,6 +2,7 @@
 using UnityEngine;
 using System;
 using System.Collections.Generic;
+using Assets.Scripts.Database;
 
 public class LootService : MonoBehaviour
 {
@@ -54,12 +55,11 @@ public class LootService : MonoBehaviour
 
         Debug.Log($"[DROP] {def.DisplayName} | Lv {lvl} | {rar} | Affixes {affixes.Count} | Price {price}");
         Debug.Log("Call save");
-        DatabaseManager.Instance.DB.SaveItem(uiItem);
+        DatabaseManager.Instance.itemDB.SaveItem(uiItem);
         return uiItem;       
     }
 
     // --- Helpers ---
-
     static List<Scripts.Inventory.AffixEntry> RollRarityAffixes(Rarity r, RarityConfig rc, System.Random rng)
     {
         var result = new List<Scripts.Inventory.AffixEntry>();

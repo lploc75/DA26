@@ -66,16 +66,4 @@ public class StatsUIManager : MonoBehaviour
         levelValue.text = stats.Level.ToString();
         remainPointsValue.text = stats.RemainPoints.ToString();
     }
-    public void OnSaveButton()
-    {
-        playerStats.SaveStats();
-    }
-
-    public void OnLoadButton()
-    {
-        var savedData = playerStats.dbManager.LoadPlayer();
-        if (savedData != null)
-            playerStats.ApplyDataToStats(savedData);
-    }
-
 }

@@ -4,15 +4,16 @@ using Unity.VisualScripting.Dependencies.Sqlite;
 using System.Collections.Generic;
 using System.Linq;
 
-public class GameDatabase
+public class ItemDB
 {
     private SQLiteConnection _conn;
 
-    public GameDatabase(string dbName = "game.db")
+    public ItemDB(string dbName = "game.db")
     {
         string dbPath = Path.Combine(Application.persistentDataPath, dbName);
         _conn = new SQLiteConnection(dbPath);
         _conn.CreateTable<ItemEntity>();
+        Debug.Log("✅ SQLite DB initialized at: " + dbPath);
     }
 
     public void SaveItem(Scripts.Inventory.Item item)
@@ -27,7 +28,6 @@ public class GameDatabase
         };
         _conn.Insert(entity);
         Debug.Log($"💾 Insert into DB: {entity.DefId}, Lvl {entity.ItemLevel}, Rarity {entity.Rarity}");
-
     }
 
     public List<Scripts.Inventory.Item> LoadItems()

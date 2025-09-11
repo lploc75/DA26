@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Unity.VisualScripting.Dependencies.Sqlite;
 
-namespace Assets.Scripts.DTO
+namespace Assets.Scripts.StatsSystem.SQLiteItem
 {
     [Table("PlayerStats")]
     public class PlayerData
@@ -46,4 +46,5 @@ namespace Assets.Scripts.DTO
         public int Level { get; set; }
         public int RemainPoints { get; set; }
     }
+
 }
