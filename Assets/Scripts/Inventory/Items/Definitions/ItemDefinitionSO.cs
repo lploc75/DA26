@@ -51,14 +51,14 @@ public struct Stats
 }
 
 [CreateAssetMenu(fileName = "NewItem", menuName = "Game/Item Definition")]
-public class ItemDefinition : ScriptableObject
+public class ItemDefinition : ScriptableObject, IItemDefinition   // 👈 thêm interface
 {
     [Header("Identity")]
     public string Id;
     public string DisplayName;
-    [TextArea(2, 4)] public string Description;   // ✅ mới thêm: mô tả hiển thị tooltip
-    public Sprite Icon;                            // icon riêng của item
-    public Sprite TypeIcon;                        // ✅ mới thêm: icon theo loại (để gán vào ô 'Type' trong tooltip)
+    [TextArea(2, 4)] public string Description;
+    public Sprite Icon;
+    public Sprite TypeIcon;
     public ItemType Type;
     public ClassRestriction ClassOnly = ClassRestriction.None;
 
@@ -75,7 +75,12 @@ public class ItemDefinition : ScriptableObject
     [Header("Scaling")]
     [Tooltip("Growth per level (e.g. 0.15 = +15% each level; áp dụng cho MỌI stat base)")]
     public float GrowthPercent = 0.15f;
-
+    ItemCategory IItemDefinition.Category => ItemCategory.Equipment;
+    int IItemDefinition.MaxStack => 1;
+    string IItemDefinition.Id => Id;
+    string IItemDefinition.DisplayName => DisplayName;
+    Sprite IItemDefinition.Icon => Icon;
+    int IItemDefinition.BaseGoldValue => BaseGoldValue;
     /// <summary>
     /// Trả về stat đã scale theo level (mọi stat base tăng 15%/cấp).
     /// </summary>
