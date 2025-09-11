@@ -109,7 +109,7 @@ public class LootService : MonoBehaviour
 
 
         // KHÔNG lưu DB ở bước này để tránh vỡ LoadItems() (đang chỉ reconstruct Equipment)
-        Debug.Log($"[DROP] Consumable: {pick.DisplayName} | Price {price}");
+        Debug.Log($"[Loot] Picked consumable: {pick.DisplayName} | Id={pick.Id} | Icon={(pick.Icon ? pick.Icon.name : "NULL")} | Price={price}");
         return uiItem;
     }
 
