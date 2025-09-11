@@ -8776,6 +8776,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   statsManager: {fileID: 1532017027}
+  inventoryManager: {fileID: 1758048672}
 --- !u!4 &383976788
 Transform:
   m_ObjectHideFlags: 0
