@@ -26,5 +26,5 @@ public class ItemDatabase : MonoBehaviour
     }
 
     public ItemDefinition GetItemById(string id)
-        => (!string.IsNullOrEmpty(id) && _map.TryGetValue(id, out var def)) ? def : null;
+    => (!string.IsNullOrEmpty(id) && _map.TryGetValue(id, out var def)) ? def : null;
 }
