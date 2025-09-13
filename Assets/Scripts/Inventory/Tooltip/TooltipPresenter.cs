@@ -87,30 +87,36 @@ public class TooltipPresenter : MonoBehaviour
     // ==== ADD new methods below (keep your existing RenderEquipment/BuildRows/RenderRows/Utils) ====
 
     // CONSUMABLE
-    void RenderConsumable(ConsumableDefinition def, Item uiItem)
+    // Build các dòng hiệu ứng từ ConsumableDefinition (đa hiệu ứng)
+    // Build các dòng hiệu ứng từ ConsumableDefinition (đa hiệu ứng)
+    List<(string label, string value)> BuildConsumableLines(ConsumableDefinition def)
     {
-        if (nameTMP) nameTMP.text = string.IsNullOrEmpty(def.DisplayName) ? def.Id : def.DisplayName;
-        if (descTMP) descTMP.text = def.Description;
+        var result = new List<(string, string)>(6);
+        if (def.Effects == null || def.Effects.Length == 0) return result;
 
-        if (typeImage) typeImage.sprite = null;
-        if (rarityTMP) rarityTMP.text = ""; // không dùng rarity ở bước này
-        if (levelTMP) levelTMP.text = "";  // không hiển thị level
+        foreach (var e in def.Effects)
+        {
+            // Map target → nhãn
+            string label = e.Target switch
+            {
+                EffectTarget.Health => "HP",
+                EffectTarget.Mana => "MP",
+                EffectTarget.Hunger => "Hunger",
+                EffectTarget.Sanity => "Sanity",
+                EffectTarget.Stamina => "Stamina",
+                _ => "Effect"
+            };
 
-        // Price: ưu tiên giá trên item (nếu đã tính), fallback base
-        int price = uiItem.SellPrice > 0 ? uiItem.SellPrice : def.BaseGoldValue;
-        if (priceTMP) priceTMP.text = FormatGold(price);
+            // Giá trị hiển thị: theo Flat/Percent (+x | +x%)
+            string value = e.AmountType == AmountType.Percent
+                ? FormatVal(e.Amount, percent: true, plus: true)   // ví dụ: +10%
+                : FormatVal(e.Amount, percent: false, plus: true); // ví dụ: +25
 
-        // Lines: "Công dụng", "Duration" (nếu có)
-        ClearAllLines();
-        int i = 0;
-        var effectText = BuildConsumableEffect(def);
-        if (!string.IsNullOrEmpty(effectText))
-            SetLine(i++, "Công dụng", effectText, isRarity: false);
+            result.Add((label, value));
+            if (result.Count >= 6) break; // tối đa 6 dòng như yêu cầu
+        }
 
-        if (def.DurationSeconds > 0f)
-            SetLine(i++, "Duration", $"{def.DurationSeconds:0.#}s", isRarity: false);
-
-        for (; i < lines.Length; i++) HideLine(i);
+        return result;
     }
 
     // MATERIAL
@@ -131,20 +137,6 @@ public class TooltipPresenter : MonoBehaviour
     }
 
     // Tuỳ hóa "công dụng" thành 1 dòng gọn
-    string BuildConsumableEffect(ConsumableDefinition def)
-    {
-        switch (def.EffectKind)
-        {
-            case ConsumableEffectKind.HealHealthFlat: return $"+{Mathf.RoundToInt(def.Amount)} HP";
-            case ConsumableEffectKind.HealManaFlat: return $"+{Mathf.RoundToInt(def.Amount)} MP";
-            case ConsumableEffectKind.HealHealthPercent: return $"+{def.Amount:0.#}% Max HP";
-            case ConsumableEffectKind.HealManaPercent: return $"+{def.Amount:0.#}% Max MP";
-            case ConsumableEffectKind.AddBuffFlat: return $"+{Mathf.RoundToInt(def.Amount)} (Buff)";
-            case ConsumableEffectKind.AddBuffPercent: return $"+{def.Amount:0.#}% (Buff)";
-            case ConsumableEffectKind.Custom: return "Special Effect";
-            default: return null;
-        }
-    }
 
     public void Hide() => gameObject.SetActive(false);
 
@@ -166,6 +158,34 @@ public class TooltipPresenter : MonoBehaviour
         // Rows: BASE + RARITY
         var rows = BuildRows(def, uiItem);
         RenderRows(rows);
+    }
+    // CONSUMABLE (đa hiệu ứng: hiển thị từng effect thành 1 dòng)
+    void RenderConsumable(ConsumableDefinition def, Item uiItem)
+    {
+        // Header
+        if (nameTMP) nameTMP.text = string.IsNullOrEmpty(def.DisplayName) ? def.Id : def.DisplayName;
+        if (descTMP) descTMP.text = def.Description;
+
+        if (typeImage) typeImage.sprite = null; // có thể set icon loại "Consumable" riêng nếu bạn có
+        if (rarityTMP) rarityTMP.text = "";     // chưa dùng rarity cho consumable
+        if (levelTMP) levelTMP.text = "";       // không hiển thị level
+
+        // Price: ưu tiên giá trên item (nếu đã tính), fallback base
+        int price = (uiItem != null && uiItem.SellPrice > 0) ? uiItem.SellPrice : def.BaseGoldValue;
+        if (priceTMP) priceTMP.text = FormatGold(price);
+
+        // Lines: mỗi EffectEntry → 1 dòng, tối đa 6
+        ClearAllLines();
+
+        var rows = BuildConsumableLines(def);
+        int count = Mathf.Min(rows.Count, lines.Length);
+        for (int i = 0; i < count; i++)
+        {
+            var row = rows[i]; // (label, value)
+            SetLine(i, row.label, row.value, isRarity: false);
+        }
+        // Ẩn các dòng thừa
+        for (int i = count; i < lines.Length; i++) HideLine(i);
     }
 
 

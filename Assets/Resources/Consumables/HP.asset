@@ -9,16 +9,23 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 03897688c05d95442859f454c5d85875, type: 3}
+  m_Script: {fileID: 0}
   m_Name: HP
-  m_EditorClassIdentifier: 
-  Id: 2
-  DisplayName: HP Potion
-  Description: 123
+  m_EditorClassIdentifier: Assembly-CSharp::ConsumableDefinition
+  Id: 4
+  DisplayName: HP
+  Description: HP
   Icon: {fileID: 21300000, guid: 17e5a0649f629284f9c28e73326b9a1b, type: 3}
   BaseGoldValue: 5
   MaxStack: 99
-  EffectKind: 0
-  Amount: 50
-  DurationSeconds: 0
-  CooldownSeconds: 0
+  Effects:
+  - Target: 0
+    AmountType: 0
+    Amount: 50
+    DurationSeconds: 0
+    CooldownSeconds: 0
+  - Target: 1
+    AmountType: 0
+    Amount: 50
+    DurationSeconds: 0
+    CooldownSeconds: 0
